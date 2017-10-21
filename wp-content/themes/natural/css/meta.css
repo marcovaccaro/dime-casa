@@ -1,0 +1,15 @@
+.meta-text {
+    width: 300px;
+}
+.hidden-input {
+    display: none;
+}
+.meta-image {
+    width: 600px;
+}
+.meta-gmap {
+    width: 600px;
+}
+.meta-num {
+    width: 50px;
+}

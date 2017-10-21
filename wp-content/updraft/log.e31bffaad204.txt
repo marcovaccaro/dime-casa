@@ -1,0 +1,1505 @@
+5814.251 (1) Opened log file at time: Mon, 08 Aug 2016 12:43:11 +0000 on http://www.dime-casa.it
+5814.252 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 27.7M | 43.5M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+5814.254 (1) Free space on disk containing Updraft's temporary directory: 24415.4 Mb
+5814.255 (1) It looks like WordPress's scheduler has started multiple instances of this resumption
+5814.268 (1) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1470660191.6, time_now=1470660191.7, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+5814.270 (1) Rescheduling resumption 2: moving to 421 seconds from now (1470660612)
+5814.275 (1) To decrease the likelihood of overlaps, increasing resumption interval to: 421 + 0 = 421
+7036.650 (2) Opened log file at time: Mon, 08 Aug 2016 13:03:34 +0000 on http://www.dime-casa.it
+7036.652 (2) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 24.5M | 25.3M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+7036.653 (2) Free space on disk containing Updraft's temporary directory: 24415 Mb
+7036.656 (2) Backup run: resumption=2, nonce=e31bffaad204, begun at=1470654377 (7037s ago), job type=backup, previous check-in=0s
+7036.657 (2) Long time past since expected resumption time: approx expected=1470660443.8, now=1470661414.1, diff=970.3
+7036.659 (2) [Warning] Il tuo sito web è visitato raramente e UpdraftPlus non sta ottenendo le risorse sperate, ti consigliamo di leggere questa pagina: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+7036.661 (2) Scheduling a resumption (3) after 421 seconds (1470661835) in case this run gets aborted
+7036.670 (2) Checking if we have a zip executable available
+7036.671 (2) Zip engine: found/will use a binary zip: /usr/bin/zip
+7036.672 (2) Creation of backups of directories: already finished
+7036.676 (2) Terminate: backup_2016-08-08-1306_dimensione_casa_a25ef723af22-uploads.zip exists with activity within the last 30 seconds (time_mod=1470661413, time_now=1470661414, diff=1, size=31222.7Kb). This likely means that another UpdraftPlus run is at work; so we will exit.
+7036.679 (2) Rescheduling resumption 3: moving to 541 seconds from now (1470661955)
+7036.688 (2) To decrease the likelihood of overlaps, increasing resumption interval to: 421 + 120 = 541
+7927.381 (3) Opened log file at time: Mon, 08 Aug 2016 13:18:24 +0000 on http://www.dime-casa.it
+7927.382 (3) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 27.7M | 43.5M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+7927.383 (3) Free space on disk containing Updraft's temporary directory: 24442.5 Mb
+7927.385 (3) It looks like WordPress's scheduler has started multiple instances of this resumption
+7927.388 (3) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1470662304.8, time_now=1470662304.8, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+7927.389 (3) Rescheduling resumption 4: moving to 421 seconds from now (1470662725)
+7927.394 (3) To decrease the likelihood of overlaps, increasing resumption interval to: 421 + 0 = 421
+8651.668 (4) Opened log file at time: Mon, 08 Aug 2016 13:30:29 +0000 on http://www.dime-casa.it
+8651.669 (4) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 27.7M | 43.5M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+8651.671 (4) Free space on disk containing Updraft's temporary directory: 24362.5 Mb
+8651.672 (4) It looks like WordPress's scheduler has started multiple instances of this resumption
+8651.680 (4) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1470663029.1, time_now=1470663029.1, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+8651.684 (4) Rescheduling resumption 5: moving to 421 seconds from now (1470663450)
+8651.689 (4) To decrease the likelihood of overlaps, increasing resumption interval to: 421 + 0 = 421
+11281.213 (5) Opened log file at time: Mon, 08 Aug 2016 14:14:18 +0000 on http://www.dime-casa.it
+11281.517 (5) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 27.7M | 43.5M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+11281.526 (5) Free space on disk containing Updraft's temporary directory: 24238.4 Mb
+11281.528 (5) It looks like WordPress's scheduler has started multiple instances of this resumption
+11281.532 (5) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1470665658.1, time_now=1470665658.1, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+11281.534 (5) Rescheduling resumption 6: moving to 421 seconds from now (1470666079)
+11281.542 (5) To decrease the likelihood of overlaps, increasing resumption interval to: 421 + 0 = 421
+12930.589 (6) Opened log file at time: Mon, 08 Aug 2016 14:41:48 +0000 on http://www.dime-casa.it
+12930.591 (6) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 27.7M | 43.5M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+12930.592 (6) Free space on disk containing Updraft's temporary directory: 24205.2 Mb
+12930.593 (6) It looks like WordPress's scheduler has started multiple instances of this resumption
+12930.596 (6) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1470667308, time_now=1470667308.1, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+12930.597 (6) Rescheduling resumption 7: moving to 421 seconds from now (1470667729)
+12930.604 (6) To decrease the likelihood of overlaps, increasing resumption interval to: 421 + 0 = 421
+13645.621 (7) Opened log file at time: Mon, 08 Aug 2016 14:53:43 +0000 on http://www.dime-casa.it
+13645.622 (7) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 27.7M | 43.5M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+13645.623 (7) Free space on disk containing Updraft's temporary directory: 24168.8 Mb
+13645.625 (7) It looks like WordPress's scheduler has started multiple instances of this resumption
+13645.628 (7) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1470668023.1, time_now=1470668023.1, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+13645.629 (7) Rescheduling resumption 8: moving to 421 seconds from now (1470668444)
+13645.634 (7) To decrease the likelihood of overlaps, increasing resumption interval to: 421 + 0 = 421
+14430.601 (8) Opened log file at time: Mon, 08 Aug 2016 15:06:48 +0000 on http://www.dime-casa.it
+14430.603 (8) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 24.5M | 25.3M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+14430.604 (8) Free space on disk containing Updraft's temporary directory: 24100.7 Mb
+14430.607 (8) Backup run: resumption=8, nonce=e31bffaad204, begun at=1470654377 (14431s ago), job type=backup, previous check-in=0s
+14430.611 (8) Time passed on previous resumptions: 0:390 1:168.8 2:150.6 3:125.7 4:143.6 5:145.6 6:178 7:0  (known: 8, max: 390)
+14430.612 (8) Scheduling a resumption (9) after 421 seconds (1470669229) in case this run gets aborted
+14430.622 (8) Checking if we have a zip executable available
+14430.623 (8) Zip engine: found/will use a binary zip: /usr/bin/zip
+14430.628 (8) Creation of backups of directories: already finished
+14430.636 (8) Terminate: backup_2016-08-08-1306_dimensione_casa_a25ef723af22-themes.zip exists with activity within the last 30 seconds (time_mod=1470668807, time_now=1470668808, diff=1, size=19505.9Kb). This likely means that another UpdraftPlus run is at work; so we will exit.
+14430.639 (8) Rescheduling resumption 9: moving to 541 seconds from now (1470669349)
+14430.643 (8) To decrease the likelihood of overlaps, increasing resumption interval to: 421 + 120 = 541
+17808.691 (9) Opened log file at time: Mon, 08 Aug 2016 16:03:06 +0000 on http://www.dime-casa.it
+17808.692 (9) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 27.7M | 43.5M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+17808.693 (9) Free space on disk containing Updraft's temporary directory: 24241.5 Mb
+17808.695 (9) It looks like WordPress's scheduler has started multiple instances of this resumption
+17808.698 (9) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1470672185.8, time_now=1470672186.2, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+17808.699 (9) Rescheduling resumption 10: moving to 421 seconds from now (1470672607)
+17808.704 (9) To decrease the likelihood of overlaps, increasing resumption interval to: 421 + 0 = 421
+18551.228 (10) Opened log file at time: Mon, 08 Aug 2016 16:15:28 +0000 on http://www.dime-casa.it
+18551.232 (10) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 27.7M | 43.5M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+18551.233 (10) Free space on disk containing Updraft's temporary directory: 24181.6 Mb
+18551.235 (10) It looks like WordPress's scheduler has started multiple instances of this resumption
+18551.240 (10) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1470672928.7, time_now=1470672928.7, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+18551.241 (10) Rescheduling resumption 11: moving to 421 seconds from now (1470673349)
+18551.250 (10) To decrease the likelihood of overlaps, increasing resumption interval to: 421 + 0 = 421
+20677.618 (11) Opened log file at time: Mon, 08 Aug 2016 16:50:55 +0000 on http://www.dime-casa.it
+20677.619 (11) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 27.7M | 43.5M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+20677.625 (11) Free space on disk containing Updraft's temporary directory: 24206.3 Mb
+20677.627 (11) It looks like WordPress's scheduler has started multiple instances of this resumption
+20677.632 (11) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1470675054.7, time_now=1470675055.1, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+20677.640 (11) Rescheduling resumption 12: moving to 421 seconds from now (1470675476)
+20677.645 (11) To decrease the likelihood of overlaps, increasing resumption interval to: 421 + 0 = 421
+21473.223 (12) Opened log file at time: Mon, 08 Aug 2016 17:04:10 +0000 on http://www.dime-casa.it
+21473.225 (12) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 27.7M | 28.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+21473.226 (12) Free space on disk containing Updraft's temporary directory: 24245.2 Mb
+21473.227 (12) It looks like WordPress's scheduler has started multiple instances of this resumption
+21473.233 (12) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1470675850.7, time_now=1470675850.7, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+21473.234 (12) Rescheduling resumption 13: moving to 421 seconds from now (1470676271)
+21473.244 (12) To decrease the likelihood of overlaps, increasing resumption interval to: 421 + 0 = 421
+23599.703 (13) Opened log file at time: Mon, 08 Aug 2016 17:39:37 +0000 on http://www.dime-casa.it
+23599.704 (13) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 27.7M | 28.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+23599.705 (13) Free space on disk containing Updraft's temporary directory: 24162.3 Mb
+23599.706 (13) It looks like WordPress's scheduler has started multiple instances of this resumption
+23599.709 (13) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1470677977.2, time_now=1470677977.2, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+23599.710 (13) Rescheduling resumption 14: moving to 421 seconds from now (1470678398)
+23599.715 (13) To decrease the likelihood of overlaps, increasing resumption interval to: 421 + 0 = 421
+24281.726 (14) Opened log file at time: Mon, 08 Aug 2016 17:50:59 +0000 on http://www.dime-casa.it
+24281.727 (14) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 33.1M | 34M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+24281.731 (14) Free space on disk containing Updraft's temporary directory: 24167.1 Mb
+24281.732 (14) It looks like WordPress's scheduler has started multiple instances of this resumption
+24281.735 (14) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1470678659.2, time_now=1470678659.2, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+24281.744 (14) Rescheduling resumption 15: moving to 421 seconds from now (1470679080)
+24281.749 (14) To decrease the likelihood of overlaps, increasing resumption interval to: 421 + 0 = 421
+25015.383 (15) Opened log file at time: Mon, 08 Aug 2016 18:03:12 +0000 on http://www.dime-casa.it
+25015.385 (15) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 27.7M | 28.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+25015.386 (15) Free space on disk containing Updraft's temporary directory: 24101.7 Mb
+25015.388 (15) It looks like WordPress's scheduler has started multiple instances of this resumption
+25015.391 (15) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1470679392.8, time_now=1470679392.8, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+25015.393 (15) Rescheduling resumption 16: moving to 421 seconds from now (1470679813)
+25015.398 (15) To decrease the likelihood of overlaps, increasing resumption interval to: 421 + 0 = 421
+27264.747 (16) Opened log file at time: Mon, 08 Aug 2016 18:40:42 +0000 on http://www.dime-casa.it
+27264.749 (16) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 27.7M | 28.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+27264.750 (16) Free space on disk containing Updraft's temporary directory: 24017.3 Mb
+27264.751 (16) It looks like WordPress's scheduler has started multiple instances of this resumption
+27264.754 (16) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1470681642.1, time_now=1470681642.1, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+27264.755 (16) Rescheduling resumption 17: moving to 421 seconds from now (1470682063)
+27264.759 (16) To decrease the likelihood of overlaps, increasing resumption interval to: 421 + 0 = 421
+27915.717 (17) Opened log file at time: Mon, 08 Aug 2016 18:51:33 +0000 on http://www.dime-casa.it
+27915.718 (17) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 27.7M | 28.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+27915.720 (17) Free space on disk containing Updraft's temporary directory: 23999.9 Mb
+27915.721 (17) It looks like WordPress's scheduler has started multiple instances of this resumption
+27915.724 (17) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1470682293.2, time_now=1470682293.2, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+27915.726 (17) Rescheduling resumption 18: moving to 421 seconds from now (1470682714)
+27915.729 (17) To decrease the likelihood of overlaps, increasing resumption interval to: 421 + 0 = 421
+29346.429 (18) Opened log file at time: Mon, 08 Aug 2016 19:15:23 +0000 on http://www.dime-casa.it
+29346.430 (18) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 27.7M | 28.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+29346.432 (18) Free space on disk containing Updraft's temporary directory: 23987 Mb
+29346.433 (18) It looks like WordPress's scheduler has started multiple instances of this resumption
+29346.438 (18) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1470683723.8, time_now=1470683723.9, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+29346.439 (18) Rescheduling resumption 19: moving to 421 seconds from now (1470684144)
+29346.444 (18) To decrease the likelihood of overlaps, increasing resumption interval to: 421 + 0 = 421
+30670.477 (19) Opened log file at time: Mon, 08 Aug 2016 19:37:27 +0000 on http://www.dime-casa.it
+30670.479 (19) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 24.5M | 25.3M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+30670.480 (19) Free space on disk containing Updraft's temporary directory: 23935.7 Mb
+30670.483 (19) Backup run: resumption=19, nonce=e31bffaad204, begun at=1470654377 (30670s ago), job type=backup, previous check-in=0s
+30670.484 (19) Long time past since expected resumption time: approx expected=1470684038.9, now=1470685047.9, diff=1009.1
+30670.486 (19) [Warning] Il tuo sito web è visitato raramente e UpdraftPlus non sta ottenendo le risorse sperate, ti consigliamo di leggere questa pagina: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+30670.492 (19) Scheduling a resumption (20) after 421 seconds (1470685468) in case this run gets aborted
+30670.505 (19) Creation of backups of directories: already finished
+30670.507 (19) Saving backup status to database (elements: 8)
+30670.510 (19) Database dump (WordPress DB): Creation was completed already
+30670.512 (19) Saving backup history
+30670.515 (19) backup_2016-08-08-1306_dimensione_casa_a25ef723af22-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+30670.517 (19) backup_2016-08-08-1306_dimensione_casa_a25ef723af22-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+30670.518 (19) backup_2016-08-08-1306_dimensione_casa_a25ef723af22-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+30670.519 (19) backup_2016-08-08-1306_dimensione_casa_a25ef723af22-others.zip: others: This file has already been successfully uploaded
+30670.520 (19) backup_2016-08-08-1306_dimensione_casa_e31bffaad204-db.gz: db: Note: This file was not marked as successfully uploaded, but does not exist on the local filesystem (/home/mhd-01/www.dime-casa.it/htdocs/wp-content/updraft/backup_2016-08-08-1306_dimensione_casa_e31bffaad204-db.gz)
+30670.524 (19) Recording as successfully uploaded: backup_2016-08-08-1306_dimensione_casa_e31bffaad204-db.gz (1cdf7099e2c4dbf12ebe68871e4b1ed2)
+30670.533 (19) Requesting upload of the files that have not yet been successfully uploaded (3)
+30670.536 (19) Cloud backup selection (1/1): googledrive (last)
+30670.539 (19) Beginning dispatch of backup to remote (googledrive)
+30670.575 (19) Google Drive: requesting access token: client_id=311940385721-p0g7fac1adljk8g35edodtqh6l7bo913.apps.googleusercontent.com
+30670.923 (19) Google Drive: successfully obtained access token
+30671.777 (19) Google Drive: get_subitems: An error occurred (will not fetch further): Error calling GET https://www.googleapis.com/drive/v2/files?q=%220AIfOSf7E-RSNUk9PVA%22+in+parents+and+trashed+%3D+false+and+mimeType+%3D+%22application%2Fvnd.google-apps.folder%22+and+title+%3D+%27UpdraftPlus%27&maxResults=200: (500) Internal Error
+30671.779 (19) Google Drive: creating path: /UpdraftPlus
+30672.748 (19) Google Drive quota usage: used=13195.6 Mb, total=15360 Mb, available=2164.4 Mb
+30672.749 (19) backup_2016-08-08-1306_dimensione_casa_a25ef723af22-plugins.zip: Attempting to upload to Google Drive (into folder id: 0B4fOSf7E-RSNbS1ZRllOdEF0R0E)
+30674.085 (19) Googledrive chunked upload: 9.2 % uploaded (1048576)
+30674.989 (19) Googledrive chunked upload: 18.5 % uploaded (2097152)
+30675.840 (19) Googledrive chunked upload: 27.7 % uploaded (3145728)
+30676.555 (19) Googledrive chunked upload: 36.9 % uploaded (4194304)
+30677.301 (19) Googledrive chunked upload: 46.1 % uploaded (5242880)
+30678.011 (19) Googledrive chunked upload: 55.4 % uploaded (6291456)
+30678.711 (19) Googledrive chunked upload: 64.6 % uploaded (7340032)
+30679.376 (19) Googledrive chunked upload: 73.8 % uploaded (8388608)
+30680.109 (19) Googledrive chunked upload: 83.1 % uploaded (9437184)
+30680.955 (19) Googledrive chunked upload: 92.3 % uploaded (10485760)
+30686.080 (19) ERROR: Google Drive upload error (Google_Service_Exception): Error calling PUT https://www.googleapis.com/upload/drive/v2/files?uploadType=resumable&upload_id=AEnB2Uowf39AOL_N3l9H0LD64NxCAd6iqHcg5vDYmMyldThPAWqdiW6z8-Os6qtpyfMxll_iqo5bRd4swcJxqVeJ8twDlmyOiDnyOxRH0ll0KaOGzzzizu0: (403) The user has exceeded their Drive storage quota (line: 79, file: /home/mhd-01/www.dime-casa.it/htdocs/wp-content/plugins/updraftplus/includes/Google/Http/REST.php)
+30687.213 (19) Googledrive chunked upload: 9.2 % uploaded (1048576)
+30687.855 (19) Googledrive chunked upload: 18.5 % uploaded (2097152)
+30688.713 (19) Googledrive chunked upload: 27.7 % uploaded (3145728)
+30689.514 (19) Googledrive chunked upload: 36.9 % uploaded (4194304)
+30690.242 (19) Googledrive chunked upload: 46.1 % uploaded (5242880)
+30690.945 (19) Googledrive chunked upload: 55.4 % uploaded (6291456)
+30691.796 (19) Googledrive chunked upload: 64.6 % uploaded (7340032)
+30692.495 (19) Googledrive chunked upload: 73.8 % uploaded (8388608)
+30693.231 (19) Googledrive chunked upload: 83.1 % uploaded (9437184)
+30693.987 (19) Googledrive chunked upload: 92.3 % uploaded (10485760)
+30699.057 (19) ERROR: Google Drive upload error (Google_Service_Exception): Error calling PUT https://www.googleapis.com/upload/drive/v2/files?uploadType=resumable&upload_id=AEnB2UpMAslcMxlhEgYU7ES_LNDB4FpTK0j9kxvsbuDRiXi5NLfBEAeKgZDT0GS-YextdcSVBjyeNE6l6nuF246ECprzoeKxN0XWzAe7t2cqkp7UgmmYhRs: (403) The user has exceeded their Drive storage quota (line: 79, file: /home/mhd-01/www.dime-casa.it/htdocs/wp-content/plugins/updraftplus/includes/Google/Http/REST.php)
+30699.061 (19) ERROR: Google Drive upload error: Error calling PUT https://www.googleapis.com/upload/drive/v2/files?uploadType=resumable&upload_id=AEnB2UpMAslcMxlhEgYU7ES_LNDB4FpTK0j9kxvsbuDRiXi5NLfBEAeKgZDT0GS-YextdcSVBjyeNE6l6nuF246ECprzoeKxN0XWzAe7t2cqkp7UgmmYhRs: (403) The user has exceeded their Drive storage quota (line: 79, file: /home/mhd-01/www.dime-casa.it/htdocs/wp-content/plugins/updraftplus/includes/Google/Http/REST.php)
+30699.062 (19) An error condition has occurred for the first time during this job
+30699.469 (19) Google Drive quota usage: used=13195.6 Mb, total=15360 Mb, available=2164.4 Mb
+30699.470 (19) backup_2016-08-08-1306_dimensione_casa_a25ef723af22-themes.zip: Attempting to upload to Google Drive (into folder id: 0B4fOSf7E-RSNbS1ZRllOdEF0R0E)
+30700.533 (19) Googledrive chunked upload: 5.2 % uploaded (1048576)
+30701.414 (19) Googledrive chunked upload: 10.5 % uploaded (2097152)
+30702.125 (19) Googledrive chunked upload: 15.7 % uploaded (3145728)
+30702.859 (19) Googledrive chunked upload: 21 % uploaded (4194304)
+30703.882 (19) Googledrive chunked upload: 26.2 % uploaded (5242880)
+30705.088 (19) Googledrive chunked upload: 31.5 % uploaded (6291456)
+30705.780 (19) Googledrive chunked upload: 36.7 % uploaded (7340032)
+30706.518 (19) Googledrive chunked upload: 42 % uploaded (8388608)
+30707.545 (19) Googledrive chunked upload: 47.2 % uploaded (9437184)
+30708.418 (19) Googledrive chunked upload: 52.5 % uploaded (10485760)
+30709.335 (19) Googledrive chunked upload: 57.7 % uploaded (11534336)
+30710.190 (19) Googledrive chunked upload: 63 % uploaded (12582912)
+30710.969 (19) Googledrive chunked upload: 68.2 % uploaded (13631488)
+30711.751 (19) Googledrive chunked upload: 73.5 % uploaded (14680064)
+30712.553 (19) Googledrive chunked upload: 78.7 % uploaded (15728640)
+30713.279 (19) Googledrive chunked upload: 84 % uploaded (16777216)
+30714.054 (19) Googledrive chunked upload: 89.2 % uploaded (17825792)
+30714.816 (19) Googledrive chunked upload: 94.5 % uploaded (18874368)
+30715.832 (19) Googledrive chunked upload: 99.7 % uploaded (19922944)
+30720.490 (19) ERROR: Google Drive upload error (Google_Service_Exception): Error calling PUT https://www.googleapis.com/upload/drive/v2/files?uploadType=resumable&upload_id=AEnB2UrjLG-EmdBykCkPhKAeWfVRza2FAW9Mi6IWiq1V2WI51rbicXlKcCtk6FTP1uZ-WOmoL6YgcLEiDoumT4nvnSeOYFXRZD-s52F93urQjrxbhzW9k88: (403) The user has exceeded their Drive storage quota (line: 79, file: /home/mhd-01/www.dime-casa.it/htdocs/wp-content/plugins/updraftplus/includes/Google/Http/REST.php)
+30721.829 (19) Googledrive chunked upload: 5.2 % uploaded (1048576)
+30722.537 (19) Googledrive chunked upload: 10.5 % uploaded (2097152)
+30723.219 (19) Googledrive chunked upload: 15.7 % uploaded (3145728)
+30724.002 (19) Googledrive chunked upload: 21 % uploaded (4194304)
+30724.762 (19) Googledrive chunked upload: 26.2 % uploaded (5242880)
+30725.567 (19) Googledrive chunked upload: 31.5 % uploaded (6291456)
+30726.297 (19) Googledrive chunked upload: 36.7 % uploaded (7340032)
+30726.999 (19) Googledrive chunked upload: 42 % uploaded (8388608)
+30727.709 (19) Googledrive chunked upload: 47.2 % uploaded (9437184)
+30728.480 (19) Googledrive chunked upload: 52.5 % uploaded (10485760)
+30729.261 (19) Googledrive chunked upload: 57.7 % uploaded (11534336)
+30730.066 (19) Googledrive chunked upload: 63 % uploaded (12582912)
+30731.029 (19) Googledrive chunked upload: 68.2 % uploaded (13631488)
+30731.820 (19) Googledrive chunked upload: 73.5 % uploaded (14680064)
+30732.768 (19) Googledrive chunked upload: 78.7 % uploaded (15728640)
+30733.725 (19) Googledrive chunked upload: 84 % uploaded (16777216)
+30734.702 (19) Googledrive chunked upload: 89.2 % uploaded (17825792)
+30735.630 (19) Googledrive chunked upload: 94.5 % uploaded (18874368)
+30736.740 (19) Googledrive chunked upload: 99.7 % uploaded (19922944)
+30741.700 (19) ERROR: Google Drive upload error (Google_Service_Exception): Error calling PUT https://www.googleapis.com/upload/drive/v2/files?uploadType=resumable&upload_id=AEnB2UpIQ8-0xW1i8GGF5l1r0QiHu6y529XG6hYkcipVCP6GO7bo_XW2TxjmcjGgDgnaf_gKCxgFJ28E2wW4gclRVaUCXoTZOyYraEg9ayiWShCr_QocG10: (403) The user has exceeded their Drive storage quota (line: 79, file: /home/mhd-01/www.dime-casa.it/htdocs/wp-content/plugins/updraftplus/includes/Google/Http/REST.php)
+30741.703 (19) ERROR: Google Drive upload error: Error calling PUT https://www.googleapis.com/upload/drive/v2/files?uploadType=resumable&upload_id=AEnB2UpIQ8-0xW1i8GGF5l1r0QiHu6y529XG6hYkcipVCP6GO7bo_XW2TxjmcjGgDgnaf_gKCxgFJ28E2wW4gclRVaUCXoTZOyYraEg9ayiWShCr_QocG10: (403) The user has exceeded their Drive storage quota (line: 79, file: /home/mhd-01/www.dime-casa.it/htdocs/wp-content/plugins/updraftplus/includes/Google/Http/REST.php)
+30742.061 (19) Google Drive quota usage: used=13195.6 Mb, total=15360 Mb, available=2164.4 Mb
+30742.062 (19) backup_2016-08-08-1306_dimensione_casa_a25ef723af22-uploads.zip: Attempting to upload to Google Drive (into folder id: 0B4fOSf7E-RSNbS1ZRllOdEF0R0E)
+30743.210 (19) Googledrive chunked upload: 3.3 % uploaded (1048576)
+30744.092 (19) Googledrive chunked upload: 6.6 % uploaded (2097152)
+30744.896 (19) Googledrive chunked upload: 9.8 % uploaded (3145728)
+30745.690 (19) Googledrive chunked upload: 13.1 % uploaded (4194304)
+30746.431 (19) Googledrive chunked upload: 16.4 % uploaded (5242880)
+30747.399 (19) Googledrive chunked upload: 19.7 % uploaded (6291456)
+30748.247 (19) Googledrive chunked upload: 23 % uploaded (7340032)
+30749.480 (19) Googledrive chunked upload: 26.2 % uploaded (8388608)
+30750.606 (19) Googledrive chunked upload: 29.5 % uploaded (9437184)
+30751.493 (19) Googledrive chunked upload: 32.8 % uploaded (10485760)
+30752.309 (19) Googledrive chunked upload: 36.1 % uploaded (11534336)
+30753.093 (19) Googledrive chunked upload: 39.4 % uploaded (12582912)
+30753.920 (19) Googledrive chunked upload: 42.6 % uploaded (13631488)
+30754.813 (19) Googledrive chunked upload: 45.9 % uploaded (14680064)
+30755.534 (19) Googledrive chunked upload: 49.2 % uploaded (15728640)
+30756.410 (19) Googledrive chunked upload: 52.5 % uploaded (16777216)
+30757.211 (19) Googledrive chunked upload: 55.8 % uploaded (17825792)
+30757.923 (19) Googledrive chunked upload: 59 % uploaded (18874368)
+30758.770 (19) Googledrive chunked upload: 62.3 % uploaded (19922944)
+30759.571 (19) Googledrive chunked upload: 65.6 % uploaded (20971520)
+30760.268 (19) Googledrive chunked upload: 68.9 % uploaded (22020096)
+30761.170 (19) Googledrive chunked upload: 72.2 % uploaded (23068672)
+30762.003 (19) Googledrive chunked upload: 75.4 % uploaded (24117248)
+30762.789 (19) Googledrive chunked upload: 78.7 % uploaded (25165824)
+30763.534 (19) Googledrive chunked upload: 82 % uploaded (26214400)
+30764.371 (19) Googledrive chunked upload: 85.3 % uploaded (27262976)
+30765.131 (19) Googledrive chunked upload: 88.6 % uploaded (28311552)
+30765.878 (19) Googledrive chunked upload: 91.8 % uploaded (29360128)
+30767.164 (19) Googledrive chunked upload: 95.1 % uploaded (30408704)
+30767.931 (19) Googledrive chunked upload: 98.4 % uploaded (31457280)
+30773.380 (19) ERROR: Google Drive upload error (Google_Service_Exception): Error calling PUT https://www.googleapis.com/upload/drive/v2/files?uploadType=resumable&upload_id=AEnB2UohZXLA_dCnZ7bTlbWYu4gkOmciQ_EoUATbYAQ4_-pE_xLs0omDVOVkghsikPnY0-uKPsXvKhzWE51eyR8sC1BavoBmNG9zLa8bKA1tNVqJo86EzRI: (403) The user has exceeded their Drive storage quota (line: 79, file: /home/mhd-01/www.dime-casa.it/htdocs/wp-content/plugins/updraftplus/includes/Google/Http/REST.php)
+30774.723 (19) Googledrive chunked upload: 3.3 % uploaded (1048576)
+30775.438 (19) Googledrive chunked upload: 6.6 % uploaded (2097152)
+30776.220 (19) Googledrive chunked upload: 9.8 % uploaded (3145728)
+30777.143 (19) Googledrive chunked upload: 13.1 % uploaded (4194304)
+30778.076 (19) Googledrive chunked upload: 16.4 % uploaded (5242880)
+30778.762 (19) Googledrive chunked upload: 19.7 % uploaded (6291456)
+30779.591 (19) Googledrive chunked upload: 23 % uploaded (7340032)
+30780.339 (19) Googledrive chunked upload: 26.2 % uploaded (8388608)
+30781.081 (19) Googledrive chunked upload: 29.5 % uploaded (9437184)
+30781.791 (19) Googledrive chunked upload: 32.8 % uploaded (10485760)
+30782.476 (19) Googledrive chunked upload: 36.1 % uploaded (11534336)
+30783.411 (19) Googledrive chunked upload: 39.4 % uploaded (12582912)
+30784.199 (19) Googledrive chunked upload: 42.6 % uploaded (13631488)
+30784.928 (19) Googledrive chunked upload: 45.9 % uploaded (14680064)
+30785.708 (19) Googledrive chunked upload: 49.2 % uploaded (15728640)
+30786.747 (19) Googledrive chunked upload: 52.5 % uploaded (16777216)
+30787.572 (19) Googledrive chunked upload: 55.8 % uploaded (17825792)
+30788.495 (19) Googledrive chunked upload: 59 % uploaded (18874368)
+30789.274 (19) Googledrive chunked upload: 62.3 % uploaded (19922944)
+30790.000 (19) Googledrive chunked upload: 65.6 % uploaded (20971520)
+30790.779 (19) Googledrive chunked upload: 68.9 % uploaded (22020096)
+30791.738 (19) Googledrive chunked upload: 72.2 % uploaded (23068672)
+30792.470 (19) Googledrive chunked upload: 75.4 % uploaded (24117248)
+30793.205 (19) Googledrive chunked upload: 78.7 % uploaded (25165824)
+30793.898 (19) Googledrive chunked upload: 82 % uploaded (26214400)
+30794.653 (19) Googledrive chunked upload: 85.3 % uploaded (27262976)
+30795.403 (19) Googledrive chunked upload: 88.6 % uploaded (28311552)
+30796.325 (19) Googledrive chunked upload: 91.8 % uploaded (29360128)
+30797.078 (19) Googledrive chunked upload: 95.1 % uploaded (30408704)
+30797.817 (19) Googledrive chunked upload: 98.4 % uploaded (31457280)
+30803.132 (19) ERROR: Google Drive upload error (Google_Service_Exception): Error calling PUT https://www.googleapis.com/upload/drive/v2/files?uploadType=resumable&upload_id=AEnB2Up1N4a8fRIp0hYquy3XAl2Mq5Y1tQ3AQMlm16eIWLW-3cSFflXy1sApLCOkH1UE6F-773irt-92nJWNTVgSte_uTIbDYiBiGymlAl8qajx2e6Jo_h0: (403) The user has exceeded their Drive storage quota (line: 79, file: /home/mhd-01/www.dime-casa.it/htdocs/wp-content/plugins/updraftplus/includes/Google/Http/REST.php)
+30803.136 (19) ERROR: Google Drive upload error: Error calling PUT https://www.googleapis.com/upload/drive/v2/files?uploadType=resumable&upload_id=AEnB2Up1N4a8fRIp0hYquy3XAl2Mq5Y1tQ3AQMlm16eIWLW-3cSFflXy1sApLCOkH1UE6F-773irt-92nJWNTVgSte_uTIbDYiBiGymlAl8qajx2e6Jo_h0: (403) The user has exceeded their Drive storage quota (line: 79, file: /home/mhd-01/www.dime-casa.it/htdocs/wp-content/plugins/updraftplus/includes/Google/Http/REST.php)
+30803.140 (19) Retain: beginning examination of existing backup sets; user setting: retain_files=3, retain_db=3
+30803.142 (19) Number of backup sets in history: 3
+30803.144 (19) Examining backup set with datestamp: 1470654377 (Aug 08 2016 11:06:17)
+30803.508 (19) Google Drive: get_subitems: An error occurred (will not fetch further): Error calling GET https://www.googleapis.com/drive/v2/files?q=%220B4fOSf7E-RSNbS1ZRllOdEF0R0E%22+in+parents+and+trashed+%3D+false+and+mimeType+%21%3D+%22application%2Fvnd.google-apps.folder%22+and+title+contains+%27backup_%27&maxResults=200: (500) Internal Error
+30803.512 (19) 1470654377: this backup set remains non-empty (1/1); will retain in history
+30803.513 (19) Examining backup set with datestamp: 1468060207 (Jul 09 2016 10:30:07)
+30803.849 (19) Google Drive: get_subitems: An error occurred (will not fetch further): Error calling GET https://www.googleapis.com/drive/v2/files?q=%220B4fOSf7E-RSNbS1ZRllOdEF0R0E%22+in+parents+and+trashed+%3D+false+and+mimeType+%21%3D+%22application%2Fvnd.google-apps.folder%22+and+title+contains+%27backup_%27&maxResults=200: (500) Internal Error
+30803.853 (19) 1468060207: this backup set remains non-empty (1/1); will retain in history
+30803.854 (19) Examining backup set with datestamp: 1465468998 (Jun 09 2016 10:43:18)
+30804.311 (19) Google Drive: get_subitems: An error occurred (will not fetch further): Error calling GET https://www.googleapis.com/drive/v2/files?q=%220B4fOSf7E-RSNbS1ZRllOdEF0R0E%22+in+parents+and+trashed+%3D+false+and+mimeType+%21%3D+%22application%2Fvnd.google-apps.folder%22+and+title+contains+%27backup_%27&maxResults=200: (500) Internal Error
+30804.315 (19) 1465468998: this backup set remains non-empty (1/1); will retain in history
+30804.316 (19) Retain: saving new backup history (sets now: 3) and finishing retain operation
+30804.318 (19) Resume backup (e31bffaad204, 19): finish run
+30804.375 (19) There were errors in the uploads, so the 'resume' event is remaining scheduled
+30804.400 (19) Il backup non è ultimato; è stata rischedulata una ripresa.
+32145.376 (20) Opened log file at time: Mon, 08 Aug 2016 20:02:02 +0000 on http://www.dime-casa.it
+32145.378 (20) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 24.5M | 25.3M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+32145.380 (20) Free space on disk containing Updraft's temporary directory: 23993.2 Mb
+32145.392 (20) Backup run: resumption=20, nonce=e31bffaad204, begun at=1470654377 (32145s ago), job type=backup, previous check-in=133.8s
+32145.394 (20) Long time past since expected resumption time: approx expected=1470685602.8, now=1470686522.8, diff=920.1
+32145.395 (20) [Warning] Il tuo sito web è visitato raramente e UpdraftPlus non sta ottenendo le risorse sperate, ti consigliamo di leggere questa pagina: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+32145.398 (20) Scheduling a resumption (21) after 421 seconds (1470686943) in case this run gets aborted
+32145.406 (20) Creation of backups of directories: already finished
+32145.409 (20) Saving backup status to database (elements: 8)
+32145.413 (20) Database dump (WordPress DB): Creation was completed already
+32145.414 (20) Saving backup history
+32145.418 (20) backup_2016-08-08-1306_dimensione_casa_a25ef723af22-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+32145.419 (20) backup_2016-08-08-1306_dimensione_casa_a25ef723af22-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+32145.421 (20) backup_2016-08-08-1306_dimensione_casa_a25ef723af22-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+32145.422 (20) backup_2016-08-08-1306_dimensione_casa_a25ef723af22-others.zip: others: This file has already been successfully uploaded
+32145.423 (20) backup_2016-08-08-1306_dimensione_casa_e31bffaad204-db.gz: db: This file has already been successfully uploaded
+32145.427 (20) Requesting upload of the files that have not yet been successfully uploaded (3)
+32145.430 (20) Cloud backup selection (1/1): googledrive (last)
+32145.475 (20) Beginning dispatch of backup to remote (googledrive)
+32145.710 (20) Google Drive: requesting access token: client_id=311940385721-p0g7fac1adljk8g35edodtqh6l7bo913.apps.googleusercontent.com
+32145.972 (20) Google Drive: successfully obtained access token
+32147.628 (20) Google Drive quota usage: used=13195.6 Mb, total=15360 Mb, available=2164.4 Mb
+32147.629 (20) backup_2016-08-08-1306_dimensione_casa_a25ef723af22-plugins.zip: Attempting to upload to Google Drive (into folder id: 0B4fOSf7E-RSNbS1ZRllOdEF0R0E)
+32149.040 (20) Googledrive chunked upload: 9.2 % uploaded (1048576)
+32149.838 (20) Googledrive chunked upload: 18.5 % uploaded (2097152)
+32150.863 (20) Googledrive chunked upload: 27.7 % uploaded (3145728)
+32151.784 (20) Googledrive chunked upload: 36.9 % uploaded (4194304)
+32152.785 (20) Googledrive chunked upload: 46.1 % uploaded (5242880)
+32153.803 (20) Googledrive chunked upload: 55.4 % uploaded (6291456)
+32154.695 (20) Googledrive chunked upload: 64.6 % uploaded (7340032)
+32155.608 (20) Googledrive chunked upload: 73.8 % uploaded (8388608)
+32156.497 (20) Googledrive chunked upload: 83.1 % uploaded (9437184)
+32157.201 (20) Googledrive chunked upload: 92.3 % uploaded (10485760)
+32169.144 (20) ERROR: Google Drive upload error (Google_Service_Exception): Error calling PUT https://www.googleapis.com/upload/drive/v2/files?uploadType=resumable&upload_id=AEnB2UpNLDgLiAiNA9NohDDCXBIVLfGVpUq1bYmIeDHkK8vSeFUOXBPiQDjcpbnWYafkXYObQI79BmzU97DAjxGRd0aI0QHi_oC3SltkOuYQa9lcdvs8bp0: (403) The user has exceeded their Drive storage quota (line: 79, file: /home/mhd-01/www.dime-casa.it/htdocs/wp-content/plugins/updraftplus/includes/Google/Http/REST.php)
+32170.116 (20) Googledrive chunked upload: 9.2 % uploaded (1048576)
+32170.662 (20) Googledrive chunked upload: 18.5 % uploaded (2097152)
+32171.171 (20) Googledrive chunked upload: 27.7 % uploaded (3145728)
+32171.894 (20) Googledrive chunked upload: 36.9 % uploaded (4194304)
+32172.513 (20) Googledrive chunked upload: 46.1 % uploaded (5242880)
+32173.019 (20) Googledrive chunked upload: 55.4 % uploaded (6291456)
+32173.626 (20) Googledrive chunked upload: 64.6 % uploaded (7340032)
+32174.197 (20) Googledrive chunked upload: 73.8 % uploaded (8388608)
+32174.840 (20) Googledrive chunked upload: 83.1 % uploaded (9437184)
+32175.344 (20) Googledrive chunked upload: 92.3 % uploaded (10485760)
+32180.932 (20) ERROR: Google Drive upload error (Google_Service_Exception): Error calling PUT https://www.googleapis.com/upload/drive/v2/files?uploadType=resumable&upload_id=AEnB2Uq94Sr-GWTBbikNEQDd4eM21rXCb-ryRjbYIesNTFfW4F32WfGFS6HY_B7wBNl0Cfj8Li4NIe-C47J-lXdDhYWqaN058TR8PV73gRX08Sly0MeZq38: (403) The user has exceeded their Drive storage quota (line: 79, file: /home/mhd-01/www.dime-casa.it/htdocs/wp-content/plugins/updraftplus/includes/Google/Http/REST.php)
+32181.132 (20) ERROR: Google Drive upload error: Error calling PUT https://www.googleapis.com/upload/drive/v2/files?uploadType=resumable&upload_id=AEnB2Uq94Sr-GWTBbikNEQDd4eM21rXCb-ryRjbYIesNTFfW4F32WfGFS6HY_B7wBNl0Cfj8Li4NIe-C47J-lXdDhYWqaN058TR8PV73gRX08Sly0MeZq38: (403) The user has exceeded their Drive storage quota (line: 79, file: /home/mhd-01/www.dime-casa.it/htdocs/wp-content/plugins/updraftplus/includes/Google/Http/REST.php)
+32181.134 (20) An error condition has occurred for the first time during this job
+32181.532 (20) Google Drive quota usage: used=13195.6 Mb, total=15360 Mb, available=2164.4 Mb
+32181.534 (20) backup_2016-08-08-1306_dimensione_casa_a25ef723af22-themes.zip: Attempting to upload to Google Drive (into folder id: 0B4fOSf7E-RSNbS1ZRllOdEF0R0E)
+32182.530 (20) Googledrive chunked upload: 5.2 % uploaded (1048576)
+32183.402 (20) Googledrive chunked upload: 10.5 % uploaded (2097152)
+32184.156 (20) Googledrive chunked upload: 15.7 % uploaded (3145728)
+32185.043 (20) Googledrive chunked upload: 21 % uploaded (4194304)
+32186.004 (20) Googledrive chunked upload: 26.2 % uploaded (5242880)
+32186.782 (20) Googledrive chunked upload: 31.5 % uploaded (6291456)
+32187.469 (20) Googledrive chunked upload: 36.7 % uploaded (7340032)
+32188.438 (20) Googledrive chunked upload: 42 % uploaded (8388608)
+32189.114 (20) Googledrive chunked upload: 47.2 % uploaded (9437184)
+32190.016 (20) Googledrive chunked upload: 52.5 % uploaded (10485760)
+32190.773 (20) Googledrive chunked upload: 57.7 % uploaded (11534336)
+32191.464 (20) Googledrive chunked upload: 63 % uploaded (12582912)
+32192.143 (20) Googledrive chunked upload: 68.2 % uploaded (13631488)
+32193.072 (20) Googledrive chunked upload: 73.5 % uploaded (14680064)
+32193.692 (20) Googledrive chunked upload: 78.7 % uploaded (15728640)
+32194.396 (20) Googledrive chunked upload: 84 % uploaded (16777216)
+32195.050 (20) Googledrive chunked upload: 89.2 % uploaded (17825792)
+32195.708 (20) Googledrive chunked upload: 94.5 % uploaded (18874368)
+32196.364 (20) Googledrive chunked upload: 99.7 % uploaded (19922944)
+32201.608 (20) ERROR: Google Drive upload error (Google_Service_Exception): Error calling PUT https://www.googleapis.com/upload/drive/v2/files?uploadType=resumable&upload_id=AEnB2Ur-nL_a3t51DXSS6lL8QyoABsvbj0KpMexlXElajWx4svl3swlGJE__gOnlbya7eLeVYUZmQwzrupnhbnFgZ5XBCav2AfeRqKte7REtCjSnlIWxek0: (403) The user has exceeded their Drive storage quota (line: 79, file: /home/mhd-01/www.dime-casa.it/htdocs/wp-content/plugins/updraftplus/includes/Google/Http/REST.php)
+32202.846 (20) Googledrive chunked upload: 5.2 % uploaded (1048576)
+32203.347 (20) Googledrive chunked upload: 10.5 % uploaded (2097152)
+32203.937 (20) Googledrive chunked upload: 15.7 % uploaded (3145728)
+32204.769 (20) Googledrive chunked upload: 21 % uploaded (4194304)
+32205.637 (20) Googledrive chunked upload: 26.2 % uploaded (5242880)
+32206.518 (20) Googledrive chunked upload: 31.5 % uploaded (6291456)
+32207.078 (20) Googledrive chunked upload: 36.7 % uploaded (7340032)
+32208.236 (20) Googledrive chunked upload: 42 % uploaded (8388608)
+32208.762 (20) Googledrive chunked upload: 47.2 % uploaded (9437184)
+32209.465 (20) Googledrive chunked upload: 52.5 % uploaded (10485760)
+32210.070 (20) Googledrive chunked upload: 57.7 % uploaded (11534336)
+32210.600 (20) Googledrive chunked upload: 63 % uploaded (12582912)
+32211.213 (20) Googledrive chunked upload: 68.2 % uploaded (13631488)
+32211.697 (20) Googledrive chunked upload: 73.5 % uploaded (14680064)
+32212.404 (20) Googledrive chunked upload: 78.7 % uploaded (15728640)
+32213.013 (20) Googledrive chunked upload: 84 % uploaded (16777216)
+32213.643 (20) Googledrive chunked upload: 89.2 % uploaded (17825792)
+32214.182 (20) Googledrive chunked upload: 94.5 % uploaded (18874368)
+32214.683 (20) Googledrive chunked upload: 99.7 % uploaded (19922944)
+32224.744 (20) ERROR: Google Drive upload error (Google_Service_Exception): Error calling PUT https://www.googleapis.com/upload/drive/v2/files?uploadType=resumable&upload_id=AEnB2UoeOZ1b0vvzhCQkU5YYIzSZwlTH7FHD6K-w-rxGUwbeSZ5Zt8Xt-sGc6UEVvNyvQVP8VlhGpRihqBn2oM28sGEU6ToGsG9s9jcaFI5Gcb2dZe1E2iU: (403) The user has exceeded their Drive storage quota (line: 79, file: /home/mhd-01/www.dime-casa.it/htdocs/wp-content/plugins/updraftplus/includes/Google/Http/REST.php)
+32224.840 (20) ERROR: Google Drive upload error: Error calling PUT https://www.googleapis.com/upload/drive/v2/files?uploadType=resumable&upload_id=AEnB2UoeOZ1b0vvzhCQkU5YYIzSZwlTH7FHD6K-w-rxGUwbeSZ5Zt8Xt-sGc6UEVvNyvQVP8VlhGpRihqBn2oM28sGEU6ToGsG9s9jcaFI5Gcb2dZe1E2iU: (403) The user has exceeded their Drive storage quota (line: 79, file: /home/mhd-01/www.dime-casa.it/htdocs/wp-content/plugins/updraftplus/includes/Google/Http/REST.php)
+32225.203 (20) Google Drive quota usage: used=13195.6 Mb, total=15360 Mb, available=2164.4 Mb
+32225.204 (20) backup_2016-08-08-1306_dimensione_casa_a25ef723af22-uploads.zip: Attempting to upload to Google Drive (into folder id: 0B4fOSf7E-RSNbS1ZRllOdEF0R0E)
+32226.207 (20) Googledrive chunked upload: 3.3 % uploaded (1048576)
+32227.133 (20) Googledrive chunked upload: 6.6 % uploaded (2097152)
+32227.862 (20) Googledrive chunked upload: 9.8 % uploaded (3145728)
+32228.367 (20) Googledrive chunked upload: 13.1 % uploaded (4194304)
+32229.015 (20) Googledrive chunked upload: 16.4 % uploaded (5242880)
+32229.656 (20) Googledrive chunked upload: 19.7 % uploaded (6291456)
+32230.360 (20) Googledrive chunked upload: 23 % uploaded (7340032)
+32230.960 (20) Googledrive chunked upload: 26.2 % uploaded (8388608)
+32231.799 (20) Googledrive chunked upload: 29.5 % uploaded (9437184)
+32232.488 (20) Googledrive chunked upload: 32.8 % uploaded (10485760)
+32233.130 (20) Googledrive chunked upload: 36.1 % uploaded (11534336)
+32233.902 (20) Googledrive chunked upload: 39.4 % uploaded (12582912)
+32234.490 (20) Googledrive chunked upload: 42.6 % uploaded (13631488)
+32235.346 (20) Googledrive chunked upload: 45.9 % uploaded (14680064)
+32236.297 (20) Googledrive chunked upload: 49.2 % uploaded (15728640)
+32237.077 (20) Googledrive chunked upload: 52.5 % uploaded (16777216)
+32238.382 (20) Googledrive chunked upload: 55.8 % uploaded (17825792)
+32239.221 (20) Googledrive chunked upload: 59 % uploaded (18874368)
+32240.136 (20) Googledrive chunked upload: 62.3 % uploaded (19922944)
+32241.215 (20) Googledrive chunked upload: 65.6 % uploaded (20971520)
+32242.283 (20) Googledrive chunked upload: 68.9 % uploaded (22020096)
+32243.132 (20) Googledrive chunked upload: 72.2 % uploaded (23068672)
+32244.273 (20) Googledrive chunked upload: 75.4 % uploaded (24117248)
+32245.254 (20) Googledrive chunked upload: 78.7 % uploaded (25165824)
+32245.956 (20) Googledrive chunked upload: 82 % uploaded (26214400)
+32246.899 (20) Googledrive chunked upload: 85.3 % uploaded (27262976)
+32247.683 (20) Googledrive chunked upload: 88.6 % uploaded (28311552)
+32248.543 (20) Googledrive chunked upload: 91.8 % uploaded (29360128)
+32249.472 (20) Googledrive chunked upload: 95.1 % uploaded (30408704)
+32250.340 (20) Googledrive chunked upload: 98.4 % uploaded (31457280)
+32255.997 (20) ERROR: Google Drive upload error (Google_Service_Exception): Error calling PUT https://www.googleapis.com/upload/drive/v2/files?uploadType=resumable&upload_id=AEnB2Uqd4Wwo25Ola3oEqJ5lS5ZXMb92PQpxXJidfSEix_FMSW79RVDQL-PlcxAVlosQuf70dyevKEZuqhzq-Hv-StcHPJrBV23Buo21kXXnHWQNk7N8JeM: (403) The user has exceeded their Drive storage quota (line: 79, file: /home/mhd-01/www.dime-casa.it/htdocs/wp-content/plugins/updraftplus/includes/Google/Http/REST.php)
+32256.936 (20) Googledrive chunked upload: 3.3 % uploaded (1048576)
+32257.526 (20) Googledrive chunked upload: 6.6 % uploaded (2097152)
+32258.138 (20) Googledrive chunked upload: 9.8 % uploaded (3145728)
+32258.878 (20) Googledrive chunked upload: 13.1 % uploaded (4194304)
+32259.868 (20) Googledrive chunked upload: 16.4 % uploaded (5242880)
+32260.541 (20) Googledrive chunked upload: 19.7 % uploaded (6291456)
+32261.073 (20) Googledrive chunked upload: 23 % uploaded (7340032)
+32261.696 (20) Googledrive chunked upload: 26.2 % uploaded (8388608)
+32262.248 (20) Googledrive chunked upload: 29.5 % uploaded (9437184)
+32262.755 (20) Googledrive chunked upload: 32.8 % uploaded (10485760)
+32263.281 (20) Googledrive chunked upload: 36.1 % uploaded (11534336)
+32263.848 (20) Googledrive chunked upload: 39.4 % uploaded (12582912)
+32264.342 (20) Googledrive chunked upload: 42.6 % uploaded (13631488)
+32264.851 (20) Googledrive chunked upload: 45.9 % uploaded (14680064)
+32265.336 (20) Googledrive chunked upload: 49.2 % uploaded (15728640)
+32266.072 (20) Googledrive chunked upload: 52.5 % uploaded (16777216)
+32266.986 (20) Googledrive chunked upload: 55.8 % uploaded (17825792)
+32267.725 (20) Googledrive chunked upload: 59 % uploaded (18874368)
+32268.717 (20) Googledrive chunked upload: 62.3 % uploaded (19922944)
+32269.448 (20) Googledrive chunked upload: 65.6 % uploaded (20971520)
+32270.257 (20) Googledrive chunked upload: 68.9 % uploaded (22020096)
+32270.961 (20) Googledrive chunked upload: 72.2 % uploaded (23068672)
+32271.678 (20) Googledrive chunked upload: 75.4 % uploaded (24117248)
+32272.361 (20) Googledrive chunked upload: 78.7 % uploaded (25165824)
+32273.196 (20) Googledrive chunked upload: 82 % uploaded (26214400)
+32273.922 (20) Googledrive chunked upload: 85.3 % uploaded (27262976)
+32274.692 (20) Googledrive chunked upload: 88.6 % uploaded (28311552)
+32275.504 (20) Googledrive chunked upload: 91.8 % uploaded (29360128)
+32276.197 (20) Googledrive chunked upload: 95.1 % uploaded (30408704)
+32276.900 (20) Googledrive chunked upload: 98.4 % uploaded (31457280)
+32282.479 (20) ERROR: Google Drive upload error (Google_Service_Exception): Error calling PUT https://www.googleapis.com/upload/drive/v2/files?uploadType=resumable&upload_id=AEnB2UonhEsKUkP6tKnqvpBFVXPWc3bYTBXaKCwPNH2w9RJjyNRUPGeh2QVSt-Geqbwtgadr8cE8AoHa0mWrVxcVWVkio3OMfO9DYVKBaGs6kX52T487SSg: (403) The user has exceeded their Drive storage quota (line: 79, file: /home/mhd-01/www.dime-casa.it/htdocs/wp-content/plugins/updraftplus/includes/Google/Http/REST.php)
+32282.483 (20) ERROR: Google Drive upload error: Error calling PUT https://www.googleapis.com/upload/drive/v2/files?uploadType=resumable&upload_id=AEnB2UonhEsKUkP6tKnqvpBFVXPWc3bYTBXaKCwPNH2w9RJjyNRUPGeh2QVSt-Geqbwtgadr8cE8AoHa0mWrVxcVWVkio3OMfO9DYVKBaGs6kX52T487SSg: (403) The user has exceeded their Drive storage quota (line: 79, file: /home/mhd-01/www.dime-casa.it/htdocs/wp-content/plugins/updraftplus/includes/Google/Http/REST.php)
+32282.487 (20) Retain: beginning examination of existing backup sets; user setting: retain_files=3, retain_db=3
+32282.491 (20) Number of backup sets in history: 3
+32282.492 (20) Examining backup set with datestamp: 1470654377 (Aug 08 2016 11:06:17)
+32282.838 (20) 1470654377: this backup set remains non-empty (1/1); will retain in history
+32282.839 (20) Examining backup set with datestamp: 1468060207 (Jul 09 2016 10:30:07)
+32283.131 (20) 1468060207: this backup set remains non-empty (1/1); will retain in history
+32283.132 (20) Examining backup set with datestamp: 1465468998 (Jun 09 2016 10:43:18)
+32283.422 (20) 1465468998: this backup set remains non-empty (1/1); will retain in history
+32283.423 (20) Retain: saving new backup history (sets now: 3) and finishing retain operation
+32283.426 (20) Resume backup (e31bffaad204, 20): finish run
+32283.427 (20) There were errors in the uploads, so the 'resume' event is remaining scheduled
+32283.430 (20) Il backup non è ultimato; è stata rischedulata una ripresa.
+32683.438 (21) Opened log file at time: Mon, 08 Aug 2016 20:11:00 +0000 on http://www.dime-casa.it
+32683.440 (21) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 24.5M | 25.3M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+32683.441 (21) Free space on disk containing Updraft's temporary directory: 23978.2 Mb
+32683.444 (21) Backup run: resumption=21, nonce=e31bffaad204, begun at=1470654377 (32683s ago), job type=backup, previous check-in=138s
+32683.447 (21) Scheduling a resumption (22) after 421 seconds (1470687481) in case this run gets aborted
+32683.455 (21) Creation of backups of directories: already finished
+32683.460 (21) Saving backup status to database (elements: 8)
+32683.472 (21) Database dump (WordPress DB): Creation was completed already
+32683.476 (21) Saving backup history
+32683.486 (21) backup_2016-08-08-1306_dimensione_casa_a25ef723af22-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+32683.487 (21) backup_2016-08-08-1306_dimensione_casa_a25ef723af22-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+32683.488 (21) backup_2016-08-08-1306_dimensione_casa_a25ef723af22-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+32683.489 (21) backup_2016-08-08-1306_dimensione_casa_a25ef723af22-others.zip: others: This file has already been successfully uploaded
+32683.490 (21) backup_2016-08-08-1306_dimensione_casa_e31bffaad204-db.gz: db: This file has already been successfully uploaded
+32683.494 (21) Requesting upload of the files that have not yet been successfully uploaded (3)
+32683.498 (21) Cloud backup selection (1/1): googledrive (last)
+32683.501 (21) Beginning dispatch of backup to remote (googledrive)
+32683.518 (21) Google Drive: requesting access token: client_id=311940385721-p0g7fac1adljk8g35edodtqh6l7bo913.apps.googleusercontent.com
+32683.766 (21) Google Drive: successfully obtained access token
+32684.932 (21) Google Drive quota usage: used=13195.6 Mb, total=15360 Mb, available=2164.4 Mb
+32684.994 (21) backup_2016-08-08-1306_dimensione_casa_a25ef723af22-plugins.zip: Attempting to upload to Google Drive (into folder id: 0B4fOSf7E-RSNbS1ZRllOdEF0R0E)
+32686.359 (21) Googledrive chunked upload: 9.2 % uploaded (1048576)
+32687.345 (21) Googledrive chunked upload: 18.5 % uploaded (2097152)
+32688.161 (21) Googledrive chunked upload: 27.7 % uploaded (3145728)
+32688.976 (21) Googledrive chunked upload: 36.9 % uploaded (4194304)
+32689.870 (21) Googledrive chunked upload: 46.1 % uploaded (5242880)
+32690.575 (21) Googledrive chunked upload: 55.4 % uploaded (6291456)
+32691.372 (21) Googledrive chunked upload: 64.6 % uploaded (7340032)
+32692.082 (21) Googledrive chunked upload: 73.8 % uploaded (8388608)
+32692.814 (21) Googledrive chunked upload: 83.1 % uploaded (9437184)
+32693.632 (21) Googledrive chunked upload: 92.3 % uploaded (10485760)
+32699.581 (21) ERROR: Google Drive upload error (Google_Service_Exception): Error calling PUT https://www.googleapis.com/upload/drive/v2/files?uploadType=resumable&upload_id=AEnB2Uqdn5wUymTCtCQ1y7iK5mfTffSSNo9d__4Nqc7AwTRW_DaekB-FZILs-PUzLJZteAJHPWnmJvuE_rl6_WFCeONhIP4hJA: (403) The user has exceeded their Drive storage quota (line: 79, file: /home/mhd-01/www.dime-casa.it/htdocs/wp-content/plugins/updraftplus/includes/Google/Http/REST.php)
+32700.664 (21) Googledrive chunked upload: 9.2 % uploaded (1048576)
+32701.323 (21) Googledrive chunked upload: 18.5 % uploaded (2097152)
+32702.096 (21) Googledrive chunked upload: 27.7 % uploaded (3145728)
+32703.307 (21) Googledrive chunked upload: 36.9 % uploaded (4194304)
+32704.210 (21) Googledrive chunked upload: 46.1 % uploaded (5242880)
+32704.948 (21) Googledrive chunked upload: 55.4 % uploaded (6291456)
+32705.930 (21) Googledrive chunked upload: 64.6 % uploaded (7340032)
+32706.813 (21) Googledrive chunked upload: 73.8 % uploaded (8388608)
+32707.685 (21) Googledrive chunked upload: 83.1 % uploaded (9437184)
+32708.401 (21) Googledrive chunked upload: 92.3 % uploaded (10485760)
+32714.226 (21) ERROR: Google Drive upload error (Google_Service_Exception): Error calling PUT https://www.googleapis.com/upload/drive/v2/files?uploadType=resumable&upload_id=AEnB2UpBnjX5QYABGAXGfgexWMmNxTidQXawNlcCxcP0JK-7MLPISKinm54lkgR-FMpkHdF0HfLk1z9FGEKgTpiSIDkJtn0EeQ: (403) The user has exceeded their Drive storage quota (line: 79, file: /home/mhd-01/www.dime-casa.it/htdocs/wp-content/plugins/updraftplus/includes/Google/Http/REST.php)
+32714.230 (21) ERROR: Google Drive upload error: Error calling PUT https://www.googleapis.com/upload/drive/v2/files?uploadType=resumable&upload_id=AEnB2UpBnjX5QYABGAXGfgexWMmNxTidQXawNlcCxcP0JK-7MLPISKinm54lkgR-FMpkHdF0HfLk1z9FGEKgTpiSIDkJtn0EeQ: (403) The user has exceeded their Drive storage quota (line: 79, file: /home/mhd-01/www.dime-casa.it/htdocs/wp-content/plugins/updraftplus/includes/Google/Http/REST.php)
+32714.231 (21) An error condition has occurred for the first time during this job
+32714.569 (21) Google Drive quota usage: used=13195.6 Mb, total=15360 Mb, available=2164.4 Mb
+32714.570 (21) backup_2016-08-08-1306_dimensione_casa_a25ef723af22-themes.zip: Attempting to upload to Google Drive (into folder id: 0B4fOSf7E-RSNbS1ZRllOdEF0R0E)
+32715.864 (21) Googledrive chunked upload: 5.2 % uploaded (1048576)
+32716.483 (21) Googledrive chunked upload: 10.5 % uploaded (2097152)
+32717.155 (21) Googledrive chunked upload: 15.7 % uploaded (3145728)
+32717.935 (21) Googledrive chunked upload: 21 % uploaded (4194304)
+32718.870 (21) Googledrive chunked upload: 26.2 % uploaded (5242880)
+32719.618 (21) Googledrive chunked upload: 31.5 % uploaded (6291456)
+32720.399 (21) Googledrive chunked upload: 36.7 % uploaded (7340032)
+32721.124 (21) Googledrive chunked upload: 42 % uploaded (8388608)
+32722.526 (21) Googledrive chunked upload: 47.2 % uploaded (9437184)
+32723.358 (21) Googledrive chunked upload: 52.5 % uploaded (10485760)
+32724.303 (21) Googledrive chunked upload: 57.7 % uploaded (11534336)
+32725.149 (21) Googledrive chunked upload: 63 % uploaded (12582912)
+32725.899 (21) Googledrive chunked upload: 68.2 % uploaded (13631488)
+32727.357 (21) Googledrive chunked upload: 73.5 % uploaded (14680064)
+32728.136 (21) Googledrive chunked upload: 78.7 % uploaded (15728640)
+32729.026 (21) Googledrive chunked upload: 84 % uploaded (16777216)
+32729.764 (21) Googledrive chunked upload: 89.2 % uploaded (17825792)
+32730.464 (21) Googledrive chunked upload: 94.5 % uploaded (18874368)
+32731.266 (21) Googledrive chunked upload: 99.7 % uploaded (19922944)
+32736.417 (21) ERROR: Google Drive upload error (Google_Service_Exception): Error calling PUT https://www.googleapis.com/upload/drive/v2/files?uploadType=resumable&upload_id=AEnB2UpLq1kil9H_DHGryc_fS_z-ZYmhc-Ppt8airPVDXagU8-XgKnpUkWstlt97gqvaNDVpgfrEk5UNEh_93sbIrNUY_xeLSA: (403) The user has exceeded their Drive storage quota (line: 79, file: /home/mhd-01/www.dime-casa.it/htdocs/wp-content/plugins/updraftplus/includes/Google/Http/REST.php)
+32737.720 (21) Googledrive chunked upload: 5.2 % uploaded (1048576)
+32738.322 (21) Googledrive chunked upload: 10.5 % uploaded (2097152)
+32739.157 (21) Googledrive chunked upload: 15.7 % uploaded (3145728)
+32739.921 (21) Googledrive chunked upload: 21 % uploaded (4194304)
+32740.715 (21) Googledrive chunked upload: 26.2 % uploaded (5242880)
+32741.605 (21) Googledrive chunked upload: 31.5 % uploaded (6291456)
+32742.388 (21) Googledrive chunked upload: 36.7 % uploaded (7340032)
+32743.121 (21) Googledrive chunked upload: 42 % uploaded (8388608)
+32743.761 (21) Googledrive chunked upload: 47.2 % uploaded (9437184)
+32744.509 (21) Googledrive chunked upload: 52.5 % uploaded (10485760)
+32745.326 (21) Googledrive chunked upload: 57.7 % uploaded (11534336)
+32746.435 (21) Googledrive chunked upload: 63 % uploaded (12582912)
+32747.079 (21) Googledrive chunked upload: 68.2 % uploaded (13631488)
+32747.733 (21) Googledrive chunked upload: 73.5 % uploaded (14680064)
+32748.554 (21) Googledrive chunked upload: 78.7 % uploaded (15728640)
+32749.252 (21) Googledrive chunked upload: 84 % uploaded (16777216)
+32750.072 (21) Googledrive chunked upload: 89.2 % uploaded (17825792)
+32750.794 (21) Googledrive chunked upload: 94.5 % uploaded (18874368)
+32751.531 (21) Googledrive chunked upload: 99.7 % uploaded (19922944)
+32762.915 (21) ERROR: Google Drive upload error (Google_Service_Exception): Error calling PUT https://www.googleapis.com/upload/drive/v2/files?uploadType=resumable&upload_id=AEnB2UqvBZi9PM3OyBQlAg_1PbFd2FnwWikjx3-RF7smp0FY7rwEFYBK7W2ajkYqwyGL3FOArRX9GTixRBj5j8yIBBRe7bmtmw: (403) The user has exceeded their Drive storage quota (line: 79, file: /home/mhd-01/www.dime-casa.it/htdocs/wp-content/plugins/updraftplus/includes/Google/Http/REST.php)
+32762.988 (21) ERROR: Google Drive upload error: Error calling PUT https://www.googleapis.com/upload/drive/v2/files?uploadType=resumable&upload_id=AEnB2UqvBZi9PM3OyBQlAg_1PbFd2FnwWikjx3-RF7smp0FY7rwEFYBK7W2ajkYqwyGL3FOArRX9GTixRBj5j8yIBBRe7bmtmw: (403) The user has exceeded their Drive storage quota (line: 79, file: /home/mhd-01/www.dime-casa.it/htdocs/wp-content/plugins/updraftplus/includes/Google/Http/REST.php)
+32763.304 (21) Google Drive quota usage: used=13195.6 Mb, total=15360 Mb, available=2164.4 Mb
+32763.306 (21) backup_2016-08-08-1306_dimensione_casa_a25ef723af22-uploads.zip: Attempting to upload to Google Drive (into folder id: 0B4fOSf7E-RSNbS1ZRllOdEF0R0E)
+32764.709 (21) Googledrive chunked upload: 3.3 % uploaded (1048576)
+32765.489 (21) Googledrive chunked upload: 6.6 % uploaded (2097152)
+32766.450 (21) Googledrive chunked upload: 9.8 % uploaded (3145728)
+32767.233 (21) Googledrive chunked upload: 13.1 % uploaded (4194304)
+32767.983 (21) Googledrive chunked upload: 16.4 % uploaded (5242880)
+32768.919 (21) Googledrive chunked upload: 19.7 % uploaded (6291456)
+32769.782 (21) Googledrive chunked upload: 23 % uploaded (7340032)
+32770.793 (21) Googledrive chunked upload: 26.2 % uploaded (8388608)
+32771.897 (21) Googledrive chunked upload: 29.5 % uploaded (9437184)
+32772.715 (21) Googledrive chunked upload: 32.8 % uploaded (10485760)
+32773.705 (21) Googledrive chunked upload: 36.1 % uploaded (11534336)
+32774.545 (21) Googledrive chunked upload: 39.4 % uploaded (12582912)
+32775.390 (21) Googledrive chunked upload: 42.6 % uploaded (13631488)
+32776.196 (21) Googledrive chunked upload: 45.9 % uploaded (14680064)
+32777.049 (21) Googledrive chunked upload: 49.2 % uploaded (15728640)
+32777.993 (21) Googledrive chunked upload: 52.5 % uploaded (16777216)
+32779.202 (21) Googledrive chunked upload: 55.8 % uploaded (17825792)
+32780.060 (21) Googledrive chunked upload: 59 % uploaded (18874368)
+32780.905 (21) Googledrive chunked upload: 62.3 % uploaded (19922944)
+32782.007 (21) Googledrive chunked upload: 65.6 % uploaded (20971520)
+32782.847 (21) Googledrive chunked upload: 68.9 % uploaded (22020096)
+32783.625 (21) Googledrive chunked upload: 72.2 % uploaded (23068672)
+32784.436 (21) Googledrive chunked upload: 75.4 % uploaded (24117248)
+32785.236 (21) Googledrive chunked upload: 78.7 % uploaded (25165824)
+32786.172 (21) Googledrive chunked upload: 82 % uploaded (26214400)
+32787.094 (21) Googledrive chunked upload: 85.3 % uploaded (27262976)
+32787.864 (21) Googledrive chunked upload: 88.6 % uploaded (28311552)
+32789.172 (21) Googledrive chunked upload: 91.8 % uploaded (29360128)
+32790.270 (21) Googledrive chunked upload: 95.1 % uploaded (30408704)
+32791.029 (21) Googledrive chunked upload: 98.4 % uploaded (31457280)
+32796.774 (21) ERROR: Google Drive upload error (Google_Service_Exception): Error calling PUT https://www.googleapis.com/upload/drive/v2/files?uploadType=resumable&upload_id=AEnB2UrCf81dlQzF8VhYkWu34BKpNmL05OmIqtNYJNdGWtVfBvzO0klrDcRXpOEA8eby41JEa26cMFJZKrbK5J2Cjx7D27W_y7YPLjSZ0BdUDmp2DznTics: (403) The user has exceeded their Drive storage quota (line: 79, file: /home/mhd-01/www.dime-casa.it/htdocs/wp-content/plugins/updraftplus/includes/Google/Http/REST.php)
+32797.936 (21) Googledrive chunked upload: 3.3 % uploaded (1048576)
+32798.734 (21) Googledrive chunked upload: 6.6 % uploaded (2097152)
+32799.664 (21) Googledrive chunked upload: 9.8 % uploaded (3145728)
+32800.883 (21) Googledrive chunked upload: 13.1 % uploaded (4194304)
+32801.629 (21) Googledrive chunked upload: 16.4 % uploaded (5242880)
+32802.491 (21) Googledrive chunked upload: 19.7 % uploaded (6291456)
+32803.339 (21) Googledrive chunked upload: 23 % uploaded (7340032)
+32804.169 (21) Googledrive chunked upload: 26.2 % uploaded (8388608)
+32804.700 (21) Googledrive chunked upload: 29.5 % uploaded (9437184)
+32805.276 (21) Googledrive chunked upload: 32.8 % uploaded (10485760)
+32805.844 (21) Googledrive chunked upload: 36.1 % uploaded (11534336)
+32806.312 (21) Googledrive chunked upload: 39.4 % uploaded (12582912)
+32806.765 (21) Googledrive chunked upload: 42.6 % uploaded (13631488)
+32807.342 (21) Googledrive chunked upload: 45.9 % uploaded (14680064)
+32807.807 (21) Googledrive chunked upload: 49.2 % uploaded (15728640)
+32808.298 (21) Googledrive chunked upload: 52.5 % uploaded (16777216)
+32808.810 (21) Googledrive chunked upload: 55.8 % uploaded (17825792)
+32809.332 (21) Googledrive chunked upload: 59 % uploaded (18874368)
+32810.264 (21) Googledrive chunked upload: 62.3 % uploaded (19922944)
+32810.811 (21) Googledrive chunked upload: 65.6 % uploaded (20971520)
+32812.481 (21) Googledrive chunked upload: 68.9 % uploaded (22020096)
+32813.348 (21) Googledrive chunked upload: 72.2 % uploaded (23068672)
+32814.341 (21) Googledrive chunked upload: 75.4 % uploaded (24117248)
+32814.802 (21) Googledrive chunked upload: 78.7 % uploaded (25165824)
+32815.329 (21) Googledrive chunked upload: 82 % uploaded (26214400)
+32815.816 (21) Googledrive chunked upload: 85.3 % uploaded (27262976)
+32816.594 (21) Googledrive chunked upload: 88.6 % uploaded (28311552)
+32817.618 (21) Googledrive chunked upload: 91.8 % uploaded (29360128)
+32818.083 (21) Googledrive chunked upload: 95.1 % uploaded (30408704)
+32818.595 (21) Googledrive chunked upload: 98.4 % uploaded (31457280)
+32823.885 (21) ERROR: Google Drive upload error (Google_Service_Exception): Error calling PUT https://www.googleapis.com/upload/drive/v2/files?uploadType=resumable&upload_id=AEnB2Uoggf-Uj1I_eEEq6rKVpPS1g8zv__gjSdsHHZ-bwdtXd6mrjy22zRqsQBqPbXwjEMFoBQKhLPIF3ygjOcxbslzRr0DhnQ: (403) The user has exceeded their Drive storage quota (line: 79, file: /home/mhd-01/www.dime-casa.it/htdocs/wp-content/plugins/updraftplus/includes/Google/Http/REST.php)
+32823.892 (21) ERROR: Google Drive upload error: Error calling PUT https://www.googleapis.com/upload/drive/v2/files?uploadType=resumable&upload_id=AEnB2Uoggf-Uj1I_eEEq6rKVpPS1g8zv__gjSdsHHZ-bwdtXd6mrjy22zRqsQBqPbXwjEMFoBQKhLPIF3ygjOcxbslzRr0DhnQ: (403) The user has exceeded their Drive storage quota (line: 79, file: /home/mhd-01/www.dime-casa.it/htdocs/wp-content/plugins/updraftplus/includes/Google/Http/REST.php)
+32823.898 (21) Retain: beginning examination of existing backup sets; user setting: retain_files=3, retain_db=3
+32823.901 (21) Number of backup sets in history: 3
+32823.903 (21) Examining backup set with datestamp: 1470654377 (Aug 08 2016 11:06:17)
+32824.246 (21) 1470654377: this backup set remains non-empty (1/1); will retain in history
+32824.247 (21) Examining backup set with datestamp: 1468060207 (Jul 09 2016 10:30:07)
+32824.571 (21) 1468060207: this backup set remains non-empty (1/1); will retain in history
+32824.572 (21) Examining backup set with datestamp: 1465468998 (Jun 09 2016 10:43:18)
+32824.900 (21) 1465468998: this backup set remains non-empty (1/1); will retain in history
+32824.902 (21) Retain: saving new backup history (sets now: 3) and finishing retain operation
+32824.904 (21) Resume backup (e31bffaad204, 21): finish run
+32824.907 (21) There were errors in the uploads, so the 'resume' event is remaining scheduled
+32824.911 (21) Il backup non è ultimato; è stata rischedulata una ripresa.
+37188.466 (22) Opened log file at time: Mon, 08 Aug 2016 21:26:05 +0000 on http://www.dime-casa.it
+37188.468 (22) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 27.7M | 28.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+37188.469 (22) Free space on disk containing Updraft's temporary directory: 23744.7 Mb
+37188.470 (22) It looks like WordPress's scheduler has started multiple instances of this resumption
+37188.474 (22) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1470691565.7, time_now=1470691565.9, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+37188.475 (22) Rescheduling resumption 23: moving to 661 seconds from now (1470692226)
+37188.478 (22) To decrease the likelihood of overlaps, increasing resumption interval to: 661 + 0 = 661
+42066.530 (23) Opened log file at time: Mon, 08 Aug 2016 22:47:23 +0000 on http://www.dime-casa.it
+42066.531 (23) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 24.5M | 25.3M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+42066.536 (23) Free space on disk containing Updraft's temporary directory: 23714.8 Mb
+42066.539 (23) Backup run: resumption=23, nonce=e31bffaad204, begun at=1470654377 (42066s ago), job type=backup, previous check-in=0s
+42066.540 (23) Long time past since expected resumption time: approx expected=1470692092.6, now=1470696444, diff=4351.4
+42066.542 (23) [Warning] Il tuo sito web è visitato raramente e UpdraftPlus non sta ottenendo le risorse sperate, ti consigliamo di leggere questa pagina: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+42066.546 (23) Scheduling a resumption (24) after 661 seconds (1470697105) in case this run gets aborted
+42066.554 (23) Creation of backups of directories: already finished
+42066.560 (23) Terminate: backup_2016-08-08-1306_dimensione_casa_a25ef723af22-themes.zip exists with activity within the last 30 seconds (time_mod=1470696443, time_now=1470696444, diff=1, size=19505.9Kb). This likely means that another UpdraftPlus run is at work; so we will exit.
+42066.564 (23) Rescheduling resumption 24: moving to 781 seconds from now (1470697225)
+42066.574 (23) To decrease the likelihood of overlaps, increasing resumption interval to: 661 + 120 = 781
+49281.186 (24) Opened log file at time: Tue, 09 Aug 2016 00:47:38 +0000 on http://www.dime-casa.it
+49281.187 (24) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 27.7M | 28.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+49281.189 (24) Free space on disk containing Updraft's temporary directory: 23695.5 Mb
+49281.190 (24) It looks like WordPress's scheduler has started multiple instances of this resumption
+49281.193 (24) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1470703658.5, time_now=1470703658.6, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+49281.194 (24) Rescheduling resumption 25: moving to 661 seconds from now (1470704319)
+49281.197 (24) To decrease the likelihood of overlaps, increasing resumption interval to: 661 + 0 = 661
+50411.427 (25) Opened log file at time: Tue, 09 Aug 2016 01:06:28 +0000 on http://www.dime-casa.it
+50411.430 (25) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 27.7M | 28.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+50411.431 (25) Free space on disk containing Updraft's temporary directory: 23706.2 Mb
+50411.432 (25) It looks like WordPress's scheduler has started multiple instances of this resumption
+50411.436 (25) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1470704788.9, time_now=1470704788.9, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+50411.437 (25) Rescheduling resumption 26: moving to 661 seconds from now (1470705449)
+50411.440 (25) To decrease the likelihood of overlaps, increasing resumption interval to: 661 + 0 = 661
+56663.488 (26) Opened log file at time: Tue, 09 Aug 2016 02:50:40 +0000 on http://www.dime-casa.it
+56663.490 (26) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 27.7M | 28.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+56663.491 (26) Free space on disk containing Updraft's temporary directory: 23646.9 Mb
+56663.500 (26) It looks like WordPress's scheduler has started multiple instances of this resumption
+56663.504 (26) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1470711040.1, time_now=1470711041, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+56663.506 (26) Rescheduling resumption 27: moving to 661 seconds from now (1470711701)
+56663.545 (26) To decrease the likelihood of overlaps, increasing resumption interval to: 661 + 0 = 661
+59495.119 (27) Opened log file at time: Tue, 09 Aug 2016 03:37:52 +0000 on http://www.dime-casa.it
+59495.121 (27) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 27.7M | 28.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+59495.122 (27) Free space on disk containing Updraft's temporary directory: 23646.9 Mb
+59495.123 (27) It looks like WordPress's scheduler has started multiple instances of this resumption
+59495.126 (27) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1470713872.6, time_now=1470713872.6, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+59495.128 (27) Rescheduling resumption 28: moving to 661 seconds from now (1470714533)
+59495.132 (27) To decrease the likelihood of overlaps, increasing resumption interval to: 661 + 0 = 661
+62596.067 (28) Opened log file at time: Tue, 09 Aug 2016 04:29:33 +0000 on http://www.dime-casa.it
+62596.068 (28) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 27.7M | 28.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+62596.070 (28) Free space on disk containing Updraft's temporary directory: 24236.4 Mb
+62596.071 (28) It looks like WordPress's scheduler has started multiple instances of this resumption
+62596.074 (28) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1470716973.5, time_now=1470716973.5, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+62596.075 (28) Rescheduling resumption 29: moving to 661 seconds from now (1470717634)
+62596.078 (28) To decrease the likelihood of overlaps, increasing resumption interval to: 661 + 0 = 661
+64324.663 (29) Opened log file at time: Tue, 09 Aug 2016 04:58:22 +0000 on http://www.dime-casa.it
+64324.664 (29) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 27.7M | 28.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+64324.666 (29) Free space on disk containing Updraft's temporary directory: 24224.1 Mb
+64324.667 (29) It looks like WordPress's scheduler has started multiple instances of this resumption
+64324.670 (29) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1470718702.1, time_now=1470718702.1, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+64324.671 (29) Rescheduling resumption 30: moving to 661 seconds from now (1470719363)
+64324.674 (29) To decrease the likelihood of overlaps, increasing resumption interval to: 661 + 0 = 661
+67098.225 (30) Opened log file at time: Tue, 09 Aug 2016 05:44:35 +0000 on http://www.dime-casa.it
+67098.227 (30) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 24.5M | 25.3M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+67098.228 (30) Free space on disk containing Updraft's temporary directory: 24227.3 Mb
+67098.232 (30) Backup run: resumption=30, nonce=e31bffaad204, begun at=1470654377 (67098s ago), job type=backup, previous check-in=0s
+67098.233 (30) Long time past since expected resumption time: approx expected=1470719257.3, now=1470721475.7, diff=2218.4
+67098.234 (30) [Warning] Il tuo sito web è visitato raramente e UpdraftPlus non sta ottenendo le risorse sperate, ti consigliamo di leggere questa pagina: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+67098.238 (30) Scheduling a resumption (31) after 661 seconds (1470722136) in case this run gets aborted
+67098.267 (30) Creation of backups of directories: already finished
+67098.272 (30) Terminate: backup_2016-08-08-1306_dimensione_casa_a25ef723af22-themes.zip exists with activity within the last 30 seconds (time_mod=1470721461, time_now=1470721475, diff=14, size=19505.9Kb). This likely means that another UpdraftPlus run is at work; so we will exit.
+67098.274 (30) Rescheduling resumption 31: moving to 781 seconds from now (1470722256)
+67098.282 (30) To decrease the likelihood of overlaps, increasing resumption interval to: 661 + 120 = 781
+71171.266 (31) Opened log file at time: Tue, 09 Aug 2016 06:52:28 +0000 on http://www.dime-casa.it
+71171.267 (31) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 33.1M | 34.3M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+71171.269 (31) Free space on disk containing Updraft's temporary directory: 24076.4 Mb
+71171.270 (31) It looks like WordPress's scheduler has started multiple instances of this resumption
+71171.274 (31) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1470725548.7, time_now=1470725548.7, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+71171.275 (31) Rescheduling resumption 32: moving to 661 seconds from now (1470726209)
+71171.278 (31) To decrease the likelihood of overlaps, increasing resumption interval to: 661 + 0 = 661
+76043.565 (32) Opened log file at time: Tue, 09 Aug 2016 08:13:41 +0000 on http://www.dime-casa.it
+76043.567 (32) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 24.5M | 25.3M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+76043.568 (32) Free space on disk containing Updraft's temporary directory: 23933.6 Mb
+76043.571 (32) Backup run: resumption=32, nonce=e31bffaad204, begun at=1470654377 (76044s ago), job type=backup, previous check-in=0s
+76043.572 (32) Long time past since expected resumption time: approx expected=1470726069.7, now=1470730421, diff=4351.3
+76043.573 (32) [Warning] Il tuo sito web è visitato raramente e UpdraftPlus non sta ottenendo le risorse sperate, ti consigliamo di leggere questa pagina: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+76043.579 (32) Scheduling a resumption (33) after 661 seconds (1470731082) in case this run gets aborted
+76043.618 (32) Creation of backups of directories: already finished
+76043.619 (32) Saving backup status to database (elements: 8)
+76043.622 (32) Database dump (WordPress DB): Creation was completed already
+76043.623 (32) Saving backup history
+76043.630 (32) backup_2016-08-08-1306_dimensione_casa_a25ef723af22-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+76043.631 (32) backup_2016-08-08-1306_dimensione_casa_a25ef723af22-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+76043.633 (32) backup_2016-08-08-1306_dimensione_casa_a25ef723af22-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+76043.634 (32) backup_2016-08-08-1306_dimensione_casa_a25ef723af22-others.zip: others: This file has already been successfully uploaded
+76043.635 (32) backup_2016-08-08-1306_dimensione_casa_e31bffaad204-db.gz: db: This file has already been successfully uploaded
+76043.638 (32) Requesting upload of the files that have not yet been successfully uploaded (3)
+76043.641 (32) Cloud backup selection (1/1): googledrive (last)
+76043.677 (32) Beginning dispatch of backup to remote (googledrive)
+76044.203 (32) Google Drive: requesting access token: client_id=311940385721-p0g7fac1adljk8g35edodtqh6l7bo913.apps.googleusercontent.com
+76044.525 (32) Google Drive: successfully obtained access token
+76046.310 (32) Google Drive quota usage: used=13195.6 Mb, total=15360 Mb, available=2164.4 Mb
+76046.312 (32) backup_2016-08-08-1306_dimensione_casa_a25ef723af22-plugins.zip: Attempting to upload to Google Drive (into folder id: 0B4fOSf7E-RSNbS1ZRllOdEF0R0E)
+76047.609 (32) Googledrive chunked upload: 9.2 % uploaded (1048576)
+76048.382 (32) Googledrive chunked upload: 18.5 % uploaded (2097152)
+76049.561 (32) Googledrive chunked upload: 27.7 % uploaded (3145728)
+76051.029 (32) Googledrive chunked upload: 36.9 % uploaded (4194304)
+76052.407 (32) Googledrive chunked upload: 46.1 % uploaded (5242880)
+76054.034 (32) Googledrive chunked upload: 55.4 % uploaded (6291456)
+76055.861 (32) Googledrive chunked upload: 64.6 % uploaded (7340032)
+76057.175 (32) Googledrive chunked upload: 73.8 % uploaded (8388608)
+76058.330 (32) Googledrive chunked upload: 83.1 % uploaded (9437184)
+76059.704 (32) Googledrive chunked upload: 92.3 % uploaded (10485760)
+76067.387 (32) ERROR: Google Drive upload error (Google_Service_Exception): Error calling PUT https://www.googleapis.com/upload/drive/v2/files?uploadType=resumable&upload_id=AEnB2UoxJ6Ooni_K3Cnsj4VZRsTwtdDRKxxQFxEiTCBMZif45pzVouQdGS9wQgBaLic7D79NCrJpJR-KJxWJj-OndW88TYBYv3tUJuI6mDeWcVYnm5TWuaA: (403) The user has exceeded their Drive storage quota (line: 79, file: /home/mhd-01/www.dime-casa.it/htdocs/wp-content/plugins/updraftplus/includes/Google/Http/REST.php)
+76068.380 (32) Googledrive chunked upload: 9.2 % uploaded (1048576)
+76069.329 (32) Googledrive chunked upload: 18.5 % uploaded (2097152)
+76070.300 (32) Googledrive chunked upload: 27.7 % uploaded (3145728)
+76071.228 (32) Googledrive chunked upload: 36.9 % uploaded (4194304)
+76072.064 (32) Googledrive chunked upload: 46.1 % uploaded (5242880)
+76072.953 (32) Googledrive chunked upload: 55.4 % uploaded (6291456)
+76073.934 (32) Googledrive chunked upload: 64.6 % uploaded (7340032)
+76074.983 (32) Googledrive chunked upload: 73.8 % uploaded (8388608)
+76076.009 (32) Googledrive chunked upload: 83.1 % uploaded (9437184)
+76077.213 (32) Googledrive chunked upload: 92.3 % uploaded (10485760)
+76082.614 (32) ERROR: Google Drive upload error (Google_Service_Exception): Error calling PUT https://www.googleapis.com/upload/drive/v2/files?uploadType=resumable&upload_id=AEnB2UriJQ7T0FLj6zi4dmVK7b1LFme22DnqFGT1ZxqNTLz7akx2lIkDiKMlPyheuIn7z8rXrspLqPe52riikiurrXRDW8fKRWwDppEnGRtwrD_gQ_qOHLc: (403) The user has exceeded their Drive storage quota (line: 79, file: /home/mhd-01/www.dime-casa.it/htdocs/wp-content/plugins/updraftplus/includes/Google/Http/REST.php)
+76082.619 (32) ERROR: Google Drive upload error: Error calling PUT https://www.googleapis.com/upload/drive/v2/files?uploadType=resumable&upload_id=AEnB2UriJQ7T0FLj6zi4dmVK7b1LFme22DnqFGT1ZxqNTLz7akx2lIkDiKMlPyheuIn7z8rXrspLqPe52riikiurrXRDW8fKRWwDppEnGRtwrD_gQ_qOHLc: (403) The user has exceeded their Drive storage quota (line: 79, file: /home/mhd-01/www.dime-casa.it/htdocs/wp-content/plugins/updraftplus/includes/Google/Http/REST.php)
+76082.620 (32) An error condition has occurred for the first time during this job
+76082.996 (32) Google Drive quota usage: used=13195.6 Mb, total=15360 Mb, available=2164.4 Mb
+76082.998 (32) backup_2016-08-08-1306_dimensione_casa_a25ef723af22-themes.zip: Attempting to upload to Google Drive (into folder id: 0B4fOSf7E-RSNbS1ZRllOdEF0R0E)
+76084.082 (32) Googledrive chunked upload: 5.2 % uploaded (1048576)
+76085.394 (32) Googledrive chunked upload: 10.5 % uploaded (2097152)
+76086.740 (32) Googledrive chunked upload: 15.7 % uploaded (3145728)
+76088.243 (32) Googledrive chunked upload: 21 % uploaded (4194304)
+76089.601 (32) Googledrive chunked upload: 26.2 % uploaded (5242880)
+76090.970 (32) Googledrive chunked upload: 31.5 % uploaded (6291456)
+76093.108 (32) Googledrive chunked upload: 36.7 % uploaded (7340032)
+76094.897 (32) Googledrive chunked upload: 42 % uploaded (8388608)
+76096.981 (32) Googledrive chunked upload: 47.2 % uploaded (9437184)
+76098.292 (32) Googledrive chunked upload: 52.5 % uploaded (10485760)
+76099.217 (32) Googledrive chunked upload: 57.7 % uploaded (11534336)
+76100.585 (32) Googledrive chunked upload: 63 % uploaded (12582912)
+76102.681 (32) Googledrive chunked upload: 68.2 % uploaded (13631488)
+76103.759 (32) Googledrive chunked upload: 73.5 % uploaded (14680064)
+76105.428 (32) Googledrive chunked upload: 78.7 % uploaded (15728640)
+76107.386 (32) Googledrive chunked upload: 84 % uploaded (16777216)
+76108.856 (32) Googledrive chunked upload: 89.2 % uploaded (17825792)
+76110.417 (32) Googledrive chunked upload: 94.5 % uploaded (18874368)
+76111.905 (32) Googledrive chunked upload: 99.7 % uploaded (19922944)
+76116.941 (32) ERROR: Google Drive upload error (Google_Service_Exception): Error calling PUT https://www.googleapis.com/upload/drive/v2/files?uploadType=resumable&upload_id=AEnB2Uod98ruLPtOpcVuWWO9TOM_IyBa3i9G-q4firwjB3lTdt9hmuqnUndX0B_z1WCnV1NwfrrGpvwJBaw1Su_fEroTN3bAlz1xQUkujTCQFL5khSVRS6U: (403) The user has exceeded their Drive storage quota (line: 79, file: /home/mhd-01/www.dime-casa.it/htdocs/wp-content/plugins/updraftplus/includes/Google/Http/REST.php)
+76118.855 (32) Googledrive chunked upload: 5.2 % uploaded (1048576)
+76120.281 (32) Googledrive chunked upload: 10.5 % uploaded (2097152)
+76121.257 (32) Googledrive chunked upload: 15.7 % uploaded (3145728)
+76122.157 (32) Googledrive chunked upload: 21 % uploaded (4194304)
+76123.369 (32) Googledrive chunked upload: 26.2 % uploaded (5242880)
+76124.537 (32) Googledrive chunked upload: 31.5 % uploaded (6291456)
+76125.587 (32) Googledrive chunked upload: 36.7 % uploaded (7340032)
+76126.647 (32) Googledrive chunked upload: 42 % uploaded (8388608)
+76127.438 (32) Googledrive chunked upload: 47.2 % uploaded (9437184)
+76128.303 (32) Googledrive chunked upload: 52.5 % uploaded (10485760)
+76129.391 (32) Googledrive chunked upload: 57.7 % uploaded (11534336)
+76130.404 (32) Googledrive chunked upload: 63 % uploaded (12582912)
+76132.018 (32) Googledrive chunked upload: 68.2 % uploaded (13631488)
+76134.281 (32) Googledrive chunked upload: 73.5 % uploaded (14680064)
+76135.304 (32) Googledrive chunked upload: 78.7 % uploaded (15728640)
+76136.309 (32) Googledrive chunked upload: 84 % uploaded (16777216)
+76137.026 (32) Googledrive chunked upload: 89.2 % uploaded (17825792)
+76137.922 (32) Googledrive chunked upload: 94.5 % uploaded (18874368)
+76138.715 (32) Googledrive chunked upload: 99.7 % uploaded (19922944)
+76143.806 (32) ERROR: Google Drive upload error (Google_Service_Exception): Error calling PUT https://www.googleapis.com/upload/drive/v2/files?uploadType=resumable&upload_id=AEnB2Uoo9ETIZ2YleKVkQKq1YvrX6oV57HxPpKU-kRVblIovMe_Wghg2TlUMXsX3xpfPgKlYBWtBUHUfJAfBtfrKfZBfLYXnC-5swaMDqNR7k_NvqzTY5WI: (403) The user has exceeded their Drive storage quota (line: 79, file: /home/mhd-01/www.dime-casa.it/htdocs/wp-content/plugins/updraftplus/includes/Google/Http/REST.php)
+76144.055 (32) ERROR: Google Drive upload error: Error calling PUT https://www.googleapis.com/upload/drive/v2/files?uploadType=resumable&upload_id=AEnB2Uoo9ETIZ2YleKVkQKq1YvrX6oV57HxPpKU-kRVblIovMe_Wghg2TlUMXsX3xpfPgKlYBWtBUHUfJAfBtfrKfZBfLYXnC-5swaMDqNR7k_NvqzTY5WI: (403) The user has exceeded their Drive storage quota (line: 79, file: /home/mhd-01/www.dime-casa.it/htdocs/wp-content/plugins/updraftplus/includes/Google/Http/REST.php)
+76144.453 (32) Google Drive quota usage: used=13195.6 Mb, total=15360 Mb, available=2164.4 Mb
+76144.581 (32) backup_2016-08-08-1306_dimensione_casa_a25ef723af22-uploads.zip: Attempting to upload to Google Drive (into folder id: 0B4fOSf7E-RSNbS1ZRllOdEF0R0E)
+76146.125 (32) Googledrive chunked upload: 3.3 % uploaded (1048576)
+76147.288 (32) Googledrive chunked upload: 6.6 % uploaded (2097152)
+76148.290 (32) Googledrive chunked upload: 9.8 % uploaded (3145728)
+76149.386 (32) Googledrive chunked upload: 13.1 % uploaded (4194304)
+76150.441 (32) Googledrive chunked upload: 16.4 % uploaded (5242880)
+76151.725 (32) Googledrive chunked upload: 19.7 % uploaded (6291456)
+76153.040 (32) Googledrive chunked upload: 23 % uploaded (7340032)
+76154.255 (32) Googledrive chunked upload: 26.2 % uploaded (8388608)
+76155.410 (32) Googledrive chunked upload: 29.5 % uploaded (9437184)
+76156.837 (32) Googledrive chunked upload: 32.8 % uploaded (10485760)
+76158.244 (32) Googledrive chunked upload: 36.1 % uploaded (11534336)
+76159.362 (32) Googledrive chunked upload: 39.4 % uploaded (12582912)
+76160.376 (32) Googledrive chunked upload: 42.6 % uploaded (13631488)
+76161.593 (32) Googledrive chunked upload: 45.9 % uploaded (14680064)
+76162.768 (32) Googledrive chunked upload: 49.2 % uploaded (15728640)
+76164.118 (32) Googledrive chunked upload: 52.5 % uploaded (16777216)
+76165.443 (32) Googledrive chunked upload: 55.8 % uploaded (17825792)
+76166.305 (32) Googledrive chunked upload: 59 % uploaded (18874368)
+76167.695 (32) Googledrive chunked upload: 62.3 % uploaded (19922944)
+76168.755 (32) Googledrive chunked upload: 65.6 % uploaded (20971520)
+76170.432 (32) Googledrive chunked upload: 68.9 % uploaded (22020096)
+76171.506 (32) Googledrive chunked upload: 72.2 % uploaded (23068672)
+76172.511 (32) Googledrive chunked upload: 75.4 % uploaded (24117248)
+76173.352 (32) Googledrive chunked upload: 78.7 % uploaded (25165824)
+76174.819 (32) Googledrive chunked upload: 82 % uploaded (26214400)
+76175.928 (32) Googledrive chunked upload: 85.3 % uploaded (27262976)
+76177.104 (32) Googledrive chunked upload: 88.6 % uploaded (28311552)
+76178.336 (32) Googledrive chunked upload: 91.8 % uploaded (29360128)
+76179.450 (32) Googledrive chunked upload: 95.1 % uploaded (30408704)
+76180.628 (32) Googledrive chunked upload: 98.4 % uploaded (31457280)
+76186.635 (32) ERROR: Google Drive upload error (Google_Service_Exception): Error calling PUT https://www.googleapis.com/upload/drive/v2/files?uploadType=resumable&upload_id=AEnB2Up_Iq0mzIdMpeF7D4LhOAWYiQIuENn84xXSO7gJcndUEYL2Aid9m7RYKEw7cSXI8hzWcSOL9nQzYQClDDb5Q_FeHQz2Mwk3qjRdK6Y-9ILoQ41vYUo: (403) The user has exceeded their Drive storage quota (line: 79, file: /home/mhd-01/www.dime-casa.it/htdocs/wp-content/plugins/updraftplus/includes/Google/Http/REST.php)
+76187.814 (32) Googledrive chunked upload: 3.3 % uploaded (1048576)
+76188.711 (32) Googledrive chunked upload: 6.6 % uploaded (2097152)
+76189.810 (32) Googledrive chunked upload: 9.8 % uploaded (3145728)
+76190.473 (32) Googledrive chunked upload: 13.1 % uploaded (4194304)
+76191.176 (32) Googledrive chunked upload: 16.4 % uploaded (5242880)
+76192.146 (32) Googledrive chunked upload: 19.7 % uploaded (6291456)
+76193.190 (32) Googledrive chunked upload: 23 % uploaded (7340032)
+76193.942 (32) Googledrive chunked upload: 26.2 % uploaded (8388608)
+76194.632 (32) Googledrive chunked upload: 29.5 % uploaded (9437184)
+76195.964 (32) Googledrive chunked upload: 32.8 % uploaded (10485760)
+76196.702 (32) Googledrive chunked upload: 36.1 % uploaded (11534336)
+76197.719 (32) Googledrive chunked upload: 39.4 % uploaded (12582912)
+76198.518 (32) Googledrive chunked upload: 42.6 % uploaded (13631488)
+76199.244 (32) Googledrive chunked upload: 45.9 % uploaded (14680064)
+76200.153 (32) Googledrive chunked upload: 49.2 % uploaded (15728640)
+76201.192 (32) Googledrive chunked upload: 52.5 % uploaded (16777216)
+76202.414 (32) Googledrive chunked upload: 55.8 % uploaded (17825792)
+76203.187 (32) Googledrive chunked upload: 59 % uploaded (18874368)
+76204.012 (32) Googledrive chunked upload: 62.3 % uploaded (19922944)
+76204.740 (32) Googledrive chunked upload: 65.6 % uploaded (20971520)
+76205.846 (32) Googledrive chunked upload: 68.9 % uploaded (22020096)
+76206.839 (32) Googledrive chunked upload: 72.2 % uploaded (23068672)
+76207.607 (32) Googledrive chunked upload: 75.4 % uploaded (24117248)
+76208.575 (32) Googledrive chunked upload: 78.7 % uploaded (25165824)
+76209.268 (32) Googledrive chunked upload: 82 % uploaded (26214400)
+76210.264 (32) Googledrive chunked upload: 85.3 % uploaded (27262976)
+76211.266 (32) Googledrive chunked upload: 88.6 % uploaded (28311552)
+76212.210 (32) Googledrive chunked upload: 91.8 % uploaded (29360128)
+76213.397 (32) Googledrive chunked upload: 95.1 % uploaded (30408704)
+76214.478 (32) Googledrive chunked upload: 98.4 % uploaded (31457280)
+76220.576 (32) ERROR: Google Drive upload error (Google_Service_Exception): Error calling PUT https://www.googleapis.com/upload/drive/v2/files?uploadType=resumable&upload_id=AEnB2UpBPRPbXaqnDQMaw5eXE3-o_vR35ubJkMVA2KgiMrQo8MJT1P353fG3QDU2HtFXy31l9hYDIHz6udDzlyaUgeWWTcFFpVy9Vs7AsetpJHXAeQCCjR0: (403) The user has exceeded their Drive storage quota (line: 79, file: /home/mhd-01/www.dime-casa.it/htdocs/wp-content/plugins/updraftplus/includes/Google/Http/REST.php)
+76220.581 (32) ERROR: Google Drive upload error: Error calling PUT https://www.googleapis.com/upload/drive/v2/files?uploadType=resumable&upload_id=AEnB2UpBPRPbXaqnDQMaw5eXE3-o_vR35ubJkMVA2KgiMrQo8MJT1P353fG3QDU2HtFXy31l9hYDIHz6udDzlyaUgeWWTcFFpVy9Vs7AsetpJHXAeQCCjR0: (403) The user has exceeded their Drive storage quota (line: 79, file: /home/mhd-01/www.dime-casa.it/htdocs/wp-content/plugins/updraftplus/includes/Google/Http/REST.php)
+76220.585 (32) Retain: beginning examination of existing backup sets; user setting: retain_files=3, retain_db=3
+76220.587 (32) Number of backup sets in history: 3
+76220.589 (32) Examining backup set with datestamp: 1470654377 (Aug 08 2016 11:06:17)
+76220.917 (32) 1470654377: this backup set remains non-empty (1/1); will retain in history
+76220.918 (32) Examining backup set with datestamp: 1468060207 (Jul 09 2016 10:30:07)
+76221.321 (32) 1468060207: this backup set remains non-empty (1/1); will retain in history
+76221.322 (32) Examining backup set with datestamp: 1465468998 (Jun 09 2016 10:43:18)
+76221.674 (32) 1465468998: this backup set remains non-empty (1/1); will retain in history
+76221.676 (32) Retain: saving new backup history (sets now: 3) and finishing retain operation
+76221.678 (32) Resume backup (e31bffaad204, 32): finish run
+76221.680 (32) There were errors in the uploads, so the 'resume' event is remaining scheduled
+76221.683 (32) Il backup non è ultimato; è stata rischedulata una ripresa.
+76796.529 (33) Opened log file at time: Tue, 09 Aug 2016 08:26:13 +0000 on http://www.dime-casa.it
+76796.530 (33) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 24.5M | 25.3M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+76796.531 (33) Free space on disk containing Updraft's temporary directory: 23919.2 Mb
+76796.537 (33) Backup run: resumption=33, nonce=e31bffaad204, begun at=1470654377 (76796s ago), job type=backup, previous check-in=178.1s
+76796.541 (33) Scheduling a resumption (34) after 661 seconds (1470731834) in case this run gets aborted
+76796.551 (33) Creation of backups of directories: already finished
+76796.553 (33) Saving backup status to database (elements: 8)
+76796.557 (33) Database dump (WordPress DB): Creation was completed already
+76796.558 (33) Saving backup history
+76796.562 (33) backup_2016-08-08-1306_dimensione_casa_a25ef723af22-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+76796.565 (33) backup_2016-08-08-1306_dimensione_casa_a25ef723af22-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+76796.566 (33) backup_2016-08-08-1306_dimensione_casa_a25ef723af22-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+76796.568 (33) backup_2016-08-08-1306_dimensione_casa_a25ef723af22-others.zip: others: This file has already been successfully uploaded
+76796.569 (33) backup_2016-08-08-1306_dimensione_casa_e31bffaad204-db.gz: db: This file has already been successfully uploaded
+76796.578 (33) Requesting upload of the files that have not yet been successfully uploaded (3)
+76796.591 (33) Cloud backup selection (1/1): googledrive (last)
+76796.621 (33) Beginning dispatch of backup to remote (googledrive)
+76796.677 (33) Google Drive: requesting access token: client_id=311940385721-p0g7fac1adljk8g35edodtqh6l7bo913.apps.googleusercontent.com
+76796.959 (33) Google Drive: successfully obtained access token
+76798.251 (33) Google Drive quota usage: used=13195.6 Mb, total=15360 Mb, available=2164.4 Mb
+76798.252 (33) backup_2016-08-08-1306_dimensione_casa_a25ef723af22-plugins.zip: Attempting to upload to Google Drive (into folder id: 0B4fOSf7E-RSNbS1ZRllOdEF0R0E)
+76799.417 (33) Googledrive chunked upload: 9.2 % uploaded (1048576)
+76800.008 (33) Googledrive chunked upload: 18.5 % uploaded (2097152)
+76800.864 (33) Googledrive chunked upload: 27.7 % uploaded (3145728)
+76801.394 (33) Googledrive chunked upload: 36.9 % uploaded (4194304)
+76801.885 (33) Googledrive chunked upload: 46.1 % uploaded (5242880)
+76802.391 (33) Googledrive chunked upload: 55.4 % uploaded (6291456)
+76803.118 (33) Googledrive chunked upload: 64.6 % uploaded (7340032)
+76803.999 (33) Googledrive chunked upload: 73.8 % uploaded (8388608)
+76806.227 (33) Googledrive chunked upload: 83.1 % uploaded (9437184)
+76807.302 (33) Googledrive chunked upload: 92.3 % uploaded (10485760)
+76812.964 (33) ERROR: Google Drive upload error (Google_Service_Exception): Error calling PUT https://www.googleapis.com/upload/drive/v2/files?uploadType=resumable&upload_id=AEnB2UrtDxdSfqM0mKJ8uH-TLG7T4j9zfx_JA-Hb-K9m1wqcKxstXenUhHvInx2Uul4NOH4APSDceedlZ4mlqNJ5Evb88CceFpl4-Imqzv5NCZ7IIxvIfT4: (403) The user has exceeded their Drive storage quota (line: 79, file: /home/mhd-01/www.dime-casa.it/htdocs/wp-content/plugins/updraftplus/includes/Google/Http/REST.php)
+76814.267 (33) Googledrive chunked upload: 9.2 % uploaded (1048576)
+76814.748 (33) Googledrive chunked upload: 18.5 % uploaded (2097152)
+76815.211 (33) Googledrive chunked upload: 27.7 % uploaded (3145728)
+76815.788 (33) Googledrive chunked upload: 36.9 % uploaded (4194304)
+76816.323 (33) Googledrive chunked upload: 46.1 % uploaded (5242880)
+76816.788 (33) Googledrive chunked upload: 55.4 % uploaded (6291456)
+76817.273 (33) Googledrive chunked upload: 64.6 % uploaded (7340032)
+76817.880 (33) Googledrive chunked upload: 73.8 % uploaded (8388608)
+76818.334 (33) Googledrive chunked upload: 83.1 % uploaded (9437184)
+76818.877 (33) Googledrive chunked upload: 92.3 % uploaded (10485760)
+76825.076 (33) ERROR: Google Drive upload error (Google_Service_Exception): Error calling PUT https://www.googleapis.com/upload/drive/v2/files?uploadType=resumable&upload_id=AEnB2UpwiXwkXZcI03SmyT3CZY7CTqKAss21gVkz2ZOdnyn-_roh280okcu6HtSEIL-qWBhpKSvRd03KS6Cv4gDVdqyyIOwsoC1mMwIrpO7xb3Xi8YYIZcE: (403) The user has exceeded their Drive storage quota (line: 79, file: /home/mhd-01/www.dime-casa.it/htdocs/wp-content/plugins/updraftplus/includes/Google/Http/REST.php)
+76825.080 (33) ERROR: Google Drive upload error: Error calling PUT https://www.googleapis.com/upload/drive/v2/files?uploadType=resumable&upload_id=AEnB2UpwiXwkXZcI03SmyT3CZY7CTqKAss21gVkz2ZOdnyn-_roh280okcu6HtSEIL-qWBhpKSvRd03KS6Cv4gDVdqyyIOwsoC1mMwIrpO7xb3Xi8YYIZcE: (403) The user has exceeded their Drive storage quota (line: 79, file: /home/mhd-01/www.dime-casa.it/htdocs/wp-content/plugins/updraftplus/includes/Google/Http/REST.php)
+76825.082 (33) An error condition has occurred for the first time during this job
+76825.385 (33) Google Drive quota usage: used=13195.6 Mb, total=15360 Mb, available=2164.4 Mb
+76825.387 (33) backup_2016-08-08-1306_dimensione_casa_a25ef723af22-themes.zip: Attempting to upload to Google Drive (into folder id: 0B4fOSf7E-RSNbS1ZRllOdEF0R0E)
+76826.186 (33) Googledrive chunked upload: 5.2 % uploaded (1048576)
+76826.699 (33) Googledrive chunked upload: 10.5 % uploaded (2097152)
+76827.196 (33) Googledrive chunked upload: 15.7 % uploaded (3145728)
+76827.722 (33) Googledrive chunked upload: 21 % uploaded (4194304)
+76828.190 (33) Googledrive chunked upload: 26.2 % uploaded (5242880)
+76829.045 (33) Googledrive chunked upload: 31.5 % uploaded (6291456)
+76829.830 (33) Googledrive chunked upload: 36.7 % uploaded (7340032)
+76830.568 (33) Googledrive chunked upload: 42 % uploaded (8388608)
+76831.131 (33) Googledrive chunked upload: 47.2 % uploaded (9437184)
+76831.628 (33) Googledrive chunked upload: 52.5 % uploaded (10485760)
+76832.229 (33) Googledrive chunked upload: 57.7 % uploaded (11534336)
+76832.861 (33) Googledrive chunked upload: 63 % uploaded (12582912)
+76833.330 (33) Googledrive chunked upload: 68.2 % uploaded (13631488)
+76833.818 (33) Googledrive chunked upload: 73.5 % uploaded (14680064)
+76834.284 (33) Googledrive chunked upload: 78.7 % uploaded (15728640)
+76835.056 (33) Googledrive chunked upload: 84 % uploaded (16777216)
+76835.819 (33) Googledrive chunked upload: 89.2 % uploaded (17825792)
+76836.303 (33) Googledrive chunked upload: 94.5 % uploaded (18874368)
+76836.790 (33) Googledrive chunked upload: 99.7 % uploaded (19922944)
+76841.808 (33) ERROR: Google Drive upload error (Google_Service_Exception): Error calling PUT https://www.googleapis.com/upload/drive/v2/files?uploadType=resumable&upload_id=AEnB2UraJ7FUVya7Nw2QG2SeOrdTRN7S7klhdKorM9jvlQYYne4zXE2WhYY5aAPQk0jsomyEl4bS9r6Z41_2W4lsNuIkpZiMlKxNiwIJhwikh9y4Crq6rHs: (403) The user has exceeded their Drive storage quota (line: 79, file: /home/mhd-01/www.dime-casa.it/htdocs/wp-content/plugins/updraftplus/includes/Google/Http/REST.php)
+76842.590 (33) Googledrive chunked upload: 5.2 % uploaded (1048576)
+76843.030 (33) Googledrive chunked upload: 10.5 % uploaded (2097152)
+76843.504 (33) Googledrive chunked upload: 15.7 % uploaded (3145728)
+76843.980 (33) Googledrive chunked upload: 21 % uploaded (4194304)
+76844.452 (33) Googledrive chunked upload: 26.2 % uploaded (5242880)
+76844.989 (33) Googledrive chunked upload: 31.5 % uploaded (6291456)
+76845.457 (33) Googledrive chunked upload: 36.7 % uploaded (7340032)
+76846.490 (33) Googledrive chunked upload: 42 % uploaded (8388608)
+76846.986 (33) Googledrive chunked upload: 47.2 % uploaded (9437184)
+76847.455 (33) Googledrive chunked upload: 52.5 % uploaded (10485760)
+76848.001 (33) Googledrive chunked upload: 57.7 % uploaded (11534336)
+76848.575 (33) Googledrive chunked upload: 63 % uploaded (12582912)
+76849.021 (33) Googledrive chunked upload: 68.2 % uploaded (13631488)
+76849.541 (33) Googledrive chunked upload: 73.5 % uploaded (14680064)
+76849.989 (33) Googledrive chunked upload: 78.7 % uploaded (15728640)
+76850.605 (33) Googledrive chunked upload: 84 % uploaded (16777216)
+76851.134 (33) Googledrive chunked upload: 89.2 % uploaded (17825792)
+76851.701 (33) Googledrive chunked upload: 94.5 % uploaded (18874368)
+76852.138 (33) Googledrive chunked upload: 99.7 % uploaded (19922944)
+76857.764 (33) ERROR: Google Drive upload error (Google_Service_Exception): Error calling PUT https://www.googleapis.com/upload/drive/v2/files?uploadType=resumable&upload_id=AEnB2Urhz6bz3Wjoz1fi_BFNKVNw_2cGotg1I77ffSBQaD03ZQf9Bp_Hsg---lXL1zWcNX4C-UImwVN32-XbHPVN-c0EKSSo3P63JmwwayGPggCPk0G5eOs: (403) The user has exceeded their Drive storage quota (line: 79, file: /home/mhd-01/www.dime-casa.it/htdocs/wp-content/plugins/updraftplus/includes/Google/Http/REST.php)
+76857.768 (33) ERROR: Google Drive upload error: Error calling PUT https://www.googleapis.com/upload/drive/v2/files?uploadType=resumable&upload_id=AEnB2Urhz6bz3Wjoz1fi_BFNKVNw_2cGotg1I77ffSBQaD03ZQf9Bp_Hsg---lXL1zWcNX4C-UImwVN32-XbHPVN-c0EKSSo3P63JmwwayGPggCPk0G5eOs: (403) The user has exceeded their Drive storage quota (line: 79, file: /home/mhd-01/www.dime-casa.it/htdocs/wp-content/plugins/updraftplus/includes/Google/Http/REST.php)
+76858.121 (33) Google Drive quota usage: used=13195.6 Mb, total=15360 Mb, available=2164.4 Mb
+76858.122 (33) backup_2016-08-08-1306_dimensione_casa_a25ef723af22-uploads.zip: Attempting to upload to Google Drive (into folder id: 0B4fOSf7E-RSNbS1ZRllOdEF0R0E)
+76858.974 (33) Googledrive chunked upload: 3.3 % uploaded (1048576)
+76859.647 (33) Googledrive chunked upload: 6.6 % uploaded (2097152)
+76860.129 (33) Googledrive chunked upload: 9.8 % uploaded (3145728)
+76860.600 (33) Googledrive chunked upload: 13.1 % uploaded (4194304)
+76861.043 (33) Googledrive chunked upload: 16.4 % uploaded (5242880)
+76861.610 (33) Googledrive chunked upload: 19.7 % uploaded (6291456)
+76862.153 (33) Googledrive chunked upload: 23 % uploaded (7340032)
+76862.692 (33) Googledrive chunked upload: 26.2 % uploaded (8388608)
+76863.304 (33) Googledrive chunked upload: 29.5 % uploaded (9437184)
+76863.933 (33) Googledrive chunked upload: 32.8 % uploaded (10485760)
+76864.465 (33) Googledrive chunked upload: 36.1 % uploaded (11534336)
+76865.112 (33) Googledrive chunked upload: 39.4 % uploaded (12582912)
+76865.615 (33) Googledrive chunked upload: 42.6 % uploaded (13631488)
+76866.344 (33) Googledrive chunked upload: 45.9 % uploaded (14680064)
+76866.828 (33) Googledrive chunked upload: 49.2 % uploaded (15728640)
+76867.500 (33) Googledrive chunked upload: 52.5 % uploaded (16777216)
+76868.405 (33) Googledrive chunked upload: 55.8 % uploaded (17825792)
+76869.015 (33) Googledrive chunked upload: 59 % uploaded (18874368)
+76869.717 (33) Googledrive chunked upload: 62.3 % uploaded (19922944)
+76870.683 (33) Googledrive chunked upload: 65.6 % uploaded (20971520)
+76871.344 (33) Googledrive chunked upload: 68.9 % uploaded (22020096)
+76872.217 (33) Googledrive chunked upload: 72.2 % uploaded (23068672)
+76872.728 (33) Googledrive chunked upload: 75.4 % uploaded (24117248)
+76873.332 (33) Googledrive chunked upload: 78.7 % uploaded (25165824)
+76873.898 (33) Googledrive chunked upload: 82 % uploaded (26214400)
+76874.505 (33) Googledrive chunked upload: 85.3 % uploaded (27262976)
+76875.087 (33) Googledrive chunked upload: 88.6 % uploaded (28311552)
+76875.853 (33) Googledrive chunked upload: 91.8 % uploaded (29360128)
+76876.370 (33) Googledrive chunked upload: 95.1 % uploaded (30408704)
+76877.026 (33) Googledrive chunked upload: 98.4 % uploaded (31457280)
+76882.749 (33) ERROR: Google Drive upload error (Google_Service_Exception): Error calling PUT https://www.googleapis.com/upload/drive/v2/files?uploadType=resumable&upload_id=AEnB2UpJTaJiboWVGcge2d3k1_5wNGVefEyhRwZkBW4Y_rGvbV1Bpn9R5bAevqgjTt_9WhKPaLlD1Jbv7ViyQXlWcq4EX_34dl_Y8YkFv1KoRGZx0CUICMU: (403) The user has exceeded their Drive storage quota (line: 79, file: /home/mhd-01/www.dime-casa.it/htdocs/wp-content/plugins/updraftplus/includes/Google/Http/REST.php)
+76883.775 (33) Googledrive chunked upload: 3.3 % uploaded (1048576)
+76884.667 (33) Googledrive chunked upload: 6.6 % uploaded (2097152)
+76885.145 (33) Googledrive chunked upload: 9.8 % uploaded (3145728)
+76885.603 (33) Googledrive chunked upload: 13.1 % uploaded (4194304)
+76886.085 (33) Googledrive chunked upload: 16.4 % uploaded (5242880)
+76886.567 (33) Googledrive chunked upload: 19.7 % uploaded (6291456)
+76887.051 (33) Googledrive chunked upload: 23 % uploaded (7340032)
+76887.559 (33) Googledrive chunked upload: 26.2 % uploaded (8388608)
+76888.386 (33) Googledrive chunked upload: 29.5 % uploaded (9437184)
+76889.812 (33) Googledrive chunked upload: 32.8 % uploaded (10485760)
+76891.293 (33) Googledrive chunked upload: 36.1 % uploaded (11534336)
+76891.754 (33) Googledrive chunked upload: 39.4 % uploaded (12582912)
+76892.248 (33) Googledrive chunked upload: 42.6 % uploaded (13631488)
+76892.689 (33) Googledrive chunked upload: 45.9 % uploaded (14680064)
+76893.261 (33) Googledrive chunked upload: 49.2 % uploaded (15728640)
+76893.729 (33) Googledrive chunked upload: 52.5 % uploaded (16777216)
+76894.292 (33) Googledrive chunked upload: 55.8 % uploaded (17825792)
+76894.866 (33) Googledrive chunked upload: 59 % uploaded (18874368)
+76895.333 (33) Googledrive chunked upload: 62.3 % uploaded (19922944)
+76895.925 (33) Googledrive chunked upload: 65.6 % uploaded (20971520)
+76896.380 (33) Googledrive chunked upload: 68.9 % uploaded (22020096)
+76896.857 (33) Googledrive chunked upload: 72.2 % uploaded (23068672)
+76897.544 (33) Googledrive chunked upload: 75.4 % uploaded (24117248)
+76898.008 (33) Googledrive chunked upload: 78.7 % uploaded (25165824)
+76898.468 (33) Googledrive chunked upload: 82 % uploaded (26214400)
+76898.972 (33) Googledrive chunked upload: 85.3 % uploaded (27262976)
+76899.457 (33) Googledrive chunked upload: 88.6 % uploaded (28311552)
+76900.177 (33) Googledrive chunked upload: 91.8 % uploaded (29360128)
+76900.690 (33) Googledrive chunked upload: 95.1 % uploaded (30408704)
+76901.412 (33) Googledrive chunked upload: 98.4 % uploaded (31457280)
+76906.571 (33) ERROR: Google Drive upload error (Google_Service_Exception): Error calling PUT https://www.googleapis.com/upload/drive/v2/files?uploadType=resumable&upload_id=AEnB2UooVlBZ9Jhwqd2Pz1dg155GWeHjqwPuXDSgPetW9QLkJrBo0IfHVwC8f0VwUpeL9kJ2kkmnyKt9P148WvedRZ5MbOr5DS2J8HwNARaVbb58BmLFuGs: (403) The user has exceeded their Drive storage quota (line: 79, file: /home/mhd-01/www.dime-casa.it/htdocs/wp-content/plugins/updraftplus/includes/Google/Http/REST.php)
+76906.575 (33) ERROR: Google Drive upload error: Error calling PUT https://www.googleapis.com/upload/drive/v2/files?uploadType=resumable&upload_id=AEnB2UooVlBZ9Jhwqd2Pz1dg155GWeHjqwPuXDSgPetW9QLkJrBo0IfHVwC8f0VwUpeL9kJ2kkmnyKt9P148WvedRZ5MbOr5DS2J8HwNARaVbb58BmLFuGs: (403) The user has exceeded their Drive storage quota (line: 79, file: /home/mhd-01/www.dime-casa.it/htdocs/wp-content/plugins/updraftplus/includes/Google/Http/REST.php)
+76906.584 (33) Retain: beginning examination of existing backup sets; user setting: retain_files=3, retain_db=3
+76906.595 (33) Number of backup sets in history: 3
+76906.597 (33) Examining backup set with datestamp: 1470654377 (Aug 08 2016 11:06:17)
+76906.894 (33) 1470654377: this backup set remains non-empty (1/1); will retain in history
+76906.895 (33) Examining backup set with datestamp: 1468060207 (Jul 09 2016 10:30:07)
+76907.259 (33) 1468060207: this backup set remains non-empty (1/1); will retain in history
+76907.261 (33) Examining backup set with datestamp: 1465468998 (Jun 09 2016 10:43:18)
+76907.575 (33) 1465468998: this backup set remains non-empty (1/1); will retain in history
+76907.576 (33) Retain: saving new backup history (sets now: 3) and finishing retain operation
+76907.578 (33) Resume backup (e31bffaad204, 33): finish run
+76907.580 (33) There were errors in the uploads, so the 'resume' event is remaining scheduled
+76907.698 (33) Il backup non è ultimato; è stata rischedulata una ripresa.
+77665.952 (34) Opened log file at time: Tue, 09 Aug 2016 08:40:43 +0000 on http://www.dime-casa.it
+77665.958 (34) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 24.5M | 25.3M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+77665.960 (34) Free space on disk containing Updraft's temporary directory: 23905.3 Mb
+77665.966 (34) Backup run: resumption=34, nonce=e31bffaad204, begun at=1470654377 (77666s ago), job type=backup, previous check-in=111s
+77665.970 (34) Scheduling a resumption (35) after 661 seconds (1470732704) in case this run gets aborted
+77665.978 (34) Creation of backups of directories: already finished
+77665.980 (34) Saving backup status to database (elements: 8)
+77666.001 (34) Database dump (WordPress DB): Creation was completed already
+77666.003 (34) Saving backup history
+77666.007 (34) backup_2016-08-08-1306_dimensione_casa_a25ef723af22-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+77666.008 (34) backup_2016-08-08-1306_dimensione_casa_a25ef723af22-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+77666.010 (34) backup_2016-08-08-1306_dimensione_casa_a25ef723af22-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+77666.011 (34) backup_2016-08-08-1306_dimensione_casa_a25ef723af22-others.zip: others: This file has already been successfully uploaded
+77666.012 (34) backup_2016-08-08-1306_dimensione_casa_e31bffaad204-db.gz: db: This file has already been successfully uploaded
+77666.015 (34) Requesting upload of the files that have not yet been successfully uploaded (3)
+77666.019 (34) Cloud backup selection (1/1): googledrive (last)
+77666.022 (34) Beginning dispatch of backup to remote (googledrive)
+77666.036 (34) Google Drive: requesting access token: client_id=311940385721-p0g7fac1adljk8g35edodtqh6l7bo913.apps.googleusercontent.com
+77666.335 (34) Google Drive: successfully obtained access token
+77667.474 (34) Google Drive quota usage: used=13195.6 Mb, total=15360 Mb, available=2164.4 Mb
+77667.475 (34) backup_2016-08-08-1306_dimensione_casa_a25ef723af22-plugins.zip: Attempting to upload to Google Drive (into folder id: 0B4fOSf7E-RSNbS1ZRllOdEF0R0E)
+77668.475 (34) Googledrive chunked upload: 9.2 % uploaded (1048576)
+77669.189 (34) Googledrive chunked upload: 18.5 % uploaded (2097152)
+77670.000 (34) Googledrive chunked upload: 27.7 % uploaded (3145728)
+77670.764 (34) Googledrive chunked upload: 36.9 % uploaded (4194304)
+77671.477 (34) Googledrive chunked upload: 46.1 % uploaded (5242880)
+77672.262 (34) Googledrive chunked upload: 55.4 % uploaded (6291456)
+77673.111 (34) Googledrive chunked upload: 64.6 % uploaded (7340032)
+77673.819 (34) Googledrive chunked upload: 73.8 % uploaded (8388608)
+77674.553 (34) Googledrive chunked upload: 83.1 % uploaded (9437184)
+77675.383 (34) Googledrive chunked upload: 92.3 % uploaded (10485760)
+77681.153 (34) ERROR: Google Drive upload error (Google_Service_Exception): Error calling PUT https://www.googleapis.com/upload/drive/v2/files?uploadType=resumable&upload_id=AEnB2UqbdDZjfxxmCXvRCKJzkV7AWqR_G7v3imBn7X4koFsqb0o-igdgh2W9PfYoiMG8hpOmixEhVxG2HV_L1qZQvgW1bogLJw: (403) The user has exceeded their Drive storage quota (line: 79, file: /home/mhd-01/www.dime-casa.it/htdocs/wp-content/plugins/updraftplus/includes/Google/Http/REST.php)
+77682.287 (34) Googledrive chunked upload: 9.2 % uploaded (1048576)
+77683.180 (34) Googledrive chunked upload: 18.5 % uploaded (2097152)
+77684.164 (34) Googledrive chunked upload: 27.7 % uploaded (3145728)
+77684.866 (34) Googledrive chunked upload: 36.9 % uploaded (4194304)
+77685.501 (34) Googledrive chunked upload: 46.1 % uploaded (5242880)
+77686.136 (34) Googledrive chunked upload: 55.4 % uploaded (6291456)
+77686.793 (34) Googledrive chunked upload: 64.6 % uploaded (7340032)
+77687.684 (34) Googledrive chunked upload: 73.8 % uploaded (8388608)
+77688.318 (34) Googledrive chunked upload: 83.1 % uploaded (9437184)
+77689.078 (34) Googledrive chunked upload: 92.3 % uploaded (10485760)
+77694.345 (34) ERROR: Google Drive upload error (Google_Service_Exception): Error calling PUT https://www.googleapis.com/upload/drive/v2/files?uploadType=resumable&upload_id=AEnB2Uo9a5fixiDuJN2EP3FOEcpdkOu9Z4JkeYU1lN9pWcBeHq9kt2zeRz51aRXQwCD8s44g4w5BuodsKUxxiisUHVgIa5EbFw: (403) The user has exceeded their Drive storage quota (line: 79, file: /home/mhd-01/www.dime-casa.it/htdocs/wp-content/plugins/updraftplus/includes/Google/Http/REST.php)
+77694.356 (34) ERROR: Google Drive upload error: Error calling PUT https://www.googleapis.com/upload/drive/v2/files?uploadType=resumable&upload_id=AEnB2Uo9a5fixiDuJN2EP3FOEcpdkOu9Z4JkeYU1lN9pWcBeHq9kt2zeRz51aRXQwCD8s44g4w5BuodsKUxxiisUHVgIa5EbFw: (403) The user has exceeded their Drive storage quota (line: 79, file: /home/mhd-01/www.dime-casa.it/htdocs/wp-content/plugins/updraftplus/includes/Google/Http/REST.php)
+77694.357 (34) An error condition has occurred for the first time during this job
+77694.677 (34) Google Drive quota usage: used=13195.6 Mb, total=15360 Mb, available=2164.4 Mb
+77694.679 (34) backup_2016-08-08-1306_dimensione_casa_a25ef723af22-themes.zip: Attempting to upload to Google Drive (into folder id: 0B4fOSf7E-RSNbS1ZRllOdEF0R0E)
+77695.991 (34) Googledrive chunked upload: 5.2 % uploaded (1048576)
+77696.997 (34) Googledrive chunked upload: 10.5 % uploaded (2097152)
+77697.733 (34) Googledrive chunked upload: 15.7 % uploaded (3145728)
+77698.535 (34) Googledrive chunked upload: 21 % uploaded (4194304)
+77699.271 (34) Googledrive chunked upload: 26.2 % uploaded (5242880)
+77700.092 (34) Googledrive chunked upload: 31.5 % uploaded (6291456)
+77700.761 (34) Googledrive chunked upload: 36.7 % uploaded (7340032)
+77701.521 (34) Googledrive chunked upload: 42 % uploaded (8388608)
+77702.228 (34) Googledrive chunked upload: 47.2 % uploaded (9437184)
+77702.984 (34) Googledrive chunked upload: 52.5 % uploaded (10485760)
+77703.712 (34) Googledrive chunked upload: 57.7 % uploaded (11534336)
+77704.436 (34) Googledrive chunked upload: 63 % uploaded (12582912)
+77705.100 (34) Googledrive chunked upload: 68.2 % uploaded (13631488)
+77705.939 (34) Googledrive chunked upload: 73.5 % uploaded (14680064)
+77706.647 (34) Googledrive chunked upload: 78.7 % uploaded (15728640)
+77707.345 (34) Googledrive chunked upload: 84 % uploaded (16777216)
+77708.022 (34) Googledrive chunked upload: 89.2 % uploaded (17825792)
+77708.723 (34) Googledrive chunked upload: 94.5 % uploaded (18874368)
+77709.404 (34) Googledrive chunked upload: 99.7 % uploaded (19922944)
+77714.384 (34) ERROR: Google Drive upload error (Google_Service_Exception): Error calling PUT https://www.googleapis.com/upload/drive/v2/files?uploadType=resumable&upload_id=AEnB2Uoijtd2fLW3lghHkb4eYL315igPYXZKpYdeZcfinUfVH8DYLU24mS_Ye7sqwP1NXJsXTuMXTAqc440uEM9DWLeEsCCdUw: (403) The user has exceeded their Drive storage quota (line: 79, file: /home/mhd-01/www.dime-casa.it/htdocs/wp-content/plugins/updraftplus/includes/Google/Http/REST.php)
+77715.354 (34) Googledrive chunked upload: 5.2 % uploaded (1048576)
+77716.014 (34) Googledrive chunked upload: 10.5 % uploaded (2097152)
+77716.677 (34) Googledrive chunked upload: 15.7 % uploaded (3145728)
+77717.457 (34) Googledrive chunked upload: 21 % uploaded (4194304)
+77718.118 (34) Googledrive chunked upload: 26.2 % uploaded (5242880)
+77718.752 (34) Googledrive chunked upload: 31.5 % uploaded (6291456)
+77719.438 (34) Googledrive chunked upload: 36.7 % uploaded (7340032)
+77720.138 (34) Googledrive chunked upload: 42 % uploaded (8388608)
+77720.931 (34) Googledrive chunked upload: 47.2 % uploaded (9437184)
+77721.707 (34) Googledrive chunked upload: 52.5 % uploaded (10485760)
+77722.305 (34) Googledrive chunked upload: 57.7 % uploaded (11534336)
+77722.972 (34) Googledrive chunked upload: 63 % uploaded (12582912)
+77723.601 (34) Googledrive chunked upload: 68.2 % uploaded (13631488)
+77724.223 (34) Googledrive chunked upload: 73.5 % uploaded (14680064)
+77724.926 (34) Googledrive chunked upload: 78.7 % uploaded (15728640)
+77725.536 (34) Googledrive chunked upload: 84 % uploaded (16777216)
+77726.217 (34) Googledrive chunked upload: 89.2 % uploaded (17825792)
+77726.878 (34) Googledrive chunked upload: 94.5 % uploaded (18874368)
+77727.456 (34) Googledrive chunked upload: 99.7 % uploaded (19922944)
+77733.157 (34) ERROR: Google Drive upload error (Google_Service_Exception): Error calling PUT https://www.googleapis.com/upload/drive/v2/files?uploadType=resumable&upload_id=AEnB2UqF_a6ram4yZHpsYiqOFhYkSTStPOHDijB59uKrNxBhCPBFu-qLcxq4NgvI3Z7afysl_z2tZFShrD0oeh3B4Gp8vZTt5A: (403) The user has exceeded their Drive storage quota (line: 79, file: /home/mhd-01/www.dime-casa.it/htdocs/wp-content/plugins/updraftplus/includes/Google/Http/REST.php)
+77733.161 (34) ERROR: Google Drive upload error: Error calling PUT https://www.googleapis.com/upload/drive/v2/files?uploadType=resumable&upload_id=AEnB2UqF_a6ram4yZHpsYiqOFhYkSTStPOHDijB59uKrNxBhCPBFu-qLcxq4NgvI3Z7afysl_z2tZFShrD0oeh3B4Gp8vZTt5A: (403) The user has exceeded their Drive storage quota (line: 79, file: /home/mhd-01/www.dime-casa.it/htdocs/wp-content/plugins/updraftplus/includes/Google/Http/REST.php)
+77733.462 (34) Google Drive quota usage: used=13195.6 Mb, total=15360 Mb, available=2164.4 Mb
+77733.617 (34) backup_2016-08-08-1306_dimensione_casa_a25ef723af22-uploads.zip: Attempting to upload to Google Drive (into folder id: 0B4fOSf7E-RSNbS1ZRllOdEF0R0E)
+77734.897 (34) Googledrive chunked upload: 3.3 % uploaded (1048576)
+77735.600 (34) Googledrive chunked upload: 6.6 % uploaded (2097152)
+77736.271 (34) Googledrive chunked upload: 9.8 % uploaded (3145728)
+77736.910 (34) Googledrive chunked upload: 13.1 % uploaded (4194304)
+77737.644 (34) Googledrive chunked upload: 16.4 % uploaded (5242880)
+77738.523 (34) Googledrive chunked upload: 19.7 % uploaded (6291456)
+77739.280 (34) Googledrive chunked upload: 23 % uploaded (7340032)
+77740.015 (34) Googledrive chunked upload: 26.2 % uploaded (8388608)
+77740.696 (34) Googledrive chunked upload: 29.5 % uploaded (9437184)
+77741.532 (34) Googledrive chunked upload: 32.8 % uploaded (10485760)
+77742.354 (34) Googledrive chunked upload: 36.1 % uploaded (11534336)
+77743.108 (34) Googledrive chunked upload: 39.4 % uploaded (12582912)
+77743.859 (34) Googledrive chunked upload: 42.6 % uploaded (13631488)
+77744.590 (34) Googledrive chunked upload: 45.9 % uploaded (14680064)
+77745.241 (34) Googledrive chunked upload: 49.2 % uploaded (15728640)
+77745.923 (34) Googledrive chunked upload: 52.5 % uploaded (16777216)
+77746.717 (34) Googledrive chunked upload: 55.8 % uploaded (17825792)
+77747.435 (34) Googledrive chunked upload: 59 % uploaded (18874368)
+77748.108 (34) Googledrive chunked upload: 62.3 % uploaded (19922944)
+77748.831 (34) Googledrive chunked upload: 65.6 % uploaded (20971520)
+77749.515 (34) Googledrive chunked upload: 68.9 % uploaded (22020096)
+77750.241 (34) Googledrive chunked upload: 72.2 % uploaded (23068672)
+77751.066 (34) Googledrive chunked upload: 75.4 % uploaded (24117248)
+77751.975 (34) Googledrive chunked upload: 78.7 % uploaded (25165824)
+77753.400 (34) Googledrive chunked upload: 82 % uploaded (26214400)
+77754.110 (34) Googledrive chunked upload: 85.3 % uploaded (27262976)
+77754.935 (34) Googledrive chunked upload: 88.6 % uploaded (28311552)
+77755.620 (34) Googledrive chunked upload: 91.8 % uploaded (29360128)
+77756.328 (34) Googledrive chunked upload: 95.1 % uploaded (30408704)
+77757.363 (34) Googledrive chunked upload: 98.4 % uploaded (31457280)
+77763.223 (34) ERROR: Google Drive upload error (Google_Service_Exception): Error calling PUT https://www.googleapis.com/upload/drive/v2/files?uploadType=resumable&upload_id=AEnB2Ur-QNy1KHD5Eg8vYwqucqmfhG6HZ81RwGPK65JP3wY_fE3hTboobqJ0P3ZtmZkfPJ9RLFFBZNfVoCY59DHv4_riYKBN-g: (403) The user has exceeded their Drive storage quota (line: 79, file: /home/mhd-01/www.dime-casa.it/htdocs/wp-content/plugins/updraftplus/includes/Google/Http/REST.php)
+77765.229 (34) Googledrive chunked upload: 3.3 % uploaded (1048576)
+77765.955 (34) Googledrive chunked upload: 6.6 % uploaded (2097152)
+77766.831 (34) Googledrive chunked upload: 9.8 % uploaded (3145728)
+77767.462 (34) Googledrive chunked upload: 13.1 % uploaded (4194304)
+77768.091 (34) Googledrive chunked upload: 16.4 % uploaded (5242880)
+77768.771 (34) Googledrive chunked upload: 19.7 % uploaded (6291456)
+77769.555 (34) Googledrive chunked upload: 23 % uploaded (7340032)
+77770.245 (34) Googledrive chunked upload: 26.2 % uploaded (8388608)
+77770.876 (34) Googledrive chunked upload: 29.5 % uploaded (9437184)
+77771.707 (34) Googledrive chunked upload: 32.8 % uploaded (10485760)
+77772.337 (34) Googledrive chunked upload: 36.1 % uploaded (11534336)
+77772.945 (34) Googledrive chunked upload: 39.4 % uploaded (12582912)
+77773.566 (34) Googledrive chunked upload: 42.6 % uploaded (13631488)
+77774.453 (34) Googledrive chunked upload: 45.9 % uploaded (14680064)
+77775.081 (34) Googledrive chunked upload: 49.2 % uploaded (15728640)
+77775.770 (34) Googledrive chunked upload: 52.5 % uploaded (16777216)
+77776.486 (34) Googledrive chunked upload: 55.8 % uploaded (17825792)
+77777.115 (34) Googledrive chunked upload: 59 % uploaded (18874368)
+77777.810 (34) Googledrive chunked upload: 62.3 % uploaded (19922944)
+77778.469 (34) Googledrive chunked upload: 65.6 % uploaded (20971520)
+77779.306 (34) Googledrive chunked upload: 68.9 % uploaded (22020096)
+77779.991 (34) Googledrive chunked upload: 72.2 % uploaded (23068672)
+77780.621 (34) Googledrive chunked upload: 75.4 % uploaded (24117248)
+77781.453 (34) Googledrive chunked upload: 78.7 % uploaded (25165824)
+77782.193 (34) Googledrive chunked upload: 82 % uploaded (26214400)
+77782.892 (34) Googledrive chunked upload: 85.3 % uploaded (27262976)
+77783.574 (34) Googledrive chunked upload: 88.6 % uploaded (28311552)
+77784.295 (34) Googledrive chunked upload: 91.8 % uploaded (29360128)
+77784.946 (34) Googledrive chunked upload: 95.1 % uploaded (30408704)
+77785.679 (34) Googledrive chunked upload: 98.4 % uploaded (31457280)
+77793.557 (34) ERROR: Google Drive upload error (Google_Service_Exception): Error calling PUT https://www.googleapis.com/upload/drive/v2/files?uploadType=resumable&upload_id=AEnB2UqeYKBmq7vAaGcxMB4t2lMuhJxfQEiUsxYn-UwX453p0XRqO3pmb2oXdkcs9cvLaHF_ND7klosKo2V2k0H3-Mp4HGxypw: (403) The user has exceeded their Drive storage quota (line: 79, file: /home/mhd-01/www.dime-casa.it/htdocs/wp-content/plugins/updraftplus/includes/Google/Http/REST.php)
+77793.564 (34) ERROR: Google Drive upload error: Error calling PUT https://www.googleapis.com/upload/drive/v2/files?uploadType=resumable&upload_id=AEnB2UqeYKBmq7vAaGcxMB4t2lMuhJxfQEiUsxYn-UwX453p0XRqO3pmb2oXdkcs9cvLaHF_ND7klosKo2V2k0H3-Mp4HGxypw: (403) The user has exceeded their Drive storage quota (line: 79, file: /home/mhd-01/www.dime-casa.it/htdocs/wp-content/plugins/updraftplus/includes/Google/Http/REST.php)
+77793.569 (34) Retain: beginning examination of existing backup sets; user setting: retain_files=3, retain_db=3
+77793.577 (34) Number of backup sets in history: 3
+77793.579 (34) Examining backup set with datestamp: 1470654377 (Aug 08 2016 11:06:17)
+77793.854 (34) 1470654377: this backup set remains non-empty (1/1); will retain in history
+77793.855 (34) Examining backup set with datestamp: 1468060207 (Jul 09 2016 10:30:07)
+77794.140 (34) 1468060207: this backup set remains non-empty (1/1); will retain in history
+77794.141 (34) Examining backup set with datestamp: 1465468998 (Jun 09 2016 10:43:18)
+77794.459 (34) 1465468998: this backup set remains non-empty (1/1); will retain in history
+77794.460 (34) Retain: saving new backup history (sets now: 3) and finishing retain operation
+77794.462 (34) Resume backup (e31bffaad204, 34): finish run
+77794.465 (34) There were errors in the uploads, so the 'resume' event is remaining scheduled
+77794.469 (34) Il backup non è ultimato; è stata rischedulata una ripresa.
+79185.183 (35) Opened log file at time: Tue, 09 Aug 2016 09:06:02 +0000 on http://www.dime-casa.it
+79185.184 (35) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 27.7M | 28.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+79185.185 (35) Free space on disk containing Updraft's temporary directory: 23882.1 Mb
+79185.187 (35) It looks like WordPress's scheduler has started multiple instances of this resumption
+79185.190 (35) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1470733562.6, time_now=1470733562.6, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+79185.197 (35) Rescheduling resumption 36: moving to 781 seconds from now (1470734343)
+79185.200 (35) To decrease the likelihood of overlaps, increasing resumption interval to: 781 + 0 = 781
+80789.742 (36) Opened log file at time: Tue, 09 Aug 2016 09:32:47 +0000 on http://www.dime-casa.it
+80789.745 (36) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 27.7M | 28.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+80789.746 (36) Free space on disk containing Updraft's temporary directory: 23754 Mb
+80789.748 (36) It looks like WordPress's scheduler has started multiple instances of this resumption
+80789.751 (36) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1470735167.2, time_now=1470735167.2, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+80789.752 (36) Rescheduling resumption 37: moving to 781 seconds from now (1470735948)
+80789.755 (36) To decrease the likelihood of overlaps, increasing resumption interval to: 781 + 0 = 781
+83907.789 (37) Opened log file at time: Tue, 09 Aug 2016 10:24:45 +0000 on http://www.dime-casa.it
+83907.790 (37) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 27.7M | 28.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+83907.792 (37) Free space on disk containing Updraft's temporary directory: 23744.8 Mb
+83907.793 (37) It looks like WordPress's scheduler has started multiple instances of this resumption
+83907.798 (37) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1470738285.2, time_now=1470738285.3, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+83907.800 (37) Rescheduling resumption 38: moving to 781 seconds from now (1470739066)
+83907.803 (37) To decrease the likelihood of overlaps, increasing resumption interval to: 781 + 0 = 781
+85064.245 (38) Opened log file at time: Tue, 09 Aug 2016 10:44:01 +0000 on http://www.dime-casa.it
+85064.247 (38) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 27.7M | 28.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+85064.248 (38) Free space on disk containing Updraft's temporary directory: 23635.1 Mb
+85064.249 (38) It looks like WordPress's scheduler has started multiple instances of this resumption
+85064.252 (38) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1470739441.7, time_now=1470739441.7, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+85064.260 (38) Rescheduling resumption 39: moving to 781 seconds from now (1470740222)
+85064.276 (38) To decrease the likelihood of overlaps, increasing resumption interval to: 781 + 0 = 781
+86276.211 (39) Opened log file at time: Tue, 09 Aug 2016 11:04:13 +0000 on http://www.dime-casa.it
+86276.212 (39) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 27.7M | 28.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+86276.213 (39) Free space on disk containing Updraft's temporary directory: 23444.5 Mb
+86276.214 (39) It looks like WordPress's scheduler has started multiple instances of this resumption
+86276.218 (39) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1470740653.7, time_now=1470740653.7, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+86276.219 (39) Rescheduling resumption 40: moving to 781 seconds from now (1470741434)
+86276.221 (39) To decrease the likelihood of overlaps, increasing resumption interval to: 781 + 0 = 781
+87809.891 (40) Opened log file at time: Tue, 09 Aug 2016 11:29:47 +0000 on http://www.dime-casa.it
+87809.893 (40) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 27.7M | 28.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+87809.894 (40) Free space on disk containing Updraft's temporary directory: 23535.2 Mb
+87809.896 (40) It looks like WordPress's scheduler has started multiple instances of this resumption
+87809.900 (40) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1470742187.3, time_now=1470742187.4, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+87809.901 (40) Rescheduling resumption 41: moving to 781 seconds from now (1470742968)
+87809.905 (40) To decrease the likelihood of overlaps, increasing resumption interval to: 781 + 0 = 781
+88662.653 (41) Opened log file at time: Tue, 09 Aug 2016 11:44:00 +0000 on http://www.dime-casa.it
+88662.655 (41) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 24.5M | 25.3M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+88662.656 (41) Free space on disk containing Updraft's temporary directory: 23529.4 Mb
+88662.660 (41) Backup run: resumption=41, nonce=e31bffaad204, begun at=1470654377 (88663s ago), job type=backup, previous check-in=0s
+88662.664 (41) Scheduling a resumption (42) after 781 seconds (1470743821) in case this run gets aborted
+88662.673 (41) Creation of backups of directories: already finished
+88662.678 (41) Terminate: backup_2016-08-08-1306_dimensione_casa_a25ef723af22-uploads.zip exists with activity within the last 30 seconds (time_mod=1470743032, time_now=1470743040, diff=8, size=31222.7Kb). This likely means that another UpdraftPlus run is at work; so we will exit.
+88662.681 (41) Rescheduling resumption 42: moving to 901 seconds from now (1470743941)
+88662.686 (41) To decrease the likelihood of overlaps, increasing resumption interval to: 781 + 120 = 901
+90228.713 (42) Opened log file at time: Tue, 09 Aug 2016 12:10:06 +0000 on http://www.dime-casa.it
+90228.714 (42) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 27.7M | 28.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+90228.715 (42) Free space on disk containing Updraft's temporary directory: 23513.6 Mb
+90228.716 (42) It looks like WordPress's scheduler has started multiple instances of this resumption
+90228.720 (42) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1470744606.2, time_now=1470744606.2, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+90228.721 (42) Rescheduling resumption 43: moving to 781 seconds from now (1470745387)
+90228.723 (42) To decrease the likelihood of overlaps, increasing resumption interval to: 781 + 0 = 781
+93374.418 (43) Opened log file at time: Tue, 09 Aug 2016 13:02:31 +0000 on http://www.dime-casa.it
+93374.420 (43) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 27.7M | 28.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+93374.421 (43) Free space on disk containing Updraft's temporary directory: 23491.2 Mb
+93374.423 (43) It looks like WordPress's scheduler has started multiple instances of this resumption
+93374.427 (43) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1470747751.8, time_now=1470747751.9, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+93374.428 (43) Rescheduling resumption 44: moving to 781 seconds from now (1470748532)
+93374.431 (43) To decrease the likelihood of overlaps, increasing resumption interval to: 781 + 0 = 781
+94238.511 (44) Opened log file at time: Tue, 09 Aug 2016 13:16:55 +0000 on http://www.dime-casa.it
+94238.513 (44) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 27.7M | 28.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+94238.514 (44) Free space on disk containing Updraft's temporary directory: 23487.3 Mb
+94238.516 (44) It looks like WordPress's scheduler has started multiple instances of this resumption
+94238.536 (44) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1470748615.9, time_now=1470748616, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+94238.538 (44) Rescheduling resumption 45: moving to 781 seconds from now (1470749396)
+94238.540 (44) To decrease the likelihood of overlaps, increasing resumption interval to: 781 + 0 = 781
+95999.316 (45) Opened log file at time: Tue, 09 Aug 2016 13:46:16 +0000 on http://www.dime-casa.it
+95999.318 (45) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 27.7M | 28.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+95999.319 (45) Free space on disk containing Updraft's temporary directory: 23486.8 Mb
+95999.321 (45) It looks like WordPress's scheduler has started multiple instances of this resumption
+95999.324 (45) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1470750376.7, time_now=1470750376.8, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+95999.326 (45) Rescheduling resumption 46: moving to 781 seconds from now (1470751157)
+95999.328 (45) To decrease the likelihood of overlaps, increasing resumption interval to: 781 + 0 = 781
+97074.518 (46) Opened log file at time: Tue, 09 Aug 2016 14:04:11 +0000 on http://www.dime-casa.it
+97074.519 (46) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 27.7M | 28.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+97074.520 (46) Free space on disk containing Updraft's temporary directory: 20981.6 Mb
+97074.521 (46) It looks like WordPress's scheduler has started multiple instances of this resumption
+97074.525 (46) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1470751452, time_now=1470751452, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+97074.526 (46) Rescheduling resumption 47: moving to 781 seconds from now (1470752232)
+97074.528 (46) To decrease the likelihood of overlaps, increasing resumption interval to: 781 + 0 = 781
+101179.848 (47) Opened log file at time: Tue, 09 Aug 2016 15:12:37 +0000 on http://www.dime-casa.it
+101179.850 (47) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 27.7M | 29M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+101179.852 (47) Free space on disk containing Updraft's temporary directory: 20404.8 Mb
+101179.853 (47) It looks like WordPress's scheduler has started multiple instances of this resumption
+101179.857 (47) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1470755557.3, time_now=1470755557.3, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+101179.859 (47) Rescheduling resumption 48: moving to 781 seconds from now (1470756338)
+101179.864 (47) To decrease the likelihood of overlaps, increasing resumption interval to: 781 + 0 = 781
+101983.710 (48) Opened log file at time: Tue, 09 Aug 2016 15:26:01 +0000 on http://www.dime-casa.it
+101983.711 (48) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 24.5M | 25.3M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+101983.712 (48) Free space on disk containing Updraft's temporary directory: 20390.1 Mb
+101983.717 (48) Backup run: resumption=48, nonce=e31bffaad204, begun at=1470654377 (101984s ago), job type=backup, previous check-in=0s
+101983.724 (48) Scheduling a resumption (49) after 781 seconds (1470757142) in case this run gets aborted
+101983.736 (48) Creation of backups of directories: already finished
+101983.739 (48) Terminate: backup_2016-08-08-1306_dimensione_casa_a25ef723af22-themes.zip exists with activity within the last 30 seconds (time_mod=1470756333, time_now=1470756361, diff=28, size=19505.9Kb). This likely means that another UpdraftPlus run is at work; so we will exit.
+101983.742 (48) Rescheduling resumption 49: moving to 901 seconds from now (1470757262)
+101983.749 (48) To decrease the likelihood of overlaps, increasing resumption interval to: 781 + 120 = 901
+103862.745 (49) Opened log file at time: Tue, 09 Aug 2016 15:57:20 +0000 on http://www.dime-casa.it
+103862.747 (49) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 27.7M | 28.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+103862.748 (49) Free space on disk containing Updraft's temporary directory: 19839.3 Mb
+103862.749 (49) It looks like WordPress's scheduler has started multiple instances of this resumption
+103862.752 (49) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1470758240.2, time_now=1470758240.2, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+103862.753 (49) Rescheduling resumption 50: moving to 781 seconds from now (1470759021)
+103862.755 (49) To decrease the likelihood of overlaps, increasing resumption interval to: 781 + 0 = 781
+106661.906 (50) Opened log file at time: Tue, 09 Aug 2016 16:43:59 +0000 on http://www.dime-casa.it
+106661.908 (50) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 27.7M | 28.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+106661.909 (50) Free space on disk containing Updraft's temporary directory: 20374 Mb
+106661.910 (50) It looks like WordPress's scheduler has started multiple instances of this resumption
+106661.914 (50) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1470761039.2, time_now=1470761039.3, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+106661.915 (50) Rescheduling resumption 51: moving to 781 seconds from now (1470761820)
+106661.918 (50) To decrease the likelihood of overlaps, increasing resumption interval to: 781 + 0 = 781
+109300.187 (51) Opened log file at time: Tue, 09 Aug 2016 17:27:57 +0000 on http://www.dime-casa.it
+109300.188 (51) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 27.7M | 28.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+109300.189 (51) Free space on disk containing Updraft's temporary directory: 20393.5 Mb
+109300.191 (51) It looks like WordPress's scheduler has started multiple instances of this resumption
+109300.195 (51) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1470763677.6, time_now=1470763677.6, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+109300.196 (51) Rescheduling resumption 52: moving to 781 seconds from now (1470764458)
+109300.199 (51) To decrease the likelihood of overlaps, increasing resumption interval to: 781 + 0 = 781
+112004.306 (52) Opened log file at time: Tue, 09 Aug 2016 18:13:01 +0000 on http://www.dime-casa.it
+112004.307 (52) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 33.1M | 34.3M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+112004.309 (52) Free space on disk containing Updraft's temporary directory: 20365.1 Mb
+112004.310 (52) It looks like WordPress's scheduler has started multiple instances of this resumption
+112004.314 (52) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1470766381.8, time_now=1470766381.8, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+112004.316 (52) Rescheduling resumption 53: moving to 781 seconds from now (1470767162)
+112004.319 (52) To decrease the likelihood of overlaps, increasing resumption interval to: 781 + 0 = 781
+113531.594 (53) Opened log file at time: Tue, 09 Aug 2016 18:38:29 +0000 on http://www.dime-casa.it
+113531.595 (53) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 27.7M | 28.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+113531.597 (53) Free space on disk containing Updraft's temporary directory: 20365.7 Mb
+113531.598 (53) It looks like WordPress's scheduler has started multiple instances of this resumption
+113531.602 (53) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1470767909, time_now=1470767909, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+113531.603 (53) Rescheduling resumption 54: moving to 781 seconds from now (1470768690)
+113531.606 (53) To decrease the likelihood of overlaps, increasing resumption interval to: 781 + 0 = 781
+114487.797 (54) Opened log file at time: Tue, 09 Aug 2016 18:54:25 +0000 on http://www.dime-casa.it
+114487.798 (54) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 27.7M | 28.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+114487.800 (54) Free space on disk containing Updraft's temporary directory: 20366.2 Mb
+114487.801 (54) It looks like WordPress's scheduler has started multiple instances of this resumption
+114487.805 (54) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1470768865.2, time_now=1470768865.3, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+114487.806 (54) Rescheduling resumption 55: moving to 781 seconds from now (1470769646)
+114487.809 (54) To decrease the likelihood of overlaps, increasing resumption interval to: 781 + 0 = 781
+115762.785 (55) Opened log file at time: Tue, 09 Aug 2016 19:15:40 +0000 on http://www.dime-casa.it
+115762.787 (55) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 27.7M | 29M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+115762.788 (55) Free space on disk containing Updraft's temporary directory: 20365.4 Mb
+115762.789 (55) It looks like WordPress's scheduler has started multiple instances of this resumption
+115762.793 (55) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1470770140.2, time_now=1470770140.2, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+115762.794 (55) Rescheduling resumption 56: moving to 781 seconds from now (1470770921)
+115762.796 (55) To decrease the likelihood of overlaps, increasing resumption interval to: 781 + 0 = 781
+123471.531 (56) Opened log file at time: Tue, 09 Aug 2016 21:24:08 +0000 on http://www.dime-casa.it
+123471.532 (56) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 27.7M | 29M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+123471.533 (56) Free space on disk containing Updraft's temporary directory: 20318.3 Mb
+123471.534 (56) It looks like WordPress's scheduler has started multiple instances of this resumption
+123471.538 (56) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1470777848.9, time_now=1470777849, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+123471.539 (56) Rescheduling resumption 57: moving to 781 seconds from now (1470778629)
+123471.542 (56) To decrease the likelihood of overlaps, increasing resumption interval to: 781 + 0 = 781
+125514.649 (57) Opened log file at time: Tue, 09 Aug 2016 21:58:12 +0000 on http://www.dime-casa.it
+125514.651 (57) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 27.7M | 28.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+125514.652 (57) Free space on disk containing Updraft's temporary directory: 20318.2 Mb
+125514.654 (57) It looks like WordPress's scheduler has started multiple instances of this resumption
+125514.658 (57) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1470779892, time_now=1470779892.1, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+125514.659 (57) Rescheduling resumption 58: moving to 781 seconds from now (1470780673)
+125514.662 (57) To decrease the likelihood of overlaps, increasing resumption interval to: 781 + 0 = 781
+127583.480 (58) Opened log file at time: Tue, 09 Aug 2016 22:32:40 +0000 on http://www.dime-casa.it
+127583.481 (58) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 27.7M | 28.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+127583.488 (58) Free space on disk containing Updraft's temporary directory: 20548.2 Mb
+127583.490 (58) It looks like WordPress's scheduler has started multiple instances of this resumption
+127583.494 (58) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1470781960.9, time_now=1470781960.9, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+127583.495 (58) Rescheduling resumption 59: moving to 781 seconds from now (1470782741)
+127583.497 (58) To decrease the likelihood of overlaps, increasing resumption interval to: 781 + 0 = 781
+130131.769 (59) Opened log file at time: Tue, 09 Aug 2016 23:15:09 +0000 on http://www.dime-casa.it
+130131.770 (59) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 27.7M | 28.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+130131.772 (59) Free space on disk containing Updraft's temporary directory: 20519.4 Mb
+130131.773 (59) It looks like WordPress's scheduler has started multiple instances of this resumption
+130131.777 (59) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1470784509.2, time_now=1470784509.2, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+130131.778 (59) Rescheduling resumption 60: moving to 781 seconds from now (1470785290)
+130131.781 (59) To decrease the likelihood of overlaps, increasing resumption interval to: 781 + 0 = 781
+140100.562 (60) Opened log file at time: Wed, 10 Aug 2016 02:01:18 +0000 on http://www.dime-casa.it
+140100.564 (60) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 27.7M | 29M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+140100.566 (60) Free space on disk containing Updraft's temporary directory: 20513.1 Mb
+140100.567 (60) It looks like WordPress's scheduler has started multiple instances of this resumption
+140100.571 (60) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1470794477.8, time_now=1470794478, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+140100.573 (60) Rescheduling resumption 61: moving to 781 seconds from now (1470795259)
+140100.576 (60) To decrease the likelihood of overlaps, increasing resumption interval to: 781 + 0 = 781
+144802.314 (61) Opened log file at time: Wed, 10 Aug 2016 03:19:39 +0000 on http://www.dime-casa.it
+144802.316 (61) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 27.7M | 28.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+144802.317 (61) Free space on disk containing Updraft's temporary directory: 20516.3 Mb
+144802.318 (61) It looks like WordPress's scheduler has started multiple instances of this resumption
+144802.322 (61) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1470799179.8, time_now=1470799179.8, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+144802.324 (61) Rescheduling resumption 62: moving to 781 seconds from now (1470799960)
+144802.326 (61) To decrease the likelihood of overlaps, increasing resumption interval to: 781 + 0 = 781
+149022.971 (62) Opened log file at time: Wed, 10 Aug 2016 04:30:00 +0000 on http://www.dime-casa.it
+149022.973 (62) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 24.5M | 25.5M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+149022.974 (62) Free space on disk containing Updraft's temporary directory: 20492.4 Mb
+149022.978 (62) Backup run: resumption=62, nonce=e31bffaad204, begun at=1470654377 (149023s ago), job type=backup, previous check-in=0s
+149022.979 (62) Long time past since expected resumption time: approx expected=1470799790.1, now=1470803400.4, diff=3610.4
+149022.981 (62) [Warning] Il tuo sito web è visitato raramente e UpdraftPlus non sta ottenendo le risorse sperate, ti consigliamo di leggere questa pagina: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+149022.985 (62) Scheduling a resumption (63) after 781 seconds (1470804181) in case this run gets aborted
+149022.996 (62) Creation of backups of directories: already finished
+149023.008 (62) Terminate: backup_2016-08-08-1306_dimensione_casa_a25ef723af22-themes.zip exists with activity within the last 30 seconds (time_mod=1470803378, time_now=1470803400, diff=22, size=19505.9Kb). This likely means that another UpdraftPlus run is at work; so we will exit.
+149023.020 (62) Rescheduling resumption 63: moving to 901 seconds from now (1470804301)
+149023.025 (62) To decrease the likelihood of overlaps, increasing resumption interval to: 781 + 120 = 901
+151995.702 (63) Opened log file at time: Wed, 10 Aug 2016 05:19:33 +0000 on http://www.dime-casa.it
+151995.705 (63) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 27.7M | 29M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+151995.716 (63) Free space on disk containing Updraft's temporary directory: 20493.2 Mb
+151995.720 (63) It looks like WordPress's scheduler has started multiple instances of this resumption
+151995.724 (63) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1470806373.1, time_now=1470806373.2, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+151995.733 (63) Rescheduling resumption 64: moving to 781 seconds from now (1470807154)
+151995.736 (63) To decrease the likelihood of overlaps, increasing resumption interval to: 781 + 0 = 781
+153948.055 (64) Opened log file at time: Wed, 10 Aug 2016 05:52:05 +0000 on http://www.dime-casa.it
+153948.078 (64) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 27.7M | 28.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+153948.080 (64) Free space on disk containing Updraft's temporary directory: 20471 Mb
+153948.081 (64) It looks like WordPress's scheduler has started multiple instances of this resumption
+153948.311 (64) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1470808324.1, time_now=1470808325.5, diff=1, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+153948.512 (64) Rescheduling resumption 65: moving to 781 seconds from now (1470809106)
+153948.527 (64) To decrease the likelihood of overlaps, increasing resumption interval to: 781 + 0 = 781
+155998.108 (65) Opened log file at time: Wed, 10 Aug 2016 06:26:15 +0000 on http://www.dime-casa.it
+155998.110 (65) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 24.5M | 25.3M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+155998.111 (65) Free space on disk containing Updraft's temporary directory: 20455.3 Mb
+155998.115 (65) Backup run: resumption=65, nonce=e31bffaad204, begun at=1470654377 (155998s ago), job type=backup, previous check-in=0.3s
+155998.116 (65) Long time past since expected resumption time: approx expected=1470808954.2, now=1470810375.6, diff=1421.4
+155998.131 (65) [Warning] Il tuo sito web è visitato raramente e UpdraftPlus non sta ottenendo le risorse sperate, ti consigliamo di leggere questa pagina: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+155998.140 (65) Scheduling a resumption (66) after 781 seconds (1470811156) in case this run gets aborted
+155998.149 (65) Creation of backups of directories: already finished
+155998.154 (65) Terminate: backup_2016-08-08-1306_dimensione_casa_a25ef723af22-uploads.zip exists with activity within the last 30 seconds (time_mod=1470810375, time_now=1470810375, diff=0, size=31222.7Kb). This likely means that another UpdraftPlus run is at work; so we will exit.
+155998.157 (65) Rescheduling resumption 66: moving to 901 seconds from now (1470811276)
+155998.168 (65) To decrease the likelihood of overlaps, increasing resumption interval to: 781 + 120 = 901
+158096.382 (66) Opened log file at time: Wed, 10 Aug 2016 07:01:13 +0000 on http://www.dime-casa.it
+158096.384 (66) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 27.7M | 29M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+158096.385 (66) Free space on disk containing Updraft's temporary directory: 20416.2 Mb
+158096.387 (66) It looks like WordPress's scheduler has started multiple instances of this resumption
+158096.391 (66) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1470812473.8, time_now=1470812473.8, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+158096.393 (66) Rescheduling resumption 67: moving to 781 seconds from now (1470813254)
+158096.396 (66) To decrease the likelihood of overlaps, increasing resumption interval to: 781 + 0 = 781
+159113.139 (67) Opened log file at time: Wed, 10 Aug 2016 07:18:10 +0000 on http://www.dime-casa.it
+159113.141 (67) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 27.7M | 28.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+159113.142 (67) Free space on disk containing Updraft's temporary directory: 20395.4 Mb
+159113.143 (67) It looks like WordPress's scheduler has started multiple instances of this resumption
+159113.152 (67) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1470813490.5, time_now=1470813490.6, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+159113.162 (67) Rescheduling resumption 68: moving to 781 seconds from now (1470814271)
+159113.168 (67) To decrease the likelihood of overlaps, increasing resumption interval to: 781 + 0 = 781
+163285.267 (68) Opened log file at time: Wed, 10 Aug 2016 08:27:42 +0000 on http://www.dime-casa.it
+163285.268 (68) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 27.7M | 29M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+163285.270 (68) Free space on disk containing Updraft's temporary directory: 20374.4 Mb
+163285.274 (68) It looks like WordPress's scheduler has started multiple instances of this resumption
+163285.279 (68) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1470817662.7, time_now=1470817662.7, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+163285.281 (68) Rescheduling resumption 69: moving to 781 seconds from now (1470818443)
+163285.283 (68) To decrease the likelihood of overlaps, increasing resumption interval to: 781 + 0 = 781
+164210.184 (69) Opened log file at time: Wed, 10 Aug 2016 08:43:07 +0000 on http://www.dime-casa.it
+164210.185 (69) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 24.5M | 25.3M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+164210.187 (69) Free space on disk containing Updraft's temporary directory: 20345.3 Mb
+164210.193 (69) Backup run: resumption=69, nonce=e31bffaad204, begun at=1470654377 (164210s ago), job type=backup, previous check-in=0s
+164210.200 (69) Scheduling a resumption (70) after 781 seconds (1470819368) in case this run gets aborted
+164210.212 (69) Creation of backups of directories: already finished
+164210.220 (69) Terminate: backup_2016-08-08-1306_dimensione_casa_a25ef723af22-themes.zip exists with activity within the last 30 seconds (time_mod=1470818587, time_now=1470818587, diff=0, size=19505.9Kb). This likely means that another UpdraftPlus run is at work; so we will exit.
+164210.228 (69) Rescheduling resumption 70: moving to 901 seconds from now (1470819488)
+164210.234 (69) To decrease the likelihood of overlaps, increasing resumption interval to: 781 + 120 = 901
+169336.445 (70) Opened log file at time: Wed, 10 Aug 2016 10:08:33 +0000 on http://www.dime-casa.it
+169336.446 (70) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 27.7M | 28.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+169336.448 (70) Free space on disk containing Updraft's temporary directory: 20298 Mb
+169336.449 (70) It looks like WordPress's scheduler has started multiple instances of this resumption
+169336.452 (70) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1470823713.9, time_now=1470823713.9, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+169336.458 (70) Rescheduling resumption 71: moving to 781 seconds from now (1470824494)
+169336.469 (70) To decrease the likelihood of overlaps, increasing resumption interval to: 781 + 0 = 781
+170725.267 (71) Opened log file at time: Wed, 10 Aug 2016 10:31:42 +0000 on http://www.dime-casa.it
+170725.269 (71) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 24.5M | 25.3M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+170725.270 (71) Free space on disk containing Updraft's temporary directory: 20343.4 Mb
+170725.274 (71) Backup run: resumption=71, nonce=e31bffaad204, begun at=1470654377 (170725s ago), job type=backup, previous check-in=0s
+170725.275 (71) Long time past since expected resumption time: approx expected=1470824354.1, now=1470825102.7, diff=748.6
+170725.279 (71) [Warning] Il tuo sito web è visitato raramente e UpdraftPlus non sta ottenendo le risorse sperate, ti consigliamo di leggere questa pagina: https://updraftplus.com/faqs/why-am-i-getting-warnings-about-my-site-not-having-enough-visitors/
+170725.287 (71) Scheduling a resumption (72) after 781 seconds (1470825883) in case this run gets aborted
+170725.295 (71) Creation of backups of directories: already finished
+170725.304 (71) Terminate: backup_2016-08-08-1306_dimensione_casa_a25ef723af22-uploads.zip exists with activity within the last 30 seconds (time_mod=1470825102, time_now=1470825102, diff=0, size=31222.7Kb). This likely means that another UpdraftPlus run is at work; so we will exit.
+170725.306 (71) Rescheduling resumption 72: moving to 901 seconds from now (1470826003)
+170725.312 (71) To decrease the likelihood of overlaps, increasing resumption interval to: 781 + 120 = 901
+172943.873 (72) Opened log file at time: Wed, 10 Aug 2016 11:08:41 +0000 on http://www.dime-casa.it
+172943.874 (72) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 27.7M | 28.8M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+172943.876 (72) Free space on disk containing Updraft's temporary directory: 20333.6 Mb
+172943.880 (72) It looks like WordPress's scheduler has started multiple instances of this resumption
+172943.889 (72) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1470827321.3, time_now=1470827321.3, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+172943.892 (72) Rescheduling resumption 73: moving to 781 seconds from now (1470828102)
+172943.898 (72) To decrease the likelihood of overlaps, increasing resumption interval to: 781 + 0 = 781
+174192.289 (73) Opened log file at time: Wed, 10 Aug 2016 11:29:29 +0000 on http://www.dime-casa.it
+174192.291 (73) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.9 PHP: 5.4.45-0+deb7u2 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.68-1+deb7u4 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 24.5M | 25.3M) multisite: N mcrypt: Y LANG:  ZipArchive::addFile: Y
+174192.292 (73) Free space on disk containing Updraft's temporary directory: 20360.8 Mb
+174192.293 (73) This backup task is either complete or began over 2 days ago: ending (1470828569.6921, 1470654377)

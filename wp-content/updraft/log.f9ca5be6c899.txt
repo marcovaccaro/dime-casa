@@ -1,0 +1,19 @@
+1491.107 (1) Opened log file at time: Wed, 15 Jul 2015 10:49:58 +0000 on http://www.dime-casa.it
+1491.114 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.2 PHP: 5.4.4-14+deb7u10 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.57-3+deb7u1 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 27.6M | 38.5M) multisite: N mcrypt: N LANG:  ZipArchive::addFile: Y
+1491.125 (1) Free space on disk containing Updraft's temporary directory: 37449.3 Mb
+1491.138 (1) It looks like WordPress's scheduler has started multiple instances of this resumption
+1491.142 (1) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1436957398, time_now=1436957398.1, diff=0, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+1491.144 (1) Rescheduling resumption 2: moving to 300 seconds from now (1436957698)
+1491.148 (1) To decrease the likelihood of overlaps, increasing resumption interval to: 300 + 0 = 300
+1947.877 (2) Opened log file at time: Wed, 15 Jul 2015 10:57:34 +0000 on http://www.dime-casa.it
+1947.878 (2) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.2 PHP: 5.4.4-14+deb7u10 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.57-3+deb7u1 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 31M | 40M) multisite: N mcrypt: N LANG:  ZipArchive::addFile: Y
+1947.879 (2) Free space on disk containing Updraft's temporary directory: 37475.7 Mb
+1947.880 (2) It looks like WordPress's scheduler has started multiple instances of this resumption
+1947.885 (2) Terminate: check-in exists with activity within the last 30 seconds (time_mod=1436957852.6, time_now=1436957854.9, diff=2, size=n/a). This likely means that another UpdraftPlus run is at work; so we will exit.
+1947.888 (2) Rescheduling resumption 3: moving to 300 seconds from now (1436958154)
+1947.904 (2) To decrease the likelihood of overlaps, increasing resumption interval to: 300 + 0 = 300
+3608.836 (3) Opened log file at time: Wed, 15 Jul 2015 11:25:15 +0000 on http://www.dime-casa.it
+3608.838 (3) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.10.3 WP: 4.2.2 PHP: 5.4.4-14+deb7u10 (Linux w-14.th.seeweb.it 3.2.0-4-amd64 #1 SMP Debian 3.2.57-3+deb7u1 x86_64) MySQL: 5.1.63-0+squeeze1 Server: Apache safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 24.4M | 25.3M) multisite: N mcrypt: N LANG:  ZipArchive::addFile: Y
+3608.839 (3) Free space on disk containing Updraft's temporary directory: 37407.4 Mb
+3608.874 (3) Backup run: resumption=3, nonce=f9ca5be6c899, begun at=1436955906 (3609s ago), job type=backup, previous check-in=0s
+3608.875 (3) Terminate: This backup job is already finished (1).

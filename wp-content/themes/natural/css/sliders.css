@@ -1,0 +1,305 @@
+/* Elastic Image Slideshow */
+.ei-slider{
+	position: relative;
+	width: 100%;
+	max-width: 1920px;
+	height: 400px;
+	margin: 0 auto 40px;
+}
+.ei-slider-loading{
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	z-index:999;
+	background: transparent url(../images/loading.gif) no-repeat 50% 50%;
+	color: #fff;
+	text-align: center;
+	line-height: 400px;
+}
+.ei-slider-large{
+	height: 100%;
+	width: 100%;
+	position:relative;
+	overflow: hidden;
+	margin: 0 auto;
+}
+#wrapper ul.ei-slider-large{
+	margin: 0 auto;
+}
+.ei-slider-large li{
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	overflow: hidden;
+	height: 100%;
+	width: 100%;
+	list-style: none !important;
+}
+.ei-slider-large li img{
+	width: 100%;
+	max-width: none;
+	display: none;
+}
+.ei-title{
+	position: absolute;
+	margin-right: 13%;
+	margin-left: 30px;
+	top: 20%;
+	right: 50%;
+}
+.ei-title h2{
+	color: #fff;
+	margin-bottom: 0 !important;
+	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+}
+.ei-title h3{
+	color: #fff;
+	text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+}
+.ei-title h2,
+.ei-title h3 {
+	text-align: right;
+}
+#wrapper ul.ei-slider-thumbs{
+	height: 10px;
+	margin: 0 auto;
+	position: relative;
+}
+.ei-slider-thumbs li{
+	position: relative;
+	float: left;
+	height: 100%;
+	list-style: none !important;
+	-webkit-box-shadow: 0px 1px 0px 1px #fff;
+	-moz-box-shadow: 0px 1px 0px 1px #fff;
+	box-shadow: 0px 1px 0px 1px #fff;
+}
+.ei-slider-thumbs li.ei-slider-element{
+	top: 0px;
+	left: 0px;
+	position: absolute;
+	height: 100%;
+	z-index: 10;
+	text-indent: -9000px;
+	background: #000;
+	background: rgba(0,0,0,0.9);
+}
+.ei-slider-thumbs li a{
+	display: block;
+	text-indent: -9000px;
+	background: #666 ;
+	width: 100%;
+	height: 100%;
+	cursor: pointer;
+	-webkit-transition: background 0.2s ease;
+    -moz-transition: background 0.2s ease;
+    -o-transition: background 0.2s ease;
+    -ms-transition: background 0.2s ease;
+    transition: background 0.2s ease;
+}
+.ei-slider-thumbs li a:hover{
+	background-color: #f0f0f0;
+}
+.ei-slider-thumbs li img{
+	position: absolute;
+	bottom: 50px;
+	opacity: 0;
+	z-index: 999;
+	width: 100%;
+	-webkit-transition: all 0.4s ease;
+    -moz-transition: all 0.4s ease;
+    -o-transition: all 0.4s ease;
+    -ms-transition: all 0.4s ease;
+    transition: all 0.4s ease;
+	-webkit-box-reflect: 
+        below 0px -webkit-gradient(
+            linear, 
+            left top, 
+            left bottom, 
+            from(transparent), 
+            color-stop(50%, transparent), 
+            to(rgba(255,255,255,0.3))
+            );
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	-webkit-backface-visibility: hidden;
+}
+.ei-slider-thumbs li:hover img{
+	opacity: 1;
+	bottom: 10px;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	-webkit-backface-visibility: hidden;
+}
+
+/*
+ * jQuery FlexSlider v1.8
+ * http://www.woothemes.com/flexslider/
+ *
+ * Copyright 2012 WooThemes
+ * Free to use under the MIT license.
+ * http://www.opensource.org/licenses/mit-license.php
+ */
+
+/* Browser Resets */
+.flex-container a:active,
+.flexslider a:active,
+.flex-container a:focus,
+.flexslider a:focus  {outline: none;}
+.slides,
+.flex-control-nav,
+.flex-direction-nav {margin: 0; padding: 0; list-style: none;}
+
+/* FlexSlider Necessary Styles
+*********************************/
+.flexslider {margin: 0 0 40px; padding: 0;}
+.flexslider .slides > li {display: none;} /* Hide the slides before the JS is loaded. Avoids image jumping */
+.flexslider .slides img {max-width: 100%; display: block;}
+.flex-pauseplay span {text-transform: capitalize;}
+
+/* Clearfix for the .slides element */
+.slides:after {content: "."; display: block; clear: both; visibility: hidden; line-height: 0; height: 0;}
+html[xmlns] .slides {display: block;}
+* html .slides {height: 1%;}
+
+/* No JavaScript Fallback */
+/* If you are not using another script, such as Modernizr, make sure you
+ * include js that eliminates this class on page load */
+.no-js .slides > li:first-child {display: block;}
+
+/* FlexSlider Default Theme
+*********************************/
+.flexslider {background: url("../images/loading.gif") no-repeat scroll center center #fff; position: relative; zoom: 1;}
+.flexslider .slides {zoom: 1;}
+.flexslider .slides > li {position: relative; overflow: hidden;}
+/* Suggested container for "Slide" animation setups. Can replace this with your own, if you wish */
+.flex-container {zoom: 1; position: relative;}
+
+/* Caption style */
+/* IE rgba() hack */
+.flex-caption {width: 92.2%; padding: 20px 4%; margin: 0; position: absolute; left: 0; bottom: 0; text-shadow: 0 -1px 0 rgba(0,0,0,.3);}
+
+/* Direction Nav */
+.flex-direction-nav { height: 0; }
+.flex-direction-nav li a {width: 40px; height: 40px; margin: -20px 0 0; display: block; background-image: url(../images/flexslider/bg_direction_nav.png); background-repeat: no-repeat; position: absolute; top: 50%; cursor: pointer; text-indent: -999em;}
+.flex-direction-nav li .next {background-position: -40px 0; right: 0;}
+.flex-direction-nav li .prev {left: 0;}
+.flex-direction-nav li .disabled {opacity: .3; filter:alpha(opacity=30); cursor: default;}
+
+/* Control Nav */
+.flex-control-nav {width: 100%; position: absolute; bottom: -30px; text-align: center;}
+.flex-control-nav li {display: inline-block; zoom: 1; *display: inline;}
+
+#wrapper .flexslider ul li {list-style: none;}
+#wrapper .flexslider ul {margin-bottom: 0;}
+
+/*! http://responsiveslides.com v1.32 by @viljamis */
+.responsiveslides {
+	margin-bottom: 40px;
+}
+#wrapper ul.rslides {
+  position: relative;
+  list-style: none;
+  overflow: hidden;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.rslides li {
+  position: absolute;
+  display: none;
+  width: 100%;
+  left: 0;
+  top: 0;
+  list-style: none !important;
+}
+
+.rslides li:first-child {
+  position: relative;
+  display: block;
+  float: left;
+}
+
+.rslides img {
+  display: block;
+  height: auto;
+  float: left;
+  width: 100%;
+  border: 0;
+}
+
+.rscaption {
+  display: block;
+  position: absolute;
+  z-index: 2;
+  text-shadow: none;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  padding: 10px 20px;
+  margin: 0;
+  max-width: none;
+}
+#wide_header_wrapper .rscaption {
+	padding: 15px 30px;
+}
+
+.rslides_nav {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  z-index: 3;
+  text-indent: -9999px;
+  overflow: hidden;
+  text-decoration: none;
+  height: 40px;
+  width: 40px;
+  background-image: url("../images/bg_direction_nav.png");
+  background-repeat: no-repeat;
+  margin-top: -20px;
+}
+
+.rslides_nav.next {
+  left: auto;
+  background-position: right top;
+  right: 0;
+}
+#wide_header_wrapper .rslides_nav {
+	top: 0;
+	margin-top: 0;
+	left: auto;
+}
+#wide_header_wrapper .rslides_nav.prev {
+	right: 41px;
+}
+
+#wrapper ul.rslides_tabs {
+  margin: 0;
+  text-align: center;
+  height: 10px;
+  position: absolute;
+  bottom: -25px;
+  right: 0;
+}
+
+.rslides_tabs li {
+  display: inline;
+  float: left;
+  margin-left: 5px;
+}
+
+.rslides_tabs a {
+  text-indent: -9999px;
+  overflow: hidden;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  border-radius: 15px;
+  display: block;
+  width: 10px;
+  height: 10px;
+}
+  
+#wrapper .rslides ul li {
+  list-style: none;
+}

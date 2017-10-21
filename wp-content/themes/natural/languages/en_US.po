@@ -1,0 +1,1074 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:19
+#@ natural
+msgid "Page not Found"
+msgstr ""
+
+#: 404.php:23
+#: search.php:35
+#@ natural
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr ""
+
+#: 404.php:26
+#: header.php:51
+#@ natural
+msgid "Search..."
+msgstr ""
+
+#: 404.php:27
+#: inc/tools.php:135
+#: main-intro-box.php:13
+#: main-intro-box.php:17
+#@ natural
+msgid "Search"
+msgstr ""
+
+#: 404.php:32
+#, php-format
+#@ natural
+msgid "Go to the <a href=\"%1$s\">homepage</a>"
+msgstr ""
+
+#: blog-intro-box.php:29
+#: index.php:31
+#, php-format
+#@ natural
+msgid "Daily Archives: <span>%s</span>"
+msgstr ""
+
+#: blog-intro-box.php:31
+#: index.php:33
+#, php-format
+#@ natural
+msgid "Monthly Archives: <span>%s</span>"
+msgstr ""
+
+#: blog-intro-box.php:33
+#: index.php:35
+#, php-format
+#@ natural
+msgid "Yearly Archives: <span>%s</span>"
+msgstr ""
+
+#: comments.php:9
+#@ natural
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:18
+#, php-format
+#@ natural
+msgid "One Response to %2$s"
+msgid_plural "%1$s Responses to %2$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:24
+#: comments.php:37
+#@ natural
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#: comments.php:25
+#: comments.php:38
+#@ natural
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: comments.php:45
+#@ natural
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:52
+#@ natural
+msgid "Name"
+msgstr ""
+
+#: comments.php:54
+#@ natural
+msgid "Email"
+msgstr ""
+
+#: comments.php:56
+#@ natural
+msgid "Website"
+msgstr ""
+
+#: comments.php:60
+#@ natural
+msgid "Your email address will not be published."
+msgstr ""
+
+#: functions.php:91
+#@ natural
+msgid "Header Menu"
+msgstr ""
+
+#: functions.php:92
+#@ natural
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:283
+#@ natural
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:287
+#, php-format
+#@ natural
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions.php:287
+#: functions.php:302
+#@ natural
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:302
+#@ natural
+msgid "Pingback:"
+msgstr ""
+
+#: inc/custom-post-types.php:5
+#: inc/custom-post-types.php:6
+#: inc/custom-post-types.php:7
+#@ natural
+msgid "Slideshows"
+msgstr ""
+
+#: inc/custom-post-types.php:8
+#@ natural
+msgid "Edit Slideshow"
+msgstr ""
+
+#: inc/custom-post-types.php:9
+#@ natural
+msgid "Update Slideshow"
+msgstr ""
+
+#: inc/custom-post-types.php:10
+#@ natural
+msgid "Add New Slideshow"
+msgstr ""
+
+#: inc/custom-post-types.php:11
+#@ natural
+msgid "New Slideshow Name"
+msgstr ""
+
+#: inc/custom-post-types.php:12
+#@ natural
+msgid "Search Slideshows"
+msgstr ""
+
+#: inc/custom-post-types.php:13
+#@ natural
+msgid "Parent Slideshow"
+msgstr ""
+
+#: inc/custom-post-types.php:28
+#@ natural
+msgid "Slides"
+msgstr ""
+
+#: inc/custom-post-types.php:29
+#@ natural
+msgid "Slide"
+msgstr ""
+
+#: inc/custom-post-types.php:30
+#@ natural
+msgid "Add New Slide"
+msgstr ""
+
+#: inc/custom-post-types.php:31
+#@ natural
+msgid "Edit Slide"
+msgstr ""
+
+#: inc/custom-post-types.php:32
+#@ natural
+msgid "New Slide"
+msgstr ""
+
+#: inc/custom-post-types.php:33
+#@ natural
+msgid "View Slide"
+msgstr ""
+
+#: inc/custom-post-types.php:34
+#@ natural
+msgid "Search Slides"
+msgstr ""
+
+#: inc/custom-post-types.php:35
+#@ natural
+msgid "No slides found"
+msgstr ""
+
+#: inc/custom-post-types.php:73
+#: inc/custom-post-types.php:74
+#@ natural
+msgid "Portfolio"
+msgstr ""
+
+#: inc/custom-post-types.php:75
+#@ natural
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: inc/custom-post-types.php:76
+#@ natural
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: inc/custom-post-types.php:77
+#@ natural
+msgid "New Portfolio Item"
+msgstr ""
+
+#: inc/custom-post-types.php:78
+#@ natural
+msgid "View Portfolio Item"
+msgstr ""
+
+#: inc/custom-post-types.php:79
+#@ natural
+msgid "Search Portfolio"
+msgstr ""
+
+#: inc/custom-post-types.php:80
+#@ natural
+msgid "No portfolio items found"
+msgstr ""
+
+#: inc/custom-post-types.php:117
+#@ natural
+msgid "Portfolio Categories"
+msgstr ""
+
+#: inc/custom-post-types.php:122
+#@ natural
+msgid "Portfolio Tags"
+msgstr ""
+
+#: inc/custom-post-types.php:178
+#@ natural
+msgid "Slideshow"
+msgstr ""
+
+#: inc/custom-post-types.php:195
+#: inc/meta-wide-header-options.php:33
+#@ natural
+msgid "None"
+msgstr ""
+
+#: inc/custom-post-types.php:202
+#@ natural
+msgid "Category"
+msgstr ""
+
+#: inc/custom-post-types.php:203
+#: inc/widgets.php:602
+#: sidebar-blog.php:15
+#@ natural
+msgid "Tags"
+msgstr ""
+
+#: inc/custom-post-types.php:208
+#: inc/custom-post-types.php:217
+#@ natural
+msgid "Likes"
+msgstr ""
+
+#: inc/custom-sidebars.php:50
+#: inc/custom-sidebars.php:57
+#@ natural
+msgid "Manage Sidebars"
+msgstr ""
+
+#: inc/custom-sidebars.php:50
+#@ natural
+msgid "Sidebars"
+msgstr ""
+
+#: inc/custom-sidebars.php:67
+#@ natural
+msgid "New sidebar added."
+msgstr ""
+
+#: inc/custom-sidebars.php:83
+#@ natural
+msgid "Sidebar removed."
+msgstr ""
+
+#: inc/custom-sidebars.php:88
+#: inc/custom-sidebars.php:89
+#@ natural
+msgid "Sidebar Name"
+msgstr ""
+
+#: inc/custom-sidebars.php:88
+#: inc/custom-sidebars.php:89
+#@ natural
+msgid "Action"
+msgstr ""
+
+#: inc/custom-sidebars.php:95
+#@ natural
+msgid "The default sidebar can't be removed"
+msgstr ""
+
+#: inc/custom-sidebars.php:99
+#@ natural
+msgid "Add new sidebar"
+msgstr ""
+
+#: inc/custom-sidebars.php:122
+#: inc/custom-sidebars.php:125
+#: inc/meta-boxes.php:34
+#@ natural
+msgid "Sidebar"
+msgstr ""
+
+#: inc/custom-sidebars.php:135
+#: inc/custom-sidebars.php:138
+#@ natural
+msgid "Select a custom sidebar for this category or pick \"default\" for default blog sidebar."
+msgstr ""
+
+#: inc/meta-boxes.php:9
+#@ natural
+msgid "Slide options"
+msgstr ""
+
+#: inc/meta-boxes.php:14
+#@ natural
+msgid "Target URL (optional)"
+msgstr ""
+
+#: inc/meta-boxes.php:28
+#@ natural
+msgid "Custom Sidebar"
+msgstr ""
+
+#: inc/meta-boxes.php:49
+#@ natural
+msgid "Slide Image"
+msgstr ""
+
+#: inc/shortcode-manager-view.php:15
+#@ default
+msgid "You are not allowed to be here"
+msgstr ""
+
+#: inc/shortcodes.php:1195
+#: inc/shortcodes.php:1495
+#: inc/shortcodes.php:1777
+#: inc/widgets.php:343
+#@ natural
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/shortcodes.php:1243
+#: inc/widgets.php:481
+#@ natural
+msgid "Popular Posts"
+msgstr ""
+
+#: inc/shortcodes.php:1309
+#@ natural
+msgid "Last Tweets"
+msgstr ""
+
+#: inc/shortcodes.php:1443
+#: inc/shortcodes.php:1713
+#@ natural
+msgid "Recent Works"
+msgstr ""
+
+#: inc/shortcodes.php:1443
+#: inc/shortcodes.php:1495
+#: inc/shortcodes.php:1713
+#: inc/shortcodes.php:1777
+#@ natural
+msgid "view all"
+msgstr ""
+
+#: inc/shortcodes.php:1469
+#: inc/shortcodes.php:1521
+#: inc/shortcodes.php:1757
+#: inc/shortcodes.php:1822
+#@ natural
+msgid "More details"
+msgstr ""
+
+#: inc/shortcodes.php:1470
+#: inc/shortcodes.php:1758
+#: meta-portfolio.php:7
+#@ natural
+msgid "Preview"
+msgstr ""
+
+#: inc/shortcodes.php:1524
+#: inc/shortcodes.php:1825
+#@ natural
+msgid "No comments"
+msgstr ""
+
+#: inc/shortcodes.php:1526
+#: inc/shortcodes.php:1827
+#@ natural
+msgid "1 comment"
+msgstr ""
+
+#: inc/shortcodes.php:1528
+#: inc/shortcodes.php:1829
+#, php-format
+#@ default
+msgid "%d comments"
+msgstr ""
+
+#: inc/shortcodes.php:1552
+#: inc/shortcodes.php:1588
+#@ natural
+msgid "Read more"
+msgstr ""
+
+#: inc/shortcodes.php:1631
+#@ natural
+msgid " on:"
+msgstr ""
+
+#: inc/tools.php:114
+#@ natural
+msgid "Home"
+msgstr ""
+
+#: inc/tools.php:137
+#: main-intro-box.php:11
+#: portfolio-1column-sidebar.php:54
+#: portfolio-2columns-fullwidth.php:51
+#: portfolio-2columns-sidebar.php:57
+#: portfolio-3columns-fullwidth.php:50
+#: portfolio-3columns-sortable.php:68
+#: portfolio-4columns-fullwidth.php:50
+#: portfolio-4columns-sortable.php:68
+#: search.php:34
+#@ natural
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/tools.php:164
+#@ natural
+msgid "Archive"
+msgstr ""
+
+#: inc/tools.php:445
+#@ natural
+msgid "1 person likes it"
+msgstr ""
+
+#: inc/tools.php:447
+#, php-format
+#@ natural
+msgid "%d people like it"
+msgstr ""
+
+#: inc/widgets.php:6
+#@ natural
+msgid "A list of last tweets"
+msgstr ""
+
+#: inc/widgets.php:13
+#@ natural
+msgid "Twitter"
+msgstr ""
+
+#: inc/widgets.php:48
+#@ natural
+msgid "Follow me on Twitter"
+msgstr ""
+
+#: inc/widgets.php:79
+#: inc/widgets.php:151
+#: inc/widgets.php:201
+#: inc/widgets.php:297
+#: inc/widgets.php:433
+#: inc/widgets.php:570
+#: inc/widgets.php:636
+#: inc/widgets.php:703
+#: inc/widgets.php:774
+#: inc/widgets.php:896
+#@ natural
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets.php:82
+#@ natural
+msgid "Twitter username:"
+msgstr ""
+
+#: inc/widgets.php:85
+#@ natural
+msgid "Number of tweets to show:"
+msgstr ""
+
+#: inc/widgets.php:89
+#@ natural
+msgid "Show status time"
+msgstr ""
+
+#: inc/widgets.php:92
+#@ natural
+msgid "Make usernames clickable"
+msgstr ""
+
+#: inc/widgets.php:95
+#@ natural
+msgid "Make URLs clickable"
+msgstr ""
+
+#: inc/widgets.php:98
+#@ natural
+msgid "Add \"Follow Me\" Message"
+msgstr ""
+
+#: inc/widgets.php:111
+#@ natural
+msgid "A list of portfolio tags"
+msgstr ""
+
+#: inc/widgets.php:162
+#@ natural
+msgid "A list of portfolio categories"
+msgstr ""
+
+#: inc/widgets.php:205
+#@ natural
+msgid "Hierarchical"
+msgstr ""
+
+#: inc/widgets.php:215
+#@ natural
+msgid "A subpages navigation"
+msgstr ""
+
+#: inc/widgets.php:239
+#: inc/widgets.php:246
+#@ natural
+msgid "Flickr Photos"
+msgstr ""
+
+#: inc/widgets.php:300
+#@ natural
+msgid "Flickr user ID:"
+msgstr ""
+
+#: inc/widgets.php:303
+#@ natural
+msgid "Number of photos to show:"
+msgstr ""
+
+#: inc/widgets.php:307
+#@ natural
+msgid "Enable PrettyPhoto"
+msgstr ""
+
+#: inc/widgets.php:310
+#@ natural
+msgid "Show random photos"
+msgstr ""
+
+#: inc/widgets.php:320
+#@ natural
+msgid "The most recent posts on your site"
+msgstr ""
+
+#: inc/widgets.php:435
+#: inc/widgets.php:572
+#@ natural
+msgid "Categories slugs<br />(comma separated, empty for all):"
+msgstr ""
+
+#: inc/widgets.php:437
+#: inc/widgets.php:574
+#: inc/widgets.php:898
+#@ natural
+msgid "Number of posts to show:"
+msgstr ""
+
+#: inc/widgets.php:458
+#@ natural
+msgid "The most popular posts on your site"
+msgstr ""
+
+#: inc/widgets.php:595
+#@ natural
+msgid "A list of blog post tags"
+msgstr ""
+
+#: inc/widgets.php:647
+#@ natural
+msgid "Recent portfolio items"
+msgstr ""
+
+#: inc/widgets.php:654
+#@ natural
+msgid "Recent Portfolio Items"
+msgstr ""
+
+#: inc/widgets.php:706
+#: inc/widgets.php:777
+#@ natural
+msgid "Number of items to show:"
+msgstr ""
+
+#: inc/widgets.php:717
+#@ natural
+msgid "Most liked portfolio items"
+msgstr ""
+
+#: inc/widgets.php:724
+#@ natural
+msgid "Most Liked Portfolio Items"
+msgstr ""
+
+#: inc/widgets.php:788
+#@ natural
+msgid "Most liked posts on your site"
+msgstr ""
+
+#: inc/widgets.php:811
+#@ natural
+msgid "Most Liked Posts"
+msgstr ""
+
+#: index.php:37
+#, php-format
+#@ natural
+msgid "Tag Archives: <span>%s</span>"
+msgstr ""
+
+#: index.php:132
+#@ natural
+msgid "Edit"
+msgstr ""
+
+#: index.php:168
+#@ natural
+msgid "About the Author"
+msgstr ""
+
+#: index.php:172
+#@ natural
+msgid "Written by"
+msgstr ""
+
+#: lib/meta-box.php:108
+#: lib/meta-box.php:349
+#@ default
+msgid "Delete this image"
+msgstr ""
+
+#: lib/meta-box.php:108
+#: lib/meta-box.php:306
+#: lib/meta-box.php:349
+#@ default
+msgid "Delete"
+msgstr ""
+
+#: lib/meta-box.php:302
+#@ default
+msgid "Uploaded files"
+msgstr ""
+
+#: lib/meta-box.php:312
+#@ default
+msgid "Upload new files"
+msgstr ""
+
+#: lib/meta-box.php:315
+#@ default
+msgid "Add more file"
+msgstr ""
+
+#: lib/meta-box.php:356
+#@ default
+msgid "Add more images"
+msgstr ""
+
+#: lib/meta-box.php:363
+#@ default
+msgid "Select a color"
+msgstr ""
+
+#: navigation-portfolio.php:7
+#: navigation.php:6
+#@ natural
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: navigation-portfolio.php:8
+#: navigation.php:7
+#@ natural
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: meta-portfolio.php:6
+#@ natural
+msgid "More Details"
+msgstr ""
+
+#: portfolio-3columns-sortable.php:18
+#: portfolio-4columns-sortable.php:18
+#@ natural
+msgid "All"
+msgstr ""
+
+#: search.php:20
+#, php-format
+#@ natural
+msgid "Search Results for: %s"
+msgstr ""
+
+#: sidebar-blog.php:9
+#@ natural
+msgid "Categories"
+msgstr ""
+
+#: functions.php:291
+#@ default
+msgid "Reply"
+msgstr ""
+
+#: inc/custom-post-types.php:55
+#@ default
+msgid "Set featured image"
+msgstr ""
+
+#: inc/custom-post-types.php:55
+#@ natural
+msgid "Set slide image"
+msgstr ""
+
+#: inc/custom-post-types.php:56
+#@ default
+msgid "Remove featured image"
+msgstr ""
+
+#: inc/custom-post-types.php:56
+#@ natural
+msgid "Remove slide image"
+msgstr ""
+
+#: inc/meta-blog-thumbnail-options.php:31
+#@ natural
+msgid "Show also on a single post page"
+msgstr ""
+
+#: inc/meta-blog-thumbnail-options.php:33
+#: inc/meta-blog-thumbnail-options.php:53
+#@ natural
+msgid "-- default --"
+msgstr ""
+
+#: inc/meta-blog-thumbnail-options.php:34
+#@ natural
+msgid "show"
+msgstr ""
+
+#: inc/meta-blog-thumbnail-options.php:35
+#@ natural
+msgid "hide"
+msgstr ""
+
+#: inc/meta-blog-thumbnail-options.php:38
+#@ natural
+msgid "Thumbnail Type"
+msgstr ""
+
+#: inc/meta-blog-thumbnail-options.php:41
+#: inc/meta-portfolio-preview-options.php:17
+#@ natural
+msgid "Featured Image"
+msgstr ""
+
+#: inc/meta-blog-thumbnail-options.php:42
+#@ natural
+msgid "YouTube Video"
+msgstr ""
+
+#: inc/meta-blog-thumbnail-options.php:43
+#@ natural
+msgid "Vimeo Video"
+msgstr ""
+
+#: inc/meta-blog-thumbnail-options.php:44
+#: inc/meta-wide-header-options.php:35
+#@ natural
+msgid "Slider (displays images attached to the post)"
+msgstr ""
+
+#: inc/meta-blog-thumbnail-options.php:46
+#@ natural
+msgid "YouTube Video URL"
+msgstr ""
+
+#: inc/meta-blog-thumbnail-options.php:48
+#@ natural
+msgid "Vimeo Video URL"
+msgstr ""
+
+#: inc/meta-blog-thumbnail-options.php:51
+#@ natural
+msgid "PrettyPhoto (Lighbox)"
+msgstr ""
+
+#: inc/meta-blog-thumbnail-options.php:54
+#@ natural
+msgid "enabled"
+msgstr ""
+
+#: inc/meta-blog-thumbnail-options.php:55
+#@ natural
+msgid "disabled"
+msgstr ""
+
+#: inc/meta-blog-thumbnail-options.php:60
+#: inc/meta-wide-header-options.php:58
+#@ natural
+msgid "Show titles"
+msgstr ""
+
+#: inc/meta-blog-thumbnail-options.php:62
+#: inc/meta-wide-header-options.php:60
+#@ natural
+msgid "Open images in Lightbox"
+msgstr ""
+
+#: inc/meta-blog-thumbnail-options.php:64
+#: inc/meta-wide-header-options.php:62
+#@ natural
+msgid "Autoplay"
+msgstr ""
+
+#: inc/meta-blog-thumbnail-options.php:66
+#: inc/meta-wide-header-options.php:64
+#@ natural
+msgid "Show prev & next arrows"
+msgstr ""
+
+#: inc/meta-blog-thumbnail-options.php:68
+#: inc/meta-wide-header-options.php:66
+#@ natural
+msgid "Excluded images IDs (coma separated)"
+msgstr ""
+
+#: inc/meta-blog-thumbnail-options.php:70
+#: inc/meta-wide-header-options.php:68
+#@ natural
+msgid "Save"
+msgstr ""
+
+#: inc/meta-boxes.php:60
+#@ natural
+msgid "Portfolio Preview Options"
+msgstr ""
+
+#: inc/meta-boxes.php:69
+#@ natural
+msgid "Blog Thumbnail Options"
+msgstr ""
+
+#: inc/meta-boxes.php:78
+#@ natural
+msgid "Header Options"
+msgstr ""
+
+#: inc/meta-portfolio-preview-options.php:14
+#@ natural
+msgid "Preview Type"
+msgstr ""
+
+#: inc/meta-portfolio-preview-options.php:18
+#@ natural
+msgid "Video"
+msgstr ""
+
+#: inc/meta-portfolio-preview-options.php:20
+#@ natural
+msgid "Video URL (YouTube or Vimeo)"
+msgstr ""
+
+#: inc/meta-wide-header-options.php:30
+#@ natural
+msgid "Wide Header Content"
+msgstr ""
+
+#: inc/meta-wide-header-options.php:34
+#@ natural
+msgid "Image"
+msgstr ""
+
+#: inc/meta-wide-header-options.php:36
+#@ natural
+msgid "Google Maps map"
+msgstr ""
+
+#: inc/meta-wide-header-options.php:38
+#@ natural
+msgid "Header images size (optional)"
+msgstr ""
+
+#: inc/meta-wide-header-options.php:42
+#@ natural
+msgid "(in pixels)"
+msgstr ""
+
+#: inc/meta-wide-header-options.php:47
+#@ natural
+msgid "Pick a header image"
+msgstr ""
+
+#: inc/meta-wide-header-options.php:51
+#@ natural
+msgid "Google Maps URL"
+msgstr ""
+
+#: inc/meta-wide-header-options.php:52
+#@ natural
+msgid "Map height (optional)"
+msgstr ""
+
+#: inc/sliders.php:123
+#: inc/sliders.php:376
+#@ natural
+msgid "Previous"
+msgstr ""
+
+#: inc/sliders.php:123
+#: inc/sliders.php:376
+#@ natural
+msgid "Next"
+msgstr ""
+
+#: inc/widgets.php:7
+#@ natural
+msgid "Natural Twitter"
+msgstr ""
+
+#: inc/widgets.php:101
+#@ natural
+msgid "Hide Replies"
+msgstr ""
+
+#: inc/widgets.php:112
+#@ natural
+msgid "Natural Portfolio Tags"
+msgstr ""
+
+#: inc/widgets.php:163
+#@ natural
+msgid "Natural Portfolio Categories"
+msgstr ""
+
+#: inc/widgets.php:216
+#@ natural
+msgid "Natural Subpages"
+msgstr ""
+
+#: inc/widgets.php:240
+#@ natural
+msgid "Natural Flickr"
+msgstr ""
+
+#: inc/widgets.php:321
+#@ natural
+msgid "Natural Recent Posts"
+msgstr ""
+
+#: inc/widgets.php:440
+#: inc/widgets.php:577
+#: inc/widgets.php:901
+#@ natural
+msgid "Show categories"
+msgstr ""
+
+#: inc/widgets.php:442
+#: inc/widgets.php:579
+#: inc/widgets.php:903
+#@ natural
+msgid "Thumbnail:"
+msgstr ""
+
+#: inc/widgets.php:444
+#: inc/widgets.php:581
+#: inc/widgets.php:905
+#@ natural
+msgid "none"
+msgstr ""
+
+#: inc/widgets.php:445
+#: inc/widgets.php:582
+#: inc/widgets.php:906
+#@ natural
+msgid "featured image"
+msgstr ""
+
+#: inc/widgets.php:446
+#: inc/widgets.php:583
+#: inc/widgets.php:907
+#@ natural
+msgid "post date"
+msgstr ""
+
+#: inc/widgets.php:459
+#@ natural
+msgid "Natural Popular Posts"
+msgstr ""
+
+#: inc/widgets.php:596
+#@ natural
+msgid "Natural Post Tags"
+msgstr ""
+
+#: inc/widgets.php:648
+#@ natural
+msgid "Natural Recent Portfolio Items"
+msgstr ""
+
+#: inc/widgets.php:718
+#@ natural
+msgid "Natural Most Liked Portfolio Items"
+msgstr ""
+
+#: inc/widgets.php:789
+#@ natural
+msgid "Natural Most Liked Posts"
+msgstr ""
+
